@@ -1,0 +1,134 @@
+2026.05.05 20:42:56 INFO  Started: Metals version 1.6.7 in folders '/Users/holly.thomas@m10s.io/gardening-dashboard-backend' for client Visual Studio Code 1.116.0.
+2026.05.05 20:42:56 INFO  Memory monitor started
+2026.05.05 20:42:56 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.05 20:42:56 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 20:42:57 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 20:43:04 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 20:43:10 INFO  running '/opt/homebrew/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'
+2026.05.05 20:43:10 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 20:43:14 INFO  [info] welcome to sbt 1.12.11 (Eclipse Adoptium Java 17.0.18)
+2026.05.05 20:43:14 INFO  [info] loading settings for project gardening-dashboard-backend-build-build-build from metals.sbt...
+2026.05.05 20:43:15 INFO  [info] loading project definition from /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/project/project/project
+2026.05.05 20:43:15 INFO  [info] loading settings for project gardening-dashboard-backend-build-build from metals.sbt...
+2026.05.05 20:43:15 INFO  [info] loading project definition from /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/project/project
+2026.05.05 20:43:17 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/app/controllers/HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.05.05 20:43:17 INFO  [success] Generated .bloop/gardening-dashboard-backend-build-build.json
+2026.05.05 20:43:17 INFO  [success] Total time: 1 s, completed May 5, 2026, 8:43:17 PM
+2026.05.05 20:43:17 INFO  [info] loading settings for project gardening-dashboard-backend-build from metals.sbt, plugins.sbt...
+2026.05.05 20:43:17 INFO  [info] loading project definition from /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/project
+2026.05.05 20:43:20 INFO  [success] Generated .bloop/gardening-dashboard-backend-build.json
+2026.05.05 20:43:20 INFO  [success] Total time: 3 s, completed May 5, 2026, 8:43:20 PM
+2026.05.05 20:43:20 INFO  [info] loading settings for project root from build.sbt...
+2026.05.05 20:43:20 INFO  [info]   __              __
+2026.05.05 20:43:20 INFO  [info]   \ \     ____   / /____ _ __  __
+2026.05.05 20:43:20 INFO  [info]    \ \   / __ \ / // __ `// / / /
+2026.05.05 20:43:20 INFO  [info]    / /  / /_/ // // /_/ // /_/ /
+2026.05.05 20:43:20 INFO  [info]   /_/  / .___//_/ \__,_/ \__, /
+2026.05.05 20:43:20 INFO  [info]       /_/               /____/
+2026.05.05 20:43:20 INFO  [info] 
+2026.05.05 20:43:20 INFO  [info] Version 3.0.10 running Java 17.0.18
+2026.05.05 20:43:20 INFO  [info] 
+2026.05.05 20:43:20 INFO  [info] Play is run entirely by the community. Please consider contributing and/or donating:
+2026.05.05 20:43:20 INFO  [info] https://www.playframework.com/sponsors
+2026.05.05 20:43:20 INFO  [info] 
+2026.05.05 20:43:27 INFO  [success] Generated .bloop/root.json
+2026.05.05 20:43:27 INFO  [success] Generated .bloop/root-test.json
+2026.05.05 20:43:27 INFO  [success] Total time: 6 s, completed May 5, 2026, 8:43:27 PM
+2026.05.05 20:43:27 INFO  time: ran 'sbt bloopInstall' in 17s
+2026.05.05 20:43:27 INFO  Attempting to connect to the build server...
+2026.05.05 20:43:27 INFO  No running Bloop server found, starting one.
+2026.05.05 20:43:28 INFO  Starting compilation server
+2026.05.05 20:43:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/holly.thomas@m10s.io/gardening-dashboard-backend/.metals/bsp.trace.json or /Users/holly.thomas@m10s.io/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.05.05 20:43:30 INFO  time: Connected to build server in 3.29s
+2026.05.05 20:43:30 INFO  Connected to Build server: Bloop v2.0.19
+2026.05.05 20:43:32 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.05 20:43:36 INFO  time: indexed workspace in 5.92s
+2026.05.05 20:43:37 INFO  compiling root (7 scala sources and 1 java source)
+2026.05.05 20:43:39 INFO  time: compiled root in 2.8s
+2026.05.05 20:43:51 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:43:51 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:43:51 WARN  no build target for: /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt
+2026.05.05 20:43:51 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:43:51 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:43:51 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:43:59 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:45:43 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:45:43 WARN  no build target for: /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt
+2026.05.05 20:45:44 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:45:43 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:45:43 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:45:43 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:46:39 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+May 05, 2026 8:47:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.05.05 20:48:52 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:49:57 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:00 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:00 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:02 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:02 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:02 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:02 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:02 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:03 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:32 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:34 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:34 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:34 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:34 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:34 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:35 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:35 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:36 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:36 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:50:36 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:54:25 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:54:25 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:54:26 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:54:26 WARN  no build target for: /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt
+2026.05.05 20:54:26 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:54:30 INFO  running '/opt/homebrew/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'
+2026.05.05 20:54:31 INFO  [info] welcome to sbt 1.12.11 (Eclipse Adoptium Java 17.0.18)
+2026.05.05 20:54:31 INFO  [info] loading settings for project gardening-dashboard-backend-build-build-build from metals.sbt...
+2026.05.05 20:54:31 INFO  [info] loading project definition from /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/project/project/project
+2026.05.05 20:54:32 INFO  [info] loading settings for project gardening-dashboard-backend-build-build from metals.sbt...
+2026.05.05 20:54:32 INFO  [info] loading project definition from /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/project/project
+2026.05.05 20:54:32 INFO  [success] Generated .bloop/gardening-dashboard-backend-build-build.json
+2026.05.05 20:54:32 INFO  [success] Total time: 1 s, completed May 5, 2026, 8:54:33 PM
+2026.05.05 20:54:32 INFO  [info] loading settings for project gardening-dashboard-backend-build from metals.sbt, plugins.sbt...
+2026.05.05 20:54:32 INFO  [info] loading project definition from /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/project
+2026.05.05 20:54:34 INFO  [success] Generated .bloop/gardening-dashboard-backend-build.json
+2026.05.05 20:54:34 INFO  [success] Total time: 0 s, completed May 5, 2026, 8:54:34 PM
+2026.05.05 20:54:34 INFO  [info] loading settings for project root from build.sbt...
+2026.05.05 20:54:34 INFO  [info]   __              __
+2026.05.05 20:54:34 INFO  [info]   \ \     ____   / /____ _ __  __
+2026.05.05 20:54:34 INFO  [info]    \ \   / __ \ / // __ `// / / /
+2026.05.05 20:54:34 INFO  [info]    / /  / /_/ // // /_/ // /_/ /
+2026.05.05 20:54:34 INFO  [info]   /_/  / .___//_/ \__,_/ \__, /
+2026.05.05 20:54:34 INFO  [info]       /_/               /____/
+2026.05.05 20:54:34 INFO  [info] 
+2026.05.05 20:54:34 INFO  [info] Version 3.0.10 running Java 17.0.18
+2026.05.05 20:54:34 INFO  [info] 
+2026.05.05 20:54:34 INFO  [info] Play is run entirely by the community. Please consider contributing and/or donating:
+2026.05.05 20:54:34 INFO  [info] https://www.playframework.com/sponsors
+2026.05.05 20:54:34 INFO  [info] 
+2026.05.05 20:54:37 INFO  [success] Generated .bloop/root.json
+2026.05.05 20:54:37 INFO  [success] Generated .bloop/root-test.json
+2026.05.05 20:54:37 INFO  [success] Total time: 3 s, completed May 5, 2026, 8:54:37 PM
+2026.05.05 20:54:37 INFO  time: ran 'sbt bloopInstall' in 7s
+2026.05.05 20:54:37 INFO  Disconnecting from Bloop session...
+2026.05.05 20:54:37 INFO  Shut down connection with build server.
+2026.05.05 20:54:37 INFO  Attempting to connect to the build server...
+2026.05.05 20:54:37 INFO  Found a Bloop server running
+2026.05.05 20:54:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/holly.thomas@m10s.io/gardening-dashboard-backend/.metals/bsp.trace.json or /Users/holly.thomas@m10s.io/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.05.05 20:54:37 INFO  time: Connected to build server in 0.13s
+2026.05.05 20:54:37 INFO  Connected to Build server: Bloop v2.0.19
+2026.05.05 20:54:39 INFO  time: indexed workspace in 1.5s
+2026.05.05 20:54:39 WARN  no build target for: /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt
+2026.05.05 20:54:39 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:54:39 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:56:39 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:56:39 WARN  no build target for: /Users/holly.thomas@m10s.io/gardening-dashboard-backend/build.sbt
+2026.05.05 20:56:39 WARN  no build target for: /Users/holly.thomas@m10s.io/gardening-dashboard-backend/build.sc
+2026.05.05 20:56:39 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/gardening-dashboard-backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.18
+2026.05.05 20:56:39 INFO  no build target found for /Users/holly.thomas@m10s.io/gardening-dashboard-backend/build.sc. Using presentation compiler with project's scala-library version: 2.13.18
