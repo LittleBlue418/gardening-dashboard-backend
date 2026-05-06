@@ -5,7 +5,7 @@ target
 /.classpath
 /.project
 /.settings
-/.metals
+.metals/
 /.bloop
 .bsp/
 .vscode/
