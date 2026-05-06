@@ -1,9 +1,13 @@
 logs
 target
-/.bsp
 /.idea
 /.idea_modules
 /.classpath
 /.project
 /.settings
+/.metals
+/.bloop
+.bsp/
+.vscode/
 /RUNNING_PID
+conf/application.local.conf
