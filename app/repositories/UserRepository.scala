@@ -8,7 +8,7 @@ import org.mongodb.scala.model.ReplaceOptions
 import scala.concurrent.{ExecutionContext, Future}
 
 @Singleton
-class UserRepository @Inject() (mongoConnection: MongoCollection)(implicit
+class UserRepository @Inject() (mongoConnection: MongoConnection)(implicit
     ec: ExecutionContext
 ) {
   private val collection: MongoCollection[Document] =
@@ -25,14 +25,13 @@ class UserRepository @Inject() (mongoConnection: MongoCollection)(implicit
     googleId = doc.getString("googleId"),
     email = doc.getString("email"),
     name = doc.getString("name"),
-    pictureUrl = doc.getString("pictureUrl")
+    pictureUrl = Option(doc.getString("pictureUrl"))
   )
 
   def findByGoogleId(googleId: String): Future[Option[User]] = {
     collection
       .find(equal("googleId", googleId))    // FindObservable[Document]
       .headOption()                         // SingleObservable[Option[Document]]
-      .toFuture()                           // Future[Option[Document]]
       .map(_.map(docToUser))                // Future[Option[User]]
   }
 
@@ -40,7 +39,6 @@ class UserRepository @Inject() (mongoConnection: MongoCollection)(implicit
     collection
       .find(equal("email", email)) 
       .headOption() 
-      .toFuture() 
       .map(_.map(docToUser)) 
   }
 
