@@ -11,3 +11,8 @@ target
 .vscode/
 /RUNNING_PID
 conf/application.local.conf
+# Build artifacts
+project/.bloop/
+project/project/
+project/project/target/
+project/target/

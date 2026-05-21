@@ -37,30 +37,17 @@ Building a Scala backend using Play Framework and MongoDB Atlas to enable multi-
   - `Calendar.scala`, `PlantingRecordYear.scala` - Calendar/scheduling models
   - `PlantingTypes.scala` - Enums and type definitions
   - `package.scala` - JSON formatters
-- [x] Repository Layer (Phase 1):
+- [x] Repository Layer:
   - `MongoConnection.scala` - MongoDB connection singleton
   - `UserRepository.scala` - Complete CRUD for User collection (findByGoogleId, findByEmail, create, update)
+  - `ToDoItemRepository.scala` - Complete CRUD for ToDoItem collection (findByUser, create, update, delete)
+  - **Data model decision:** Added `userId: String` field to `ToDoItem` - each user owns their complete set of tasks with their own completion states (simpler than separate completion tracking)
 
 ---
 
 ## 🚀 Next Steps
 
-### 1. Repository Layer (Data Access) - Continued
-
-#### `TaskCompletionRepository.scala`
-CRUD operations for task completion states:
-- `findByUser(userId: String): Future[Seq[TaskCompletion]]`
-- `findByUserAndTask(userId: String, taskId: String): Future[Option[TaskCompletion]]`
-- `upsert(taskCompletion: TaskCompletion): Future[TaskCompletion]`
-- `delete(userId: String, taskId: String): Future[Boolean]`
-
-**Note:** `upsert` = update if exists, insert if new (critical for checkboxes!)
-
-**Pattern to follow:** Same as UserRepository - helper methods for conversion (`taskCompletionToDoc`, `docToTaskCompletion`) and async CRUD operations.
-
----
-
-### 2. Service Layer (Business Logic)
+### 1. Service Layer (Business Logic)
 
 Create `app/services/` directory with business logic classes.
 
@@ -82,7 +69,7 @@ Controllers should be thin - just HTTP request/response handling. Business logic
 
 ---
 
-### 3. Controllers (API Endpoints)
+### 2. Controllers (API Endpoints)
 
 Create controller classes in `app/controllers/` to handle HTTP requests.
 
@@ -114,31 +101,37 @@ Handle OAuth flow and session management.
 
 ---
 
-#### `TaskCompletionController.scala`
-Handle CRUD operations for task checkbox states.
+#### `ToDoItemController.scala`
+Handle CRUD operations for user tasks.
 
 **Endpoints needed:**
-- `GET /api/tasks/completions` - Get all completions for current user
+- `GET /api/todos` - Get all tasks for current user
   - Check session for userId
-  - Call `taskRepo.findByUser(userId)`
-  - Return JSON array of completions
+  - Call `toDoItemRepo.findByUser(userId)`
+  - Return JSON array of ToDoItems
 
-- `PUT /api/tasks/completions/:taskId` - Update/create completion
+- `POST /api/todos` - Create new task
   - Check session for userId
-  - Parse JSON body: `{ "completed": true }`
-  - Call `taskRepo.upsert(TaskCompletion(...))`
-  - Return updated completion
+  - Parse JSON body: `{ "title": "...", "done": false, "timescale": "short", "priority": 1 }`
+  - Call `toDoItemRepo.create(ToDoItem(...))`
+  - Return created task
 
-- `DELETE /api/tasks/completions/:taskId` - Delete completion
+- `PUT /api/todos/:id` - Update task (including toggling done state)
   - Check session for userId
-  - Call `taskRepo.delete(userId, taskId)`
+  - Parse JSON body with updated fields
+  - Call `toDoItemRepo.update(ToDoItem(...))`
+  - Return updated task
+
+- `DELETE /api/todos/:id` - Delete task
+  - Check session for userId
+  - Call `toDoItemRepo.delete(userId, id)`
   - Return 204 No Content
 
 **Security:** All endpoints must check `request.session.get("userId")` - return 401 Unauthorized if not present.
 
 ---
 
-### 4. Routes Configuration
+### 3. Routes Configuration
 
 Update `conf/routes` file to wire HTTP endpoints to controller methods.
 
@@ -149,10 +142,11 @@ GET     /authenticate/google             controllers.AuthController.googleCallba
 GET     /api/auth/me                     controllers.AuthController.currentUser
 POST    /api/auth/logout                 controllers.AuthController.logout
 
-# Task Completions
-GET     /api/tasks/completions           controllers.TaskCompletionController.getAll
-PUT     /api/tasks/completions/:taskId   controllers.TaskCompletionController.update(taskId: String)
-DELETE  /api/tasks/completions/:taskId   controllers.TaskCompletionController.delete(taskId: String)
+# To-Do Items
+GET     /api/todos                       controllers.ToDoItemController.getAll
+POST    /api/todos                       controllers.ToDoItemController.create
+PUT     /api/todos/:id                   controllers.ToDoItemController.update(id: String)
+DELETE  /api/todos/:id                   controllers.ToDoItemController.delete(id: String)
 ```
 
 **Note:** Keep the existing `HomeController.index` route for now (Play Framework default).
@@ -168,7 +162,7 @@ Before testing, ensure MongoDB is configured:
 1. **Create MongoDB Atlas account** (if not done)
 2. **Create free cluster** (M0 tier)
 3. **Database name:** `gardening-dashboard`
-4. **Collections:** `users`, `taskCompletions`
+4. **Collections:** `users`, `toDoItems`
 5. **Network access:** Add `0.0.0.0/0` (development only)
 6. **Database user:** Create with `readWrite` permissions
 7. **Get connection string** and add to `conf/application.conf`:
@@ -216,11 +210,11 @@ Test with `curl` or Postman:
 - [ ] Google OAuth flow redirects correctly
 - [ ] After OAuth: session cookie is set
 - [ ] `GET /api/auth/me` returns `{ "authenticated": true, "userId": "..." }`
-- [ ] `GET /api/tasks/completions` returns empty array for new user
-- [ ] `PUT /api/tasks/completions/test-task` with `{ "completed": true }` creates record
-- [ ] `GET /api/tasks/completions` returns the created completion
-- [ ] `PUT` with same taskId updates (upsert behavior)
-- [ ] `DELETE /api/tasks/completions/test-task` removes record
+- [ ] `GET /api/todos` returns empty array for new user
+- [ ] `POST /api/todos` with task data creates new ToDoItem
+- [ ] `GET /api/todos` returns the created task
+- [ ] `PUT /api/todos/:id` updates task (including toggling `done` state)
+- [ ] `DELETE /api/todos/:id` removes task
 - [ ] Unauthenticated requests return 401
 
 ### MongoDB Verification
@@ -232,7 +226,7 @@ mongosh "mongodb+srv://cluster.mongodb.net/gardening-dashboard" --username <user
 # Check collections
 use gardening-dashboard
 db.users.find()
-db.taskCompletions.find()
+db.toDoItems.find()
 ```
 
 ---

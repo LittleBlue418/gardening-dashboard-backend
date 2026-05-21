@@ -5,10 +5,11 @@ import play.api.libs.json._
 
 case class ToDoItem(
     _id: ObjectId = new ObjectId(),
+    userId: String,
     title: String,
     done: Boolean,
-    toDoTimescale: ToDoTimescale,
-    priority: ToDoPriority
+    timescale: Timescale,
+    priority: Priority
 )
 
 object ToDoItem {
