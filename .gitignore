@@ -16,3 +16,6 @@ project/.bloop/
 project/project/
 project/project/target/
 project/target/
+
+# Personal notes
+SCALA_NOTES.md
