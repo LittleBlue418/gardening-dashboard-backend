@@ -49,7 +49,7 @@ class UserRepository @Inject() (mongoConnection: MongoConnection)(implicit
       .map(_ => user)
   }
 
-  def update(user: User): Future[Boolean] = {
+  def update(user: User): Future[User] = {
     collection
         .replaceOne(
             equal("googleId", user.googleId),
@@ -57,6 +57,6 @@ class UserRepository @Inject() (mongoConnection: MongoConnection)(implicit
             ReplaceOptions().upsert(true)
         )
         .toFuture()
-        .map(result => result.getModifiedCount > 0)
+        .map(_ => user)
   }
 }
