@@ -1,0 +1,32 @@
+[
+  {
+    "action": "Start indoors",
+    "background": "#fff3e0",
+    "border": "#ff9800"
+  },
+  {
+    "action": "Start indoors then grow on",
+    "background": "#fff3e0",
+    "border": "#ff9800"
+  },
+  {
+    "action": "Direct sow",
+    "background": "#d1fae5",
+    "border": "#10b981"
+  },
+  {
+    "action": "Transplant",
+    "background": "#dbeafe",
+    "border": "#3b82f6"
+  },
+  {
+    "action": "Plant in ground",
+    "background": "#d1fae5",
+    "border": "#10b981"
+  },
+  {
+    "action": "Harvest",
+    "background": "#f8f9fa",
+    "border": "#4caf50"
+  }
+]

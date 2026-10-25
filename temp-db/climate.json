@@ -1,0 +1,62 @@
+[
+  {
+    "location": "Stockholm, Sweden",
+    "hardinessZones": [
+      {
+        "system": "swedish",
+        "value": "3",
+        "source": "zonkartan.se (Svensk Trädgård) address lookup, 2026-10-16. Covers woody plants only (trees, bushes, fruit), not vegetables."
+      }
+    ],
+    "lastSpringFrost": {
+      "from": {
+        "month": "May",
+        "day": 15
+      },
+      "to": {
+        "month": "May",
+        "day": 31
+      },
+      "confirmed": false,
+      "source": null
+    },
+    "firstAutumnFrost": {
+      "from": {
+        "month": "September",
+        "day": 20
+      },
+      "to": {
+        "month": "October",
+        "day": 10
+      },
+      "confirmed": false,
+      "source": null
+    },
+    "vegetationPeriod": {
+      "minDays": 190,
+      "maxDays": 200,
+      "source": "SMHI Vegetationsperiod map, 1991–2020 (days with mean temperature above +5°C)."
+    },
+    "frozenGroundMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "snowCoverMonths": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "outdoorSowingFrom": {
+      "month": "April",
+      "day": 20
+    },
+    "notes": [
+      "Deep lying snow ~2 months — insulating, but the ground freezes solid.",
+      "Winter harvest is from stores (sand boxes, cured onions/garlic), not the ground.",
+      "Plant garlic & overwintering onions early (Sept–Oct) to root before freeze."
+    ]
+  }
+]

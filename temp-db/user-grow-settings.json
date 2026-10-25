@@ -1,0 +1,47 @@
+[
+  {
+    "userId": "000000000000000000000001",
+    "locations": [
+      {
+        "location": "house",
+        "label": "House",
+        "icon": "🏠",
+        "description": "Warm (~20°C) but dim."
+      },
+      {
+        "location": "conservatory",
+        "label": "Conservatory",
+        "icon": "🪟",
+        "description": "Cold (~2–8°C) but bright. Never freezes."
+      },
+      {
+        "location": "greenhouse",
+        "label": "Greenhouse",
+        "icon": "🏡",
+        "description": "Unheated glass. Summer only; frozen solid Nov–Mar."
+      },
+      {
+        "location": "outside",
+        "label": "Outside",
+        "icon": "🌳",
+        "description": "Open beds and boxes."
+      }
+    ],
+    "equipment": [
+      {
+        "equipment": "heat-mat",
+        "label": "Heat mat",
+        "icon": "🌡️",
+        "description": "Bottom heat under seed trays for reliable germination.",
+        "locations": ["house", "conservatory"]
+      },
+      {
+        "equipment": "grow-lamp",
+        "label": "Grow lamp",
+        "icon": "💡",
+        "description": "Hangs over seed trays. Light, not warmth, limits winter sowing.",
+        "locations": ["house", "conservatory"]
+      }
+    ]
+  }
+]
