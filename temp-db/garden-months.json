@@ -1,0 +1,124 @@
+[
+  {
+    "userId": "000000000000000000000001",
+    "month": "January",
+    "summary": "Deep winter. Eat from stores, plan the year, order seeds.",
+    "tasks": [
+      "Order seeds and plan this year's crop rotation",
+      "Check stored onions, potatoes & squash; remove any rot"
+    ]
+  },
+  {
+    "userId": "000000000000000000000001",
+    "month": "February",
+    "summary": "Still frozen. Chillies, onions and leeks start indoors under lights.",
+    "tasks": [
+      "Sharpen and clean tools before the season starts"
+    ]
+  },
+  {
+    "userId": "000000000000000000000001",
+    "month": "March",
+    "summary": "Peak indoor sowing. Snow lingers and beds stay frozen.",
+    "tasks": [
+      "Prepare beds and add compost once the snow's gone and soil is workable",
+      "Keep sowing tomatoes, brassicas & onions indoors"
+    ]
+  },
+  {
+    "userId": "000000000000000000000001",
+    "month": "April",
+    "summary": "Soil thaws from ~20 April. Onion sets, first hardy sowings, chit potatoes.",
+    "tasks": [
+      "Harden off hardy seedlings (onions, brassicas) on the sheltered deck",
+      "Watch the forecast — frost is still likely here",
+      "Greenhouse: harden off seedlings and grow on early sowings",
+      "Chit seed potatoes on a bright, cool sill (10–15°C) for a few weeks before planting",
+      "Force rhubarb under a bucket once the buds show"
+    ]
+  },
+  {
+    "userId": "000000000000000000000001",
+    "month": "May",
+    "summary": "Plant potatoes. Tender crops go out once frost passes, late May.",
+    "tasks": [
+      "Keep fleece handy for late frosts",
+      "Mulch beds to lock in moisture",
+      "Greenhouse: your 18 slots fill up now as summer crops go in",
+      "Harden off tender seedlings on the sheltered deck before planting out after the last frost"
+    ]
+  },
+  {
+    "userId": "000000000000000000000001",
+    "month": "June",
+    "summary": "Long light, fast growth. Weed, feed, train tomatoes.",
+    "tasks": [
+      "Side-shoot tomatoes and feed weekly",
+      "Hoe weeds while they're still small",
+      "Greenhouse: water daily, feed weekly, ventilate, and side-shoot & train tomatoes"
+    ]
+  },
+  {
+    "userId": "000000000000000000000001",
+    "month": "July",
+    "summary": "Peak season. Water, pick, lift garlic.",
+    "tasks": [
+      "Water deeply in dry spells",
+      "Dry and store lifted garlic somewhere airy",
+      "Greenhouse: peak cropping — keep picking, and damp down in the heat"
+    ]
+  },
+  {
+    "userId": "000000000000000000000001",
+    "month": "August",
+    "summary": "Main harvest. Sow green manure, order autumn sets.",
+    "tasks": [
+      "Order garlic and overwintering onion sets",
+      "Sow green manure on cleared beds",
+      "Greenhouse: keep picking; strip lower tomato leaves for airflow & ripening"
+    ]
+  },
+  {
+    "userId": "000000000000000000000001",
+    "month": "September",
+    "summary": "First frosts from ~20 Sept. Plant garlic, harvest and cure for storage.",
+    "tasks": [
+      "Cure onions fully before storing",
+      "Have fleece ready as frost approaches",
+      "Greenhouse: clear & scrub emptying slots as they finish",
+      "Plant garlic so it roots before the ground freezes",
+      "Move tender pots into the frost-free conservatory before the first frost"
+    ]
+  },
+  {
+    "userId": "000000000000000000000001",
+    "month": "October",
+    "summary": "Clear and mulch beds; store the last crops before the freeze.",
+    "tasks": [
+      "Clear spent crops and add them to the compost",
+      "Mulch bare beds or sow green manure",
+      "Lift hardy roots (carrots, beetroot, parsnips) into sand boxes before the freeze",
+      "Greenhouse: clear spent crops & scrub down before it freezes"
+    ]
+  },
+  {
+    "userId": "000000000000000000000001",
+    "month": "November",
+    "summary": "Hard frosts begin. Greenhouse empty, garden put to bed.",
+    "tasks": [
+      "Mulch and fleece overwintering crops (garlic, onions)",
+      "Drain & store hoses and water butts before they freeze and crack",
+      "Clean, oil and store tools",
+      "Greenhouse: clear it — unheated, it freezes solid now"
+    ]
+  },
+  {
+    "userId": "000000000000000000000001",
+    "month": "December",
+    "summary": "Dark and frozen. Eat from stores, plan next year, dream of seeds.",
+    "tasks": [
+      "Plan next season and order seeds",
+      "Grow microgreens on the windowsill"
+    ]
+  }
+]
