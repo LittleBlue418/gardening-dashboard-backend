@@ -2,6 +2,9 @@
   {
     "name": "Tomato",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🍅"
     ],
@@ -71,6 +74,9 @@
   {
     "name": "Pepper",
     "variety": "Chilli",
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🌶️"
     ],
@@ -140,6 +146,9 @@
   {
     "name": "Pepper",
     "variety": "Sweet",
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🫑"
     ],
@@ -208,6 +217,9 @@
   {
     "name": "Cucumber",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥒"
     ],
@@ -254,6 +266,9 @@
   {
     "name": "Pumpkin",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🎃"
     ],
@@ -300,6 +315,9 @@
   {
     "name": "Squash",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🎃"
     ],
@@ -357,6 +375,9 @@
   {
     "name": "Onion",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🧅"
     ],
@@ -437,6 +458,9 @@
   {
     "name": "Onion",
     "variety": "Spring",
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🧅"
     ],
@@ -476,6 +500,9 @@
   {
     "name": "Leek",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🧅"
     ],
@@ -536,6 +563,9 @@
   {
     "name": "Garlic",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🧄"
     ],
@@ -592,6 +622,9 @@
   {
     "name": "Carrot",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥕"
     ],
@@ -683,6 +716,9 @@
   {
     "name": "Parsnip",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥕"
     ],
@@ -718,6 +754,9 @@
   {
     "name": "Beetroot",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥬"
     ],
@@ -786,6 +825,9 @@
   {
     "name": "Radish",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🔴"
     ],
@@ -890,6 +932,9 @@
   {
     "name": "Turnip",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🍠"
     ],
@@ -938,6 +983,9 @@
   {
     "name": "Kohlrabi",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥬"
     ],
@@ -976,6 +1024,9 @@
   {
     "name": "Pea",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🫛"
     ],
@@ -1011,6 +1062,9 @@
   {
     "name": "Pea",
     "variety": "Sugar snap",
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🫛"
     ],
@@ -1046,6 +1100,9 @@
   {
     "name": "Bean",
     "variety": "Broad",
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🫘"
     ],
@@ -1081,6 +1138,9 @@
   {
     "name": "Bean",
     "variety": "French",
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🫘"
     ],
@@ -1126,6 +1186,9 @@
   {
     "name": "Bean",
     "variety": "Runner",
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🫘"
     ],
@@ -1171,6 +1234,9 @@
   {
     "name": "Bean",
     "variety": "Borlotti",
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🫘"
     ],
@@ -1204,6 +1270,9 @@
   {
     "name": "Broccoli",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥦"
     ],
@@ -1285,6 +1354,9 @@
   {
     "name": "Cabbage",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥬"
     ],
@@ -1332,6 +1404,9 @@
   {
     "name": "Cauliflower",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥦"
     ],
@@ -1378,6 +1453,9 @@
   {
     "name": "Kale",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥬"
     ],
@@ -1437,6 +1515,9 @@
   {
     "name": "Pak choi",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥬"
     ],
@@ -1483,6 +1564,9 @@
   {
     "name": "Mizuna",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥬"
     ],
@@ -1518,6 +1602,9 @@
   {
     "name": "Mustard greens",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥬"
     ],
@@ -1553,6 +1640,9 @@
   {
     "name": "Chard",
     "variety": "Rainbow",
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🌈"
     ],
@@ -1611,6 +1701,9 @@
   {
     "name": "Lettuce",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥗"
     ],
@@ -1696,6 +1789,9 @@
   {
     "name": "Winter salad",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥗"
     ],
@@ -1822,6 +1918,9 @@
   {
     "name": "Spinach",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥬"
     ],
@@ -1902,6 +2001,9 @@
   {
     "name": "Rocket",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🌿"
     ],
@@ -1983,6 +2085,9 @@
   {
     "name": "Corn salad",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🌿"
     ],
@@ -2029,6 +2134,9 @@
   {
     "name": "Fennel",
     "variety": "Florence",
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🌿"
     ],
@@ -2073,6 +2181,9 @@
   {
     "name": "Potato",
     "variety": null,
+    "lifecycle": "annual",
+    "category": "vegetable",
+    "form": "herbaceous",
     "icon": [
       "🥔"
     ],
@@ -2128,6 +2239,9 @@
   {
     "name": "Rhubarb",
     "variety": null,
+    "lifecycle": "perennial",
+    "category": "fruit",
+    "form": "herbaceous",
     "icon": [
       "🌿"
     ],
@@ -2183,6 +2297,9 @@
   {
     "name": "Strawberry",
     "variety": null,
+    "lifecycle": "perennial",
+    "category": "fruit",
+    "form": "herbaceous",
     "icon": [
       "🍓"
     ],
@@ -2206,6 +2323,9 @@
   {
     "name": "Currant",
     "variety": "Black",
+    "lifecycle": "perennial",
+    "category": "fruit",
+    "form": "bush",
     "icon": [
       "🍇"
     ],
@@ -2250,6 +2370,9 @@
   {
     "name": "Raspberry",
     "variety": null,
+    "lifecycle": "perennial",
+    "category": "fruit",
+    "form": "bush",
     "icon": [
       "🍇"
     ],
@@ -2295,6 +2418,9 @@
   {
     "name": "Apple",
     "variety": null,
+    "lifecycle": "perennial",
+    "category": "fruit",
+    "form": "tree",
     "icon": [
       "🍎"
     ],
@@ -2351,6 +2477,9 @@
   {
     "name": "Plum",
     "variety": null,
+    "lifecycle": "perennial",
+    "category": "fruit",
+    "form": "tree",
     "icon": [
       "🍑"
     ],
