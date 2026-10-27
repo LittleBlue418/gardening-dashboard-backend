@@ -8,6 +8,9 @@ case class Plant(
     _id: ObjectId = new ObjectId(),
     name: String,
     variety: Option[String],
+    lifecycle: Lifecycle, // as grown: Annual | Perennial
+    category: PlantCategory, // what it's grown for: Vegetable | Herb | Fruit | Ornamental
+    form: GrowthForm, // its shape: Herbaceous | Bush | Tree
     icon: List[String],
     notes: List[String], // general notes, not tied to a month
     weeksTillHarvest: Option[Int], // None for perennials (rhubarb, fruit)

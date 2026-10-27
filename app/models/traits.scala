@@ -188,3 +188,74 @@ object EquipmentType {
         }
     }
 }
+
+// How long a plant lives AS GROWN, not botanically: carrots and garlic are Annual here
+// because they're harvested in their first year.
+sealed trait Lifecycle
+object Lifecycle {
+    case object Annual extends Lifecycle // sown or planted, harvested and cleared within the year
+    case object Perennial extends Lifecycle // stays in the garden year after year
+
+    implicit val format: Format[Lifecycle] = new Format[Lifecycle] {
+        def reads(json: JsValue): JsResult[Lifecycle] = json match {
+            case JsString("annual")    => JsSuccess(Annual)
+            case JsString("perennial") => JsSuccess(Perennial)
+            case _                     => JsError("Invalid lifecycle")
+        }
+
+        def writes(lifecycle: Lifecycle): JsValue = lifecycle match {
+            case Annual    => JsString("annual")
+            case Perennial => JsString("perennial")
+        }
+    }
+}
+
+// What the plant is grown for. Independent of Lifecycle and GrowthForm, so a perennial
+// herb or a perennial vegetable (rhubarb) needs no special case.
+sealed trait PlantCategory
+object PlantCategory {
+    case object Vegetable extends PlantCategory
+    case object Herb extends PlantCategory
+    case object Fruit extends PlantCategory
+    case object Ornamental extends PlantCategory // grown for looks, shelter or wood, not to eat
+
+    implicit val format: Format[PlantCategory] = new Format[PlantCategory] {
+        def reads(json: JsValue): JsResult[PlantCategory] = json match {
+            case JsString("vegetable")  => JsSuccess(Vegetable)
+            case JsString("herb")       => JsSuccess(Herb)
+            case JsString("fruit")      => JsSuccess(Fruit)
+            case JsString("ornamental") => JsSuccess(Ornamental)
+            case _                      => JsError("Invalid plant category")
+        }
+
+        def writes(category: PlantCategory): JsValue = category match {
+            case Vegetable  => JsString("vegetable")
+            case Herb       => JsString("herb")
+            case Fruit      => JsString("fruit")
+            case Ornamental => JsString("ornamental")
+        }
+    }
+}
+
+// The plant's shape. "Fruit tree" = Fruit + Tree, "fruit bush" = Fruit + Bush.
+sealed trait GrowthForm
+object GrowthForm {
+    case object Herbaceous extends GrowthForm // soft-stemmed: vegetables, herbs, strawberries, rhubarb
+    case object Bush extends GrowthForm // woody, several stems: currants, raspberry canes
+    case object Tree extends GrowthForm // woody, one trunk: apple, plum
+
+    implicit val format: Format[GrowthForm] = new Format[GrowthForm] {
+        def reads(json: JsValue): JsResult[GrowthForm] = json match {
+            case JsString("herbaceous") => JsSuccess(Herbaceous)
+            case JsString("bush")       => JsSuccess(Bush)
+            case JsString("tree")       => JsSuccess(Tree)
+            case _                      => JsError("Invalid growth form")
+        }
+
+        def writes(form: GrowthForm): JsValue = form match {
+            case Herbaceous => JsString("herbaceous")
+            case Bush       => JsString("bush")
+            case Tree       => JsString("tree")
+        }
+    }
+}
