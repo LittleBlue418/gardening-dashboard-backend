@@ -1,16 +1,6 @@
 [
   {
-    "action": "Start indoors",
-    "background": "#fff3e0",
-    "border": "#ff9800"
-  },
-  {
-    "action": "Start indoors then grow on",
-    "background": "#fff3e0",
-    "border": "#ff9800"
-  },
-  {
-    "action": "Direct sow",
+    "action": "Sow",
     "background": "#d1fae5",
     "border": "#10b981"
   },

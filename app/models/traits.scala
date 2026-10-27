@@ -96,20 +96,18 @@ object Priority {
     }
 }
 
+// WHAT happens to a plant. WHERE it happens is the event's `locations`, never part of the action,
+// so "start indoors" is Sow in ["house"] and "sow outdoors" is Sow in ["outside"].
 sealed trait PlantingAction
 object PlantingAction {
-    case object StartIndoors extends PlantingAction // seed under cover
-    case object StartIndoorsThenGrowOn extends PlantingAction // germinate in the house, grow on in the conservatory
-    case object DirectSow extends PlantingAction // seed where it will grow
+    case object Sow extends PlantingAction // seed, wherever it's sown
     case object Transplant extends PlantingAction // seedling into its final spot
     case object PlantInGround extends PlantingAction // bulb, clove, tuber, crown, bush
     case object Harvest extends PlantingAction
 
     implicit val format: Format[PlantingAction] = new Format[PlantingAction] {
         def reads(json: JsValue): JsResult[PlantingAction] = json match {
-            case JsString("Start indoors")   => JsSuccess(StartIndoors)
-            case JsString("Start indoors then grow on") => JsSuccess(StartIndoorsThenGrowOn)
-            case JsString("Direct sow")      => JsSuccess(DirectSow)
+            case JsString("Sow")             => JsSuccess(Sow)
             case JsString("Transplant")      => JsSuccess(Transplant)
             case JsString("Plant in ground") => JsSuccess(PlantInGround)
             case JsString("Harvest")         => JsSuccess(Harvest)
@@ -117,9 +115,7 @@ object PlantingAction {
         }
 
         def writes(action: PlantingAction): JsValue = action match {
-            case StartIndoors  => JsString("Start indoors")
-            case StartIndoorsThenGrowOn => JsString("Start indoors then grow on")
-            case DirectSow     => JsString("Direct sow")
+            case Sow           => JsString("Sow")
             case Transplant    => JsString("Transplant")
             case PlantInGround => JsString("Plant in ground")
             case Harvest       => JsString("Harvest")

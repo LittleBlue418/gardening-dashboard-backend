@@ -1,6 +1,6 @@
 [
   {
-    "name": "Tomatoes",
+    "name": "Tomato",
     "variety": null,
     "icon": [
       "🍅"
@@ -9,40 +9,49 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "March"
         ],
-        "location": "house",
+        "locations": [
+          "house"
+        ],
         "equipment": [
           "grow-lamp"
         ],
         "note": "Sow late March, 6–8 weeks before planting out — earlier just makes leggy plants. Warm house; the conservatory's still too cold."
       },
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "April"
         ],
-        "location": "house",
+        "locations": [
+          "house"
+        ],
         "equipment": [],
-        "note": "Early April at the latest — still in time for a late-May greenhouse move."
+        "note": "Early April at the latest — still in time for the greenhouse move."
       },
       {
         "action": "Transplant",
         "months": [
-          "May"
+          "May",
+          "June"
         ],
-        "location": "greenhouse",
+        "locations": [
+          "greenhouse"
+        ],
         "equipment": [],
-        "note": "Move to the greenhouse after last frost; bury the stem deep."
+        "note": "Into the unheated greenhouse once nights stay above ~10°C there — usually late May, early June in a cold spring. Bury the stem deep."
       },
       {
         "action": "Harvest",
         "months": [
           "August"
         ],
-        "location": "greenhouse",
+        "locations": [
+          "greenhouse"
+        ],
         "equipment": [],
         "note": "Ripening fast in the greenhouse."
       },
@@ -51,15 +60,17 @@
         "months": [
           "September"
         ],
-        "location": "greenhouse",
+        "locations": [
+          "greenhouse"
+        ],
         "equipment": [],
-        "note": "Bring the last ones in before first frost."
+        "note": "Pick everything before the greenhouse gets frost (often late September). Green ones ripen indoors."
       }
     ]
   },
   {
-    "name": "Chillies",
-    "variety": null,
+    "name": "Pepper",
+    "variety": "Chilli",
     "icon": [
       "🌶️"
     ],
@@ -67,11 +78,13 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "January"
         ],
-        "location": "house",
+        "locations": [
+          "house"
+        ],
         "equipment": [
           "heat-mat",
           "grow-lamp"
@@ -79,37 +92,54 @@
         "note": "Longest season of all — germinate, then keep in the warm house."
       },
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "February"
         ],
-        "location": "house",
+        "locations": [
+          "house"
+        ],
         "equipment": [],
         "note": "Last chance to start if you didn't in January — warm-lovers, keep them in the house."
       },
       {
         "action": "Transplant",
         "months": [
-          "May"
+          "June"
         ],
-        "location": "greenhouse",
+        "locations": [
+          "greenhouse"
+        ],
         "equipment": [],
-        "note": "Greenhouse warmth for best ripening."
+        "note": "Early June, once the greenhouse stays warm at night — chillies sulk below ~12°C."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "August"
+        ],
+        "locations": [
+          "greenhouse"
+        ],
+        "equipment": [],
+        "note": "First fruits ripening."
       },
       {
         "action": "Harvest",
         "months": [
           "September"
         ],
-        "location": "greenhouse",
+        "locations": [
+          "greenhouse"
+        ],
         "equipment": [],
-        "note": "Pick everything remaining before first frost."
+        "note": "Pick everything remaining before the greenhouse gets frost."
       }
     ]
   },
   {
-    "name": "Sweet peppers",
-    "variety": null,
+    "name": "Pepper",
+    "variety": "Sweet",
     "icon": [
       "🫑"
     ],
@@ -117,47 +147,66 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "February"
         ],
-        "location": "house",
+        "locations": [
+          "house"
+        ],
         "equipment": [
           "heat-mat"
         ],
         "note": "Start from February — a long season, but they don't need a January start like chillies."
       },
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "March"
         ],
-        "location": "house",
+        "locations": [
+          "house"
+        ],
         "equipment": [],
         "note": "Last chance to start — warm-lovers, keep them in the house."
       },
       {
         "action": "Transplant",
         "months": [
-          "May"
+          "June"
         ],
-        "location": "greenhouse",
+        "locations": [
+          "greenhouse"
+        ],
         "equipment": [],
-        "note": "Greenhouse warmth for best ripening."
+        "note": "Early June, once the greenhouse stays warm at night."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "August"
+        ],
+        "locations": [
+          "greenhouse"
+        ],
+        "equipment": [],
+        "note": "First peppers — pick some green to keep the plant setting more."
       },
       {
         "action": "Harvest",
         "months": [
           "September"
         ],
-        "location": "greenhouse",
+        "locations": [
+          "greenhouse"
+        ],
         "equipment": [],
-        "note": "Pick everything remaining before first frost."
+        "note": "Pick everything remaining before the greenhouse gets frost."
       }
     ]
   },
   {
-    "name": "Cucumbers",
+    "name": "Cucumber",
     "variety": null,
     "icon": [
       "🥒"
@@ -166,36 +215,44 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "April"
         ],
-        "location": "house",
+        "locations": [
+          "house"
+        ],
         "equipment": [],
-        "note": "Sow late April; warm-lovers, so germinate and grow on in the warm house."
+        "note": "Sow late April, 3–4 weeks before planting out; warm-lovers, so germinate and grow on in the warm house."
       },
       {
         "action": "Transplant",
         "months": [
-          "May"
+          "June"
         ],
-        "location": "greenhouse",
+        "locations": [
+          "greenhouse"
+        ],
         "equipment": [],
-        "note": "Greenhouse; give them strings to climb."
+        "note": "Early June — cucumbers are the most cold-sensitive crop here. Give them strings to climb."
       },
       {
         "action": "Harvest",
         "months": [
-          "August"
+          "July",
+          "August",
+          "September"
         ],
-        "location": "greenhouse",
+        "locations": [
+          "greenhouse"
+        ],
         "equipment": [],
         "note": "Pick regularly to keep them coming."
       }
     ]
   },
   {
-    "name": "Pumpkins",
+    "name": "Pumpkin",
     "variety": null,
     "icon": [
       "🎃"
@@ -204,42 +261,39 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "April"
         ],
-        "location": "house",
+        "locations": [
+          "house"
+        ],
         "equipment": [
           "heat-mat"
         ],
-        "note": "Start late April, 2–3 weeks before last frost."
+        "note": "Start late April, 4 weeks before planting out."
       },
       {
         "action": "Transplant",
         "months": [
-          "May"
+          "June"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Plant out late May, after last frost, once hardened off. Fleece for the first few days."
+        "note": "Plant out early June, after the frost risk, once hardened off. Fleece for the first week."
       },
       {
         "action": "Harvest",
         "months": [
           "September"
         ],
-        "location": "outside",
-        "equipment": [],
-        "note": "Cure in the sun to harden skins."
-      },
-      {
-        "action": "Harvest",
-        "months": [
-          "October"
+        "locations": [
+          "outside"
         ],
-        "location": "outside",
         "equipment": [],
-        "note": "Bring in before the first hard frost."
+        "note": "Cut before the first frost (often late September), with a long stalk. Cure indoors somewhere warm for 1–2 weeks — the autumn sun is too weak."
       }
     ]
   },
@@ -253,11 +307,13 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "April"
         ],
-        "location": "house",
+        "locations": [
+          "house"
+        ],
         "equipment": [
           "heat-mat"
         ],
@@ -266,34 +322,40 @@
       {
         "action": "Transplant",
         "months": [
-          "May"
+          "June"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Plant out late May, after last frost, once hardened off. Fleece for the first few days."
+        "note": "Plant out early June, after the frost risk, once hardened off. Fleece for the first week."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "August"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Summer squash from August — pick small and often."
       },
       {
         "action": "Harvest",
         "months": [
           "September"
         ],
-        "location": "outside",
-        "equipment": [],
-        "note": "Cure in the sun to harden skins."
-      },
-      {
-        "action": "Harvest",
-        "months": [
-          "October"
+        "locations": [
+          "outside"
         ],
-        "location": "outside",
         "equipment": [],
-        "note": "Bring in before the first hard frost."
+        "note": "Cut winter squash before the first frost. Cure indoors somewhere warm for 1–2 weeks."
       }
     ]
   },
   {
-    "name": "Onions",
+    "name": "Onion",
     "variety": null,
     "icon": [
       "🧅"
@@ -302,56 +364,60 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors then grow on",
+        "action": "Sow",
         "months": [
           "February"
         ],
-        "location": "house",
+        "locations": [
+          "house",
+          "conservatory"
+        ],
         "equipment": [],
         "note": "Sow from seed for big bulbs by late summer — germinate warm, then grow on cool & bright in the conservatory so they don't get leggy."
       },
       {
-        "action": "Start indoors then grow on",
+        "action": "Sow",
         "months": [
           "March"
         ],
-        "location": "house",
+        "locations": [
+          "house",
+          "conservatory"
+        ],
         "equipment": [],
         "note": "Continue sowing; germinate warm, grow on cool in the conservatory."
       },
       {
         "action": "Transplant",
         "months": [
-          "April"
+          "April",
+          "May"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Late April, once the soil has thawed — plant out seedlings, or push in sets with tips just showing."
+        "note": "Late April to mid May, once the soil has thawed — plant out seedlings, or push in sets with tips just showing."
       },
       {
         "action": "Plant in ground",
         "months": [
           "September"
         ],
-        "location": "outside",
-        "equipment": [],
-        "note": "Plant overwintering sets now (not later) so they root before the freeze — riskier than garlic."
-      },
-      {
-        "action": "Plant in ground",
-        "months": [
-          "October"
+        "locations": [
+          "outside"
         ],
-        "location": "outside",
         "equipment": [],
-        "note": "Overwintering sets — only if snow cover is reliable; get them in early."
+        "note": "Overwintering sets — early September so they root before the freeze. Riskier than garlic; only with reliable snow cover."
       },
       {
         "action": "Harvest",
         "months": [
           "July"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Use as they size up."
       },
@@ -360,34 +426,55 @@
         "months": [
           "August"
         ],
-        "location": "outside",
-        "equipment": [],
-        "note": "Lift and cure in the sun until skins are papery."
-      }
-    ]
-  },
-  {
-    "name": "Spring onions",
-    "variety": null,
-    "icon": [
-      "🧅"
-    ],
-    "notes": [],
-    "weeksTillHarvest": null,
-    "events": [
-      {
-        "action": "Direct sow",
-        "months": [
-          "April"
+        "locations": [
+          "outside"
         ],
-        "location": "outside",
         "equipment": [],
-        "note": "Late April, once the soil has thawed — sow in rows; quick and easy."
+        "note": "Lift when the tops fall over; cure somewhere dry and airy until the skins are papery."
       }
     ]
   },
   {
-    "name": "Leeks",
+    "name": "Onion",
+    "variety": "Spring",
+    "icon": [
+      "🧅"
+    ],
+    "notes": [],
+    "weeksTillHarvest": null,
+    "events": [
+      {
+        "action": "Sow",
+        "months": [
+          "April",
+          "May",
+          "June",
+          "July"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "From late April, once the soil has thawed — a short row every 3–4 weeks."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "June",
+          "July",
+          "August",
+          "September"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Pull as needed, about 8–10 weeks after sowing."
+      }
+    ]
+  },
+  {
+    "name": "Leek",
     "variety": null,
     "icon": [
       "🧅"
@@ -396,49 +483,53 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors then grow on",
+        "action": "Sow",
         "months": [
           "February"
         ],
-        "location": "house",
+        "locations": [
+          "house",
+          "conservatory"
+        ],
         "equipment": [],
         "note": "Sow in modules; germinate warm, then move to the conservatory to keep them sturdy."
       },
       {
-        "action": "Start indoors then grow on",
+        "action": "Sow",
         "months": [
           "March"
         ],
-        "location": "house",
+        "locations": [
+          "house",
+          "conservatory"
+        ],
         "equipment": [],
         "note": "Continue sowing; grow on cool in the conservatory."
       },
       {
         "action": "Transplant",
         "months": [
-          "May"
-        ],
-        "location": "outside",
-        "equipment": [],
-        "note": "Plant out from late May — drop into deep dibbed holes and water in."
-      },
-      {
-        "action": "Transplant",
-        "months": [
+          "May",
           "June"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Finish planting out by end of June — later and they run out of season."
+        "note": "Plant out late May to end of June — drop into deep dibbed holes and water in. Later and they run out of season."
       },
       {
         "action": "Harvest",
         "months": [
-          "October"
+          "September",
+          "October",
+          "November"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Start lifting as needed (before the ground locks up)."
+        "note": "Lift as needed. Leeks take frost, but lift the rest before the ground freezes solid (usually November)."
       }
     ]
   },
@@ -456,41 +547,50 @@
         "months": [
           "September"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "From late month onward for next year."
+        "note": "Late September — gives the cloves time to root before the freeze."
       },
       {
         "action": "Plant in ground",
         "months": [
           "October"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Main planting — cloves pointy end up, 5cm deep, then mulch."
+        "note": "Early October at the latest — cloves pointy end up, 5cm deep, then mulch."
       },
       {
         "action": "Harvest",
         "months": [
           "June"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Snap off flower stalks (scapes) to boost bulb size; lift late month."
+        "note": "Snap off the flower stalks (scapes) to boost bulb size — and eat them."
       },
       {
         "action": "Harvest",
         "months": [
-          "July"
+          "July",
+          "August"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Lift late July when leaves start to yellow."
+        "note": "Lift late July to early August when the lower leaves yellow. Cure somewhere dry and airy."
       }
     ]
   },
   {
-    "name": "Carrots",
+    "name": "Carrot",
     "variety": null,
     "icon": [
       "🥕"
@@ -499,63 +599,89 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "March"
         ],
-        "location": "conservatory",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [],
-        "note": "Early carrots — sow in a deep tray in the conservatory for an early crop."
+        "note": "Early carrots — sow in a deep container in the conservatory. They hate being moved, so they grow on where they're sown."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "April"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Late April, once the soil has thawed — sow under fleece to keep carrot fly off."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
-          "May"
+          "May",
+          "June"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Succession sow every few weeks for a steady supply."
       },
       {
-        "action": "Direct sow",
-        "months": [
-          "June"
-        ],
-        "location": "outside",
-        "equipment": [],
-        "note": "Keep succession sowing."
-      },
-      {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "July"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Last main sowings for autumn roots."
+        "note": "Early July at the latest for autumn roots — later ones stay tiny."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "June"
+        ],
+        "locations": [
+          "conservatory"
+        ],
+        "equipment": [],
+        "note": "Early carrots from the conservatory."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "July",
+          "August",
+          "September"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Pull as they size up."
       },
       {
         "action": "Harvest",
         "months": [
           "October"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Lift and store in boxes of damp sand."
+        "note": "Lift the rest before the ground freezes and store in boxes of damp sand."
       }
     ]
   },
   {
-    "name": "Parsnips",
+    "name": "Parsnip",
     "variety": null,
     "icon": [
       "🥕"
@@ -564,20 +690,26 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
-          "April"
+          "April",
+          "May"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Late April, once the soil has thawed — slow to germinate, so be patient and keep moist."
+        "note": "Late April to May, once the soil has thawed — slow to germinate, so be patient and keep moist."
       },
       {
         "action": "Harvest",
         "months": [
-          "October"
+          "October",
+          "November"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Sweeter after frost — but lift and store before the ground freezes hard (a thick straw mulch buys a few weeks)."
       }
@@ -593,38 +725,48 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "May"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Direct sow; thin clusters to one seedling."
+        "note": "Direct sow once the soil is ~8°C; thin clusters to one seedling."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "June"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Continue for autumn roots."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "July"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "For a late crop."
+        "note": "Early July only, for a late crop."
       },
       {
         "action": "Harvest",
         "months": [
-          "August"
+          "July",
+          "August",
+          "September"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Golf-ball to tennis-ball size is sweetest."
       },
@@ -633,9 +775,11 @@
         "months": [
           "October"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Lift before heavy frost."
+        "note": "Lift the rest before heavy frost and store in damp sand."
       }
     ]
   },
@@ -649,81 +793,102 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "February"
         ],
-        "location": "conservatory",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [],
-        "note": "Sow direct in the frost-free conservatory — slow, but away before the greenhouse thaws."
+        "note": "Sow direct in the frost-free conservatory — slow in the cold, but the first fresh crop of the year."
       },
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "March"
         ],
-        "location": "conservatory",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [],
-        "note": "Sow direct in the conservatory now — outdoors is still frozen. (Greenhouse works too, late month.)"
+        "note": "Sow direct in the conservatory now — outdoors is still frozen."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "April"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Late April, once the soil has thawed — quick 25–30 day crop; sow little and often."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "May"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Keep the succession going."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
-          "June"
-        ],
-        "location": "outside",
-        "equipment": [],
-        "note": "Every couple of weeks."
-      },
-      {
-        "action": "Direct sow",
-        "months": [
+          "June",
           "July"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Keep going."
+        "note": "Small sowings only — long midsummer days and heat make radishes bolt and go woody. Part shade helps."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "August"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Quick autumn crop."
+        "note": "Best autumn sowing — shortening days, no bolting."
       },
       {
         "action": "Harvest",
         "months": [
-          "May"
+          "April"
         ],
-        "location": "outside",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [],
-        "note": "First quick crops ready."
+        "note": "First radishes from the conservatory."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "May",
+          "June",
+          "July",
+          "August",
+          "September"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Pull about 4 weeks after sowing, before they go woody."
       }
     ]
   },
   {
-    "name": "Turnips",
+    "name": "Turnip",
     "variety": null,
     "icon": [
       "🍠"
@@ -732,13 +897,41 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
+          "May",
           "June"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Quick summer roots."
+        "note": "Direct sow for quick summer roots."
+      },
+      {
+        "action": "Sow",
+        "months": [
+          "July"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Sow for autumn roots and to store."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "July",
+          "August",
+          "September",
+          "October"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Pull golf-ball size for eating fresh; lift the rest before the ground freezes."
       }
     ]
   },
@@ -752,18 +945,36 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
+          "May",
+          "June",
           "July"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Fast and hardy."
+        "note": "Fast and hardy — direct sow a short row every few weeks."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "July",
+          "August",
+          "September",
+          "October"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Pick at tennis-ball size, before they get woody."
       }
     ]
   },
   {
-    "name": "Peas",
+    "name": "Pea",
     "variety": null,
     "icon": [
       "🫛"
@@ -772,37 +983,34 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
-          "April"
+          "April",
+          "May"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Direct sow once the snow's gone and support with twiggy sticks."
+        "note": "Late April to May, once the snow has gone and the soil has thawed. Support with twiggy sticks."
       },
       {
         "action": "Harvest",
         "months": [
-          "June"
+          "July",
+          "August"
         ],
-        "location": "outside",
-        "equipment": [],
-        "note": "Pick young and often."
-      },
-      {
-        "action": "Harvest",
-        "months": [
-          "July"
+        "locations": [
+          "outside"
         ],
-        "location": "outside",
         "equipment": [],
-        "note": "Pick regularly to keep them producing."
+        "note": "Pick young and often to keep them producing."
       }
     ]
   },
   {
-    "name": "Sugar snap peas",
-    "variety": null,
+    "name": "Pea",
+    "variety": "Sugar snap",
     "icon": [
       "🫛"
     ],
@@ -810,28 +1018,34 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
-          "April"
+          "April",
+          "May"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Direct sow with twiggy support once the soil warms."
+        "note": "Late April to May with twiggy support, once the soil has thawed."
       },
       {
         "action": "Harvest",
         "months": [
-          "July"
+          "July",
+          "August"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Pick regularly for tender, sweet pods."
       }
     ]
   },
   {
-    "name": "Broad beans",
-    "variety": null,
+    "name": "Bean",
+    "variety": "Broad",
     "icon": [
       "🫘"
     ],
@@ -839,28 +1053,34 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
-          "April"
+          "April",
+          "May"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Very hardy — sow as soon as the soil has thawed. (Skip autumn sowing — they don't survive a Swedish winter.)"
       },
       {
         "action": "Harvest",
         "months": [
-          "June"
+          "July",
+          "August"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Best picked small and tender."
       }
     ]
   },
   {
-    "name": "Beans (French, runner & borlotti)",
-    "variety": null,
+    "name": "Bean",
+    "variety": "French",
     "icon": [
       "🫘"
     ],
@@ -868,40 +1088,116 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Direct sow",
-        "months": [
-          "May"
-        ],
-        "location": "outside",
-        "equipment": [],
-        "note": "Frost-tender — wait until after last frost (late May) and warm soil."
-      },
-      {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "June"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Warm soil now means quick growth."
+        "note": "Frost-tender — wait for early June and soil above ~12°C."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "July"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Very last sowing, early July only."
+        "note": "Early July only — later sowings won't crop before the first frost."
       },
       {
         "action": "Harvest",
         "months": [
-          "August"
+          "August",
+          "September"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Peak — freeze any surplus."
+        "note": "Pick young and often; stop at the first frost."
+      }
+    ]
+  },
+  {
+    "name": "Bean",
+    "variety": "Runner",
+    "icon": [
+      "🫘"
+    ],
+    "notes": [],
+    "weeksTillHarvest": null,
+    "events": [
+      {
+        "action": "Sow",
+        "months": [
+          "May"
+        ],
+        "locations": [
+          "house"
+        ],
+        "equipment": [],
+        "note": "Sow in deep pots mid May for a head start — runners need the whole season."
+      },
+      {
+        "action": "Transplant",
+        "months": [
+          "June"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Plant out early June, after the frost risk, at the foot of tall supports."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "August",
+          "September"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Pick often while the pods are young; stop at the first frost."
+      }
+    ]
+  },
+  {
+    "name": "Bean",
+    "variety": "Borlotti",
+    "icon": [
+      "🫘"
+    ],
+    "notes": [],
+    "weeksTillHarvest": null,
+    "events": [
+      {
+        "action": "Sow",
+        "months": [
+          "June"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Early June, soil above ~12°C — they need the whole season to dry."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "September"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Leave the pods to dry on the plant; pick before the first frost and finish drying indoors."
       }
     ]
   },
@@ -915,45 +1211,79 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors then grow on",
+        "action": "Sow",
         "months": [
           "March"
         ],
-        "location": "house",
+        "locations": [
+          "house",
+          "conservatory"
+        ],
         "equipment": [],
         "note": "Germinate warm, then grow on cool & bright in the conservatory for stocky module plants."
       },
       {
-        "action": "Start indoors then grow on",
+        "action": "Sow",
         "months": [
           "April"
         ],
-        "location": "house",
+        "locations": [
+          "house",
+          "conservatory"
+        ],
         "equipment": [],
-        "note": "Sow a second batch in modules for autumn heads — plant out in June."
+        "note": "Sow a second batch in modules for autumn heads."
       },
       {
         "action": "Transplant",
         "months": [
           "May"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Net against cabbage white butterflies."
+        "note": "Plant out once hardened off — brassicas take a light frost. Net against cabbage white butterflies."
       },
       {
         "action": "Transplant",
         "months": [
           "June"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Plant out module-grown autumn seedlings."
+        "note": "Plant out the second batch."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "July",
+          "August"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Cut the main head while tight, then pick the side shoots."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "September",
+          "October"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Autumn heads from the second batch — they take light frost."
       }
     ]
   },
   {
-    "name": "Cabbage & cauliflower",
+    "name": "Cabbage",
     "variety": null,
     "icon": [
       "🥬"
@@ -962,11 +1292,14 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors then grow on",
+        "action": "Sow",
         "months": [
           "March"
         ],
-        "location": "house",
+        "locations": [
+          "house",
+          "conservatory"
+        ],
         "equipment": [],
         "note": "Start warm, move to the conservatory once up — warm + dim makes brassicas leggy."
       },
@@ -975,9 +1308,70 @@
         "months": [
           "May"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Net against cabbage whites."
+        "note": "Plant out once hardened off. Net against cabbage whites."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "August",
+          "September",
+          "October"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Cut when firm. Cabbages take frost."
+      }
+    ]
+  },
+  {
+    "name": "Cauliflower",
+    "variety": null,
+    "icon": [
+      "🥦"
+    ],
+    "notes": [],
+    "weeksTillHarvest": null,
+    "events": [
+      {
+        "action": "Sow",
+        "months": [
+          "March"
+        ],
+        "locations": [
+          "house",
+          "conservatory"
+        ],
+        "equipment": [],
+        "note": "Start warm, move to the conservatory once up — warm + dim makes brassicas leggy."
+      },
+      {
+        "action": "Transplant",
+        "months": [
+          "May"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Plant out once hardened off. Net against cabbage whites."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "August",
+          "September"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Cut while the curds are tight. Cauliflowers don't take frost, so cut before it."
       }
     ]
   },
@@ -991,20 +1385,26 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors then grow on",
+        "action": "Sow",
         "months": [
+          "April",
           "May"
         ],
-        "location": "house",
+        "locations": [
+          "house",
+          "conservatory"
+        ],
         "equipment": [],
-        "note": "Sow in modules for autumn harvests."
+        "note": "Sow in modules; germinate warm, grow on cool in the conservatory."
       },
       {
         "action": "Transplant",
         "months": [
           "June"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Plant out module-grown kale."
       },
@@ -1013,14 +1413,29 @@
         "months": [
           "July"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Last chance to plant out — August is too late for a short season."
+        "note": "Early July at the latest — August is too late for a short season."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "September",
+          "October",
+          "November"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Pick lower leaves. Frost makes kale sweeter, and it keeps going until the snow buries it."
       }
     ]
   },
   {
-    "name": "Pak choi & oriental greens",
+    "name": "Pak choi",
     "variety": null,
     "icon": [
       "🥬"
@@ -1029,37 +1444,115 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Direct sow",
-        "months": [
-          "June"
-        ],
-        "location": "outside",
-        "equipment": [],
-        "note": "Fast — but water well or it bolts in heat."
-      },
-      {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "July"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Cooler now, so less likely to bolt."
+        "note": "Sow from mid July — before that, the long midsummer days make pak choi bolt."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "August"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Mustards and mizuna do well as it cools."
+        "note": "Best sowing as it cools."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "August",
+          "September",
+          "October"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Cut whole heads or pick leaves; they take light frost."
       }
     ]
   },
   {
-    "name": "Rainbow chard",
+    "name": "Mizuna",
     "variety": null,
+    "icon": [
+      "🥬"
+    ],
+    "notes": [],
+    "weeksTillHarvest": null,
+    "events": [
+      {
+        "action": "Sow",
+        "months": [
+          "July",
+          "August"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Sow from late July — it bolts in long midsummer days, and thrives as it cools."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "September",
+          "October"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Cut-and-come-again; takes light frost."
+      }
+    ]
+  },
+  {
+    "name": "Mustard greens",
+    "variety": null,
+    "icon": [
+      "🥬"
+    ],
+    "notes": [],
+    "weeksTillHarvest": null,
+    "events": [
+      {
+        "action": "Sow",
+        "months": [
+          "July",
+          "August"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Sow from late July — it bolts in long midsummer days, and gets milder as it cools."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "September",
+          "October"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Pick leaves young for salads, bigger for cooking; takes light frost."
+      }
+    ]
+  },
+  {
+    "name": "Chard",
+    "variety": "Rainbow",
     "icon": [
       "🌈"
     ],
@@ -1067,44 +1560,51 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "May"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Half-hardy — sow from May (not April) for a big summer supply."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "June"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Sow more rows for winter."
+        "note": "Sow more rows for autumn."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "July"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Sow for autumn and winter."
+        "note": "Early July for autumn picking. It won't survive the winter outside."
       },
       {
         "action": "Harvest",
         "months": [
-          "June",
           "July",
           "August",
           "September",
           "October"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Pick outer leaves as needed through summer and autumn."
+        "note": "Pick outer leaves as needed until the hard frosts."
       }
     ]
   },
@@ -1118,58 +1618,78 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors then grow on",
+        "action": "Sow",
         "months": [
           "March"
         ],
-        "location": "house",
+        "locations": [
+          "house",
+          "conservatory"
+        ],
         "equipment": [],
         "note": "Germinate, then grow on cool in the conservatory; it hates being warm and dark."
       },
       {
-        "action": "Direct sow",
+        "action": "Transplant",
+        "months": [
+          "April",
+          "May"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Plant out the module plants late April to May, under fleece at first."
+      },
+      {
+        "action": "Sow",
         "months": [
           "May"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Little and often to avoid gluts."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
-          "June"
-        ],
-        "location": "outside",
-        "equipment": [],
-        "note": "Keep it coming."
-      },
-      {
-        "action": "Direct sow",
-        "months": [
+          "June",
           "July"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Sow for autumn lettuce."
+        "note": "Keep it coming — choose bolt-resistant varieties for midsummer, and sow in part shade."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "August"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Last outdoor sowing — fast varieties for autumn. Outdoor lettuce won't survive a Stockholm winter; for winter leaves see Winter salad."
       },
       {
         "action": "Harvest",
         "months": [
-          "May"
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Early cuttings."
+        "note": "Cut from late May (the module plants) until the hard frosts."
       }
     ]
   },
@@ -1183,29 +1703,35 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "February"
         ],
-        "location": "conservatory",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [],
-        "note": "Sow your first salads direct in the frost-free conservatory — slow, but away before the greenhouse thaws."
+        "note": "Sow your first salads direct in the frost-free conservatory — slow, but the first fresh leaves of spring."
       },
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "March"
         ],
-        "location": "conservatory",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [],
         "note": "Cut-and-come-again; sow direct in the conservatory."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "September"
         ],
-        "location": "conservatory",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [],
         "note": "Sow in the frost-free conservatory as nights cool — it'll crop right through the cold."
       },
@@ -1214,7 +1740,9 @@
         "months": [
           "January"
         ],
-        "location": "conservatory",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [
           "grow-lamp"
         ],
@@ -1225,7 +1753,9 @@
         "months": [
           "February"
         ],
-        "location": "conservatory",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [],
         "note": "Still pickable from the conservatory — growth begins to wake as light returns."
       },
@@ -1234,25 +1764,43 @@
         "months": [
           "March"
         ],
-        "location": "conservatory",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [],
-        "note": "Last cuttings from the conservatory before they bolt as light returns."
+        "note": "Last cuttings from the autumn sowings before they bolt."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "April",
+          "May"
+        ],
+        "locations": [
+          "conservatory"
+        ],
+        "equipment": [],
+        "note": "Fresh leaves from the February and March sowings."
       },
       {
         "action": "Harvest",
         "months": [
           "October"
         ],
-        "location": "conservatory",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [],
-        "note": "First cuttings from the conservatory as the autumn sowings size up."
+        "note": "First cuttings from the September sowings, late in the month."
       },
       {
         "action": "Harvest",
         "months": [
           "November"
         ],
-        "location": "conservatory",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [],
         "note": "Keep cutting from the frost-free conservatory as the outdoor crops finish."
       },
@@ -1261,7 +1809,9 @@
         "months": [
           "December"
         ],
-        "location": "conservatory",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [
           "grow-lamp"
         ],
@@ -1279,31 +1829,73 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "March"
         ],
-        "location": "conservatory",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [],
         "note": "Cold-tolerant — sow direct in the cool, bright conservatory."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
+        "months": [
+          "April",
+          "May"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Late April to May, once the soil has thawed. Spinach bolts in the long June days, so sow early."
+      },
+      {
+        "action": "Sow",
         "months": [
           "August"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Sow early — only ~6 weeks of growth left before first frost."
+        "note": "Main autumn sowing — shortening days, no bolting."
       },
       {
-        "action": "Direct sow",
+        "action": "Harvest",
         "months": [
-          "September"
+          "April",
+          "May"
         ],
-        "location": "outside",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [],
-        "note": "Hardy autumn sowing."
+        "note": "Leaves from the conservatory sowing."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "June"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Pick before it bolts."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "September",
+          "October"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Autumn leaves — spinach takes frost."
       }
     ]
   },
@@ -1317,27 +1909,79 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Direct sow",
+        "action": "Sow",
+        "months": [
+          "April",
+          "May"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Late April to May — it bolts in the long midsummer days, so sow early or wait for August."
+      },
+      {
+        "action": "Sow",
         "months": [
           "August"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Fast, peppery leaves."
+        "note": "Best sowing — fast, peppery leaves as the days shorten."
       },
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "September"
         ],
-        "location": "conservatory",
+        "locations": [
+          "conservatory"
+        ],
         "equipment": [],
         "note": "Sow in the frost-free conservatory — outdoors there's too little growth left before frost."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "May",
+          "June"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Pick young, before it bolts."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "September",
+          "October"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Autumn leaves from the August sowing."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "November",
+          "December"
+        ],
+        "locations": [
+          "conservatory"
+        ],
+        "equipment": [],
+        "note": "Slow winter leaves from the conservatory sowing."
       }
     ]
   },
   {
-    "name": "Corn salad (mâche)",
+    "name": "Corn salad",
     "variety": null,
     "icon": [
       "🌿"
@@ -1346,28 +1990,45 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Direct sow",
+        "action": "Sow",
         "months": [
           "August"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Very hardy — sizes up now, sits dormant under snow, then crops again in spring."
+        "note": "Very hardy — sizes up in autumn, sits dormant under snow, then crops again in spring."
       },
       {
-        "action": "Direct sow",
+        "action": "Harvest",
         "months": [
-          "September"
+          "October",
+          "November"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Very cold-tolerant under a cloche."
+        "note": "Cut whole rosettes until the snow comes."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "April",
+          "May"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Overwintered plants crop again once the snow melts, before they flower."
       }
     ]
   },
   {
-    "name": "Florence fennel",
-    "variety": null,
+    "name": "Fennel",
+    "variety": "Florence",
     "icon": [
       "🌿"
     ],
@@ -1375,27 +2036,42 @@
     "weeksTillHarvest": null,
     "events": [
       {
-        "action": "Start indoors",
+        "action": "Sow",
         "months": [
           "May"
         ],
-        "location": "house",
+        "locations": [
+          "house"
+        ],
         "equipment": [],
-        "note": "Sow late May in modules — fennel hates root disturbance. Pick a bolt-resistant variety."
+        "note": "Sow late May in modules — fennel hates root disturbance and bolts if sown before midsummer's long days peak. Pick a bolt-resistant variety."
       },
       {
         "action": "Transplant",
         "months": [
           "June"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Plant out late June, module and all."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "September"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Cut bulbs at tennis-ball size, before the first frost."
       }
     ]
   },
   {
-    "name": "Potatoes",
+    "name": "Potato",
     "variety": null,
     "icon": [
       "🥔"
@@ -1406,29 +2082,46 @@
       {
         "action": "Plant in ground",
         "months": [
-          "April"
+          "May"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "First earlies — plant late April; earth up if frost threatens."
+        "note": "Plant chitted earlies early to mid May, once the soil is about 8°C; maincrop after. Earth up if frost threatens."
       },
       {
         "action": "Harvest",
         "months": [
           "July"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "First earlies ready to dig."
+        "note": "First earlies ready to dig, from about midsummer to late July."
       },
       {
         "action": "Harvest",
         "months": [
           "August"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Maincrop starts now."
+        "note": "Second earlies."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "September"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Lift maincrop once the tops die back, before the frost. Dry and store dark and cool."
       }
     ]
   },
@@ -1444,43 +2137,51 @@
       {
         "action": "Harvest",
         "months": [
-          "April"
+          "May"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Pull, don't cut — twist stems away cleanly."
+        "note": "First stalks once the ground has thawed — pull, don't cut; twist stems away cleanly."
       },
       {
         "action": "Harvest",
         "months": [
-          "May"
+          "June"
         ],
-        "location": "outside",
-        "equipment": [],
-        "note": "Peak pulling season."
-      },
-      {
-        "action": "Plant in ground",
-        "months": [
-          "October"
+        "locations": [
+          "outside"
         ],
-        "location": "outside",
         "equipment": [],
-        "note": "Split and replant crowns before the ground freezes."
+        "note": "Peak pulling season. Stop at midsummer so the plant can recover."
       },
       {
         "action": "Plant in ground",
         "months": [
           "May"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Or split and replant in spring once the ground has thawed."
+        "note": "Split and replant crowns in spring once the ground has thawed."
+      },
+      {
+        "action": "Plant in ground",
+        "months": [
+          "September"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Or split in early autumn, so the crowns root before the freeze."
       }
     ]
   },
   {
-    "name": "Strawberries",
+    "name": "Strawberry",
     "variety": null,
     "icon": [
       "🍓"
@@ -1491,17 +2192,20 @@
       {
         "action": "Harvest",
         "months": [
-          "June"
+          "June",
+          "July"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Peak — net against birds."
+        "note": "Late June into July — midsummer strawberries. Net against birds."
       }
     ]
   },
   {
-    "name": "Currants & raspberries",
-    "variety": null,
+    "name": "Currant",
+    "variety": "Black",
     "icon": [
       "🍇"
     ],
@@ -1513,14 +2217,83 @@
         "months": [
           "July"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Ripe and ready."
+        "note": "Pick whole strigs when the berries are dark and glossy."
+      },
+      {
+        "action": "Plant in ground",
+        "months": [
+          "October"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Plant bare-root bushes in October, before the ground freezes."
+      },
+      {
+        "action": "Plant in ground",
+        "months": [
+          "May"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Or plant in spring once the ground has thawed."
       }
     ]
   },
   {
-    "name": "Apples & plums",
+    "name": "Raspberry",
+    "variety": null,
+    "icon": [
+      "🍇"
+    ],
+    "notes": [],
+    "weeksTillHarvest": null,
+    "events": [
+      {
+        "action": "Harvest",
+        "months": [
+          "July",
+          "August"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Pick every couple of days while they come."
+      },
+      {
+        "action": "Plant in ground",
+        "months": [
+          "October"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Plant bare-root canes in October, before the ground freezes."
+      },
+      {
+        "action": "Plant in ground",
+        "months": [
+          "May"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Or plant in spring once the ground has thawed."
+      }
+    ]
+  },
+  {
+    "name": "Apple",
     "variety": null,
     "icon": [
       "🍎"
@@ -1531,38 +2304,90 @@
       {
         "action": "Harvest",
         "months": [
-          "September"
+          "August"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Early apples and ripe plums."
-      }
-    ]
-  },
-  {
-    "name": "Bare-root fruit trees & bushes",
-    "variety": null,
-    "icon": [
-      "🌳"
-    ],
-    "notes": [],
-    "weeksTillHarvest": null,
-    "events": [
+        "note": "Early varieties — eat straight away, they don't keep."
+      },
+      {
+        "action": "Harvest",
+        "months": [
+          "September",
+          "October"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Main apples. Pick before hard frost and store cool."
+      },
       {
         "action": "Plant in ground",
         "months": [
           "October"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
-        "note": "Plant in October, before the ground freezes."
+        "note": "Plant bare-root trees in October, before the ground freezes."
       },
       {
         "action": "Plant in ground",
         "months": [
           "May"
         ],
-        "location": "outside",
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Or plant in spring once the ground has thawed."
+      }
+    ]
+  },
+  {
+    "name": "Plum",
+    "variety": null,
+    "icon": [
+      "🍑"
+    ],
+    "notes": [],
+    "weeksTillHarvest": null,
+    "events": [
+      {
+        "action": "Harvest",
+        "months": [
+          "August",
+          "September"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Pick when soft at the stalk end; net against wasps and birds."
+      },
+      {
+        "action": "Plant in ground",
+        "months": [
+          "October"
+        ],
+        "locations": [
+          "outside"
+        ],
+        "equipment": [],
+        "note": "Plant bare-root trees in October, before the ground freezes."
+      },
+      {
+        "action": "Plant in ground",
+        "months": [
+          "May"
+        ],
+        "locations": [
+          "outside"
+        ],
         "equipment": [],
         "note": "Or plant in spring once the ground has thawed."
       }

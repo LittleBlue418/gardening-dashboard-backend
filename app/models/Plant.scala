@@ -22,7 +22,7 @@ object Plant {
 case class PlantEvent(
     action: PlantingAction,
     months: List[MonthName],
-    location: Location,
+    locations: List[Location], // in order: ["house", "conservatory"] = germinate in the house, then move
     equipment: List[EquipmentType], // kit this event uses, e.g. HeatMat, GrowLamp
     note: String,
 )
