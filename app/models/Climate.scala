@@ -9,8 +9,8 @@ case class Climate(
     _id: ObjectId = new ObjectId(),
     location: String,
     hardinessZones: List[HardinessZone],
-    lastSpringFrost: FrostWindow,
-    firstAutumnFrost: FrostWindow,
+    lastSpringFrost: FrostDate,
+    firstAutumnFrost: FrostDate,
     vegetationPeriod: VegetationPeriod,
     frozenGroundMonths: List[MonthName],
     snowCoverMonths: List[MonthName],
@@ -43,17 +43,19 @@ object MonthDay {
   implicit val format: OFormat[MonthDay] = Json.format[MonthDay]
 }
 
-// When a frost usually happens: a window, not a single date. `confirmed` is false
-// until an official source backs it up.
-case class FrostWindow(
-    from: MonthDay,
-    to: MonthDay,
+// When a frost happens. `median` is the usual date (1 year in 2). `safeDate` is
+// the date to plan around, right 9 years in 10: the last spring frost is over by
+// then, or the first autumn frost hasn't come yet. `confirmed` is false until an
+// official source backs it up.
+case class FrostDate(
+    median: MonthDay,
+    safeDate: MonthDay,
     confirmed: Boolean,
     source: Option[String],
 )
 
-object FrostWindow {
-  implicit val format: OFormat[FrostWindow] = Json.format[FrostWindow]
+object FrostDate {
+  implicit val format: OFormat[FrostDate] = Json.format[FrostDate]
 }
 
 // SMHI's vegetation period: days with mean temperature above +5°C. Longer than

@@ -9,28 +9,28 @@
       }
     ],
     "lastSpringFrost": {
-      "from": {
+      "median": {
         "month": "May",
-        "day": 15
+        "day": 5
       },
-      "to": {
+      "safeDate": {
         "month": "May",
-        "day": 31
-      },
-      "confirmed": false,
-      "source": null
-    },
-    "firstAutumnFrost": {
-      "from": {
-        "month": "September",
         "day": 20
       },
-      "to": {
+      "confirmed": true,
+      "source": "SMHI open data, Stockholm-Bromma station 97200: daily min air temperature, 1991–2020, frost = min below 0 °C. Computed 2026-10-30. City-centre station Observatoriekullen is 2–3 weeks milder."
+    },
+    "firstAutumnFrost": {
+      "median": {
         "month": "October",
-        "day": 10
+        "day": 6
       },
-      "confirmed": false,
-      "source": null
+      "safeDate": {
+        "month": "September",
+        "day": 25
+      },
+      "confirmed": true,
+      "source": "SMHI open data, Stockholm-Bromma station 97200: daily min air temperature, 1991–2020, frost = min below 0 °C. Computed 2026-10-30. City-centre station Observatoriekullen is 2–3 weeks milder."
     },
     "vegetationPeriod": {
       "minDays": 190,
