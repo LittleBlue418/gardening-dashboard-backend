@@ -1,6 +1,7 @@
 [
   {
     "name": "Tomato",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -73,6 +74,7 @@
   },
   {
     "name": "Pepper",
+    "swedishName": null,
     "variety": "Chilli",
     "lifecycle": "annual",
     "category": "vegetable",
@@ -145,6 +147,7 @@
   },
   {
     "name": "Pepper",
+    "swedishName": null,
     "variety": "Sweet",
     "lifecycle": "annual",
     "category": "vegetable",
@@ -216,6 +219,7 @@
   },
   {
     "name": "Cucumber",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -265,6 +269,7 @@
   },
   {
     "name": "Pumpkin",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -314,6 +319,7 @@
   },
   {
     "name": "Squash",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -374,6 +380,7 @@
   },
   {
     "name": "Onion",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -457,6 +464,7 @@
   },
   {
     "name": "Onion",
+    "swedishName": null,
     "variety": "Spring",
     "lifecycle": "annual",
     "category": "vegetable",
@@ -499,6 +507,7 @@
   },
   {
     "name": "Leek",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -562,6 +571,7 @@
   },
   {
     "name": "Garlic",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -621,6 +631,7 @@
   },
   {
     "name": "Carrot",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -715,6 +726,7 @@
   },
   {
     "name": "Parsnip",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -753,6 +765,7 @@
   },
   {
     "name": "Beetroot",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -824,6 +837,7 @@
   },
   {
     "name": "Radish",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -931,6 +945,7 @@
   },
   {
     "name": "Turnip",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -982,6 +997,7 @@
   },
   {
     "name": "Kohlrabi",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1023,6 +1039,7 @@
   },
   {
     "name": "Pea",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1061,6 +1078,7 @@
   },
   {
     "name": "Pea",
+    "swedishName": null,
     "variety": "Sugar snap",
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1099,6 +1117,7 @@
   },
   {
     "name": "Bean",
+    "swedishName": null,
     "variety": "Broad",
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1137,6 +1156,7 @@
   },
   {
     "name": "Bean",
+    "swedishName": null,
     "variety": "French",
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1185,6 +1205,7 @@
   },
   {
     "name": "Bean",
+    "swedishName": null,
     "variety": "Runner",
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1233,6 +1254,7 @@
   },
   {
     "name": "Bean",
+    "swedishName": null,
     "variety": "Borlotti",
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1269,6 +1291,7 @@
   },
   {
     "name": "Broccoli",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1353,6 +1376,7 @@
   },
   {
     "name": "Cabbage",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1403,6 +1427,7 @@
   },
   {
     "name": "Cauliflower",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1452,6 +1477,7 @@
   },
   {
     "name": "Kale",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1514,6 +1540,7 @@
   },
   {
     "name": "Pak choi",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1563,6 +1590,7 @@
   },
   {
     "name": "Mizuna",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1601,6 +1629,7 @@
   },
   {
     "name": "Mustard greens",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1639,6 +1668,7 @@
   },
   {
     "name": "Chard",
+    "swedishName": null,
     "variety": "Rainbow",
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1700,6 +1730,7 @@
   },
   {
     "name": "Lettuce",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1788,6 +1819,7 @@
   },
   {
     "name": "Winter salad",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -1917,6 +1949,7 @@
   },
   {
     "name": "Spinach",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -2000,6 +2033,7 @@
   },
   {
     "name": "Rocket",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -2084,6 +2118,7 @@
   },
   {
     "name": "Corn salad",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -2133,6 +2168,7 @@
   },
   {
     "name": "Fennel",
+    "swedishName": null,
     "variety": "Florence",
     "lifecycle": "annual",
     "category": "vegetable",
@@ -2180,6 +2216,7 @@
   },
   {
     "name": "Potato",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "annual",
     "category": "vegetable",
@@ -2238,6 +2275,7 @@
   },
   {
     "name": "Rhubarb",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "perennial",
     "category": "fruit",
@@ -2296,6 +2334,7 @@
   },
   {
     "name": "Strawberry",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "perennial",
     "category": "fruit",
@@ -2322,6 +2361,7 @@
   },
   {
     "name": "Currant",
+    "swedishName": null,
     "variety": "Black",
     "lifecycle": "perennial",
     "category": "fruit",
@@ -2369,6 +2409,7 @@
   },
   {
     "name": "Raspberry",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "perennial",
     "category": "fruit",
@@ -2417,6 +2458,7 @@
   },
   {
     "name": "Apple",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "perennial",
     "category": "fruit",
@@ -2476,6 +2518,7 @@
   },
   {
     "name": "Plum",
+    "swedishName": null,
     "variety": null,
     "lifecycle": "perennial",
     "category": "fruit",

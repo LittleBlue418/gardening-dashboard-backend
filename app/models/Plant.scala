@@ -7,6 +7,7 @@ import play.api.libs.json._
 case class Plant(
     _id: ObjectId = new ObjectId(),
     name: String,
+    swedishName: Option[String], // e.g. "Morot". None until filled in from the book
     variety: Option[String],
     lifecycle: Lifecycle, // as grown: Annual | Perennial
     category: PlantCategory, // what it's grown for: Vegetable | Herb | Fruit | Ornamental
