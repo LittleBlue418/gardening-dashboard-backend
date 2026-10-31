@@ -1,0 +1,2591 @@
+[
+  {
+    "_id": "b00000000000000000000001",
+    "task": "Order seeds and plan this year's crop rotation",
+    "months": [
+      "January",
+      "December"
+    ],
+    "category": "planning",
+    "plantIds": [],
+    "location": null,
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b00000000000000000000002",
+    "task": "Check stored onions, potatoes & squash; remove any rot",
+    "months": [
+      "January"
+    ],
+    "category": "harvest-storage",
+    "plantIds": [
+      "a00000000000000000000007",
+      "a00000000000000000000025",
+      "a00000000000000000000006"
+    ],
+    "location": null,
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b00000000000000000000004",
+    "task": "Prepare beds and add compost once the snow's gone and soil is workable",
+    "months": [
+      "April"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b00000000000000000000005",
+    "task": "Harden off hardy seedlings (onions, brassicas) on the sheltered deck",
+    "months": [
+      "April"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b00000000000000000000006",
+    "task": "Watch the forecast — frost is still likely here",
+    "months": [
+      "April",
+      "May"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": null,
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b00000000000000000000007",
+    "task": "Greenhouse: harden off seedlings and grow on early sowings",
+    "months": [
+      "April"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "greenhouse",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b00000000000000000000008",
+    "task": "Chit seed potatoes on a bright, cool sill (10–15°C) for a few weeks before planting",
+    "months": [
+      "April"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a00000000000000000000025"
+    ],
+    "location": "house",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b00000000000000000000009",
+    "task": "Force rhubarb under a bucket once the buds show",
+    "months": [
+      "April"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a00000000000000000000026"
+    ],
+    "location": "outside",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b0000000000000000000000a",
+    "task": "Keep fleece handy for late frosts",
+    "months": [
+      "May"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b0000000000000000000000b",
+    "task": "Mulch beds to lock in moisture",
+    "months": [
+      "May"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b0000000000000000000000c",
+    "task": "Harden off tender seedlings on the sheltered deck before planting out after the last frost",
+    "months": [
+      "May"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b0000000000000000000000d",
+    "task": "Side-shoot tomatoes and feed weekly",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a00000000000000000000001"
+    ],
+    "location": "greenhouse",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b0000000000000000000000e",
+    "task": "Hoe weeds while they're still small",
+    "months": [
+      "May",
+      "June",
+      "July"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b00000000000000000000010",
+    "task": "Water deeply in dry spells",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b00000000000000000000011",
+    "task": "Dry and store lifted garlic somewhere airy",
+    "months": [
+      "July",
+      "August"
+    ],
+    "category": "harvest-storage",
+    "plantIds": [
+      "a0000000000000000000000a"
+    ],
+    "location": null,
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b00000000000000000000012",
+    "task": "Greenhouse: damp down the paths in hot weather",
+    "months": [
+      "July"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "greenhouse",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b00000000000000000000013",
+    "task": "Order garlic and overwintering onion sets",
+    "months": [
+      "August"
+    ],
+    "category": "planning",
+    "plantIds": [
+      "a0000000000000000000000a",
+      "a00000000000000000000007"
+    ],
+    "location": null,
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b00000000000000000000015",
+    "task": "Greenhouse: strip lower tomato leaves for airflow and ripening",
+    "months": [
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a00000000000000000000001"
+    ],
+    "location": "greenhouse",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b00000000000000000000016",
+    "task": "Cure onions fully before storing",
+    "months": [
+      "August",
+      "September"
+    ],
+    "category": "harvest-storage",
+    "plantIds": [
+      "a00000000000000000000007"
+    ],
+    "location": null,
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b00000000000000000000019",
+    "task": "Move tender pots into the frost-free conservatory before the first frost",
+    "months": [
+      "September"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "conservatory",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b0000000000000000000001a",
+    "task": "Clear spent crops and add them to the compost",
+    "months": [
+      "October"
+    ],
+    "category": "compost",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b0000000000000000000001b",
+    "task": "Mulch bare beds or sow green manure",
+    "months": [
+      "October"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b0000000000000000000001c",
+    "task": "Lift hardy roots (carrots, beetroot, parsnips) into sand boxes before the freeze",
+    "months": [
+      "October",
+      "November"
+    ],
+    "category": "harvest-storage",
+    "plantIds": [
+      "a0000000000000000000000b",
+      "a0000000000000000000000d",
+      "a0000000000000000000000c"
+    ],
+    "location": "outside",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b0000000000000000000001e",
+    "task": "Mulch and fleece overwintering garlic and onions",
+    "months": [
+      "November"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a0000000000000000000000a",
+      "a00000000000000000000007"
+    ],
+    "location": "outside",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b0000000000000000000001f",
+    "task": "Drain and store hoses and water butts before they freeze and crack",
+    "months": [
+      "November"
+    ],
+    "category": "tools",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": null,
+    "otherSource": "Our own Stockholm notes (garden-months.json, 2026)"
+  },
+  {
+    "_id": "b00000000000000000000020",
+    "task": "Plan the four-year crop rotation and pick a patch to green-manure this year.",
+    "months": [
+      "January",
+      "February"
+    ],
+    "category": "planning",
+    "plantIds": [],
+    "location": null,
+    "bookPage": 53,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000021",
+    "task": "Test germination of older saved seed on damp paper towel before ordering new seed.",
+    "months": [
+      "February"
+    ],
+    "category": "planning",
+    "plantIds": [],
+    "location": "house",
+    "bookPage": 139,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000022",
+    "task": "Dig heavy clay soil in autumn and leave the clods rough so frost breaks them up.",
+    "months": [
+      "October",
+      "November"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 22,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000023",
+    "task": "Dig light sandy soil in spring, only shallowly, working in manure or compost at the same time.",
+    "months": [
+      "April",
+      "May"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 22,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000024",
+    "task": "Prepare seedbeds once the soil is workable: rake fine and remove weed roots.",
+    "months": [
+      "April",
+      "May"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 81,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000025",
+    "task": "Do a spade test in moist summer soil: check roots, crumb structure and earthworms.",
+    "months": [
+      "June",
+      "July"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 21,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000026",
+    "task": "If soil pH is below 5.5, spread dolomite lime at half dose, a month apart from manuring.",
+    "months": [
+      "April"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 70,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000027",
+    "task": "Spread well-rotted manure, at most 3 kg per m² in two doses, and work it in shallowly.",
+    "months": [
+      "April",
+      "May",
+      "June"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 63,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000028",
+    "task": "Spread fresh manure on clay soil in autumn and work it in.",
+    "months": [
+      "October"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 63,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000029",
+    "task": "Mix a rich potting compost of manure, compost, sand and meals; store it cool over winter.",
+    "months": [
+      "October"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 130,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000002a",
+    "task": "Make sand-and-grass-clipping potting mix in sealed black sacks; usable after two months.",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 130,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000002b",
+    "task": "Spread mature compost on beds and work it into the topsoil.",
+    "months": [
+      "April",
+      "May"
+    ],
+    "category": "compost",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 44,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000002c",
+    "task": "Spread half-rotted compost on beds in autumn so it matures by spring.",
+    "months": [
+      "September",
+      "October"
+    ],
+    "category": "compost",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 45,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000002d",
+    "task": "Turn the garden compost into the empty bay, cover it and leave it to mature for a year.",
+    "months": [
+      "May"
+    ],
+    "category": "compost",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 35,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000002e",
+    "task": "Cover the garden compost heap when it is about a metre high and water it in dry spells.",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "compost",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 35,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000002f",
+    "task": "Empty the kitchen compost bin before the cold arrives so it can be filled all winter.",
+    "months": [
+      "October",
+      "November"
+    ],
+    "category": "compost",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 39,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000030",
+    "task": "Fill sacks with dry leaves or sawdust as compost bulking material and store them frost-free.",
+    "months": [
+      "October"
+    ],
+    "category": "compost",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 39,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000031",
+    "task": "Keep the winter kitchen compost going: extra insulating lid or straw, add bulking material, stir often.",
+    "months": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "category": "compost",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 39,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000032",
+    "task": "Collect fallen leaves in a mesh or wooden bin for leaf mould; turn after a year.",
+    "months": [
+      "October",
+      "November"
+    ],
+    "category": "compost",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 45,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000033",
+    "task": "Bury bokashi stored over winter 40 cm deep once the ground thaws; plant 2–3 weeks later.",
+    "months": [
+      "April",
+      "May"
+    ],
+    "category": "compost",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 42,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000034",
+    "task": "Sow green manure densely as soon as the soil is workable and keep it moist.",
+    "months": [
+      "May",
+      "June"
+    ],
+    "category": "sowing",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 48,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000035",
+    "task": "Sow a green manure catch crop on beds cleared of early crops.",
+    "months": [
+      "July",
+      "August"
+    ],
+    "category": "sowing",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 48,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000036",
+    "task": "Cut annual green manure before it sets seed and dig it in shallowly.",
+    "months": [
+      "October"
+    ],
+    "category": "sowing",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 49,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000037",
+    "task": "Dig in late-summer-sown and perennial green manure shallowly in spring.",
+    "months": [
+      "May"
+    ],
+    "category": "sowing",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 49,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000038",
+    "task": "Cut vigorous green manure two or three times and spread the clippings between rows.",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 49,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000039",
+    "task": "Mulch beds and raised beds for winter with leaves, straw, hay or plant waste, only a little fresh grass.",
+    "months": [
+      "October",
+      "November"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 28,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000003a",
+    "task": "Rake off what remains of the winter mulch so the sun can warm the soil.",
+    "months": [
+      "April",
+      "May"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 28,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000003b",
+    "task": "Mulch 5–10 cm between rows once seedlings are up, and straight after planting out.",
+    "months": [
+      "May",
+      "June"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 28,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000003c",
+    "task": "Top up mulch with 5 cm fresh grass clippings as it breaks down; stop adding fresh green after July.",
+    "months": [
+      "June",
+      "July"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 28,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000003d",
+    "task": "Make a stale seedbed: prepare it, wait 1–2 weeks, rake shallowly to kill weeds, then sow.",
+    "months": [
+      "May"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 88,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000003e",
+    "task": "Hoe weeds regularly from first emergence and cut off weed seed heads; ease off in late summer.",
+    "months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 85,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000003f",
+    "task": "Clear perennial weeds by repeatedly hoeing and removing every root, starting the autumn before sowing.",
+    "months": [
+      "September",
+      "October"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 85,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000040",
+    "task": "Smother perennial weeds by covering ground with cardboard or black fabric under mulch, spring to spring.",
+    "months": [
+      "May"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 85,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000041",
+    "task": "Thin direct sowings when seedlings are a few cm tall, in one or two rounds.",
+    "months": [
+      "May",
+      "June",
+      "July"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 83,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000042",
+    "task": "Loosen crusted soil with a cultivator, especially early in the season and after heavy rain.",
+    "months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 88,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000043",
+    "task": "Check soil moisture with a trowel and water thoroughly, about 30 litres per m², preferably in the morning.",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 89,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000044",
+    "task": "Top-dress hungry crops with liquid feed or fresh grass clippings; never feed in late summer or autumn.",
+    "months": [
+      "June",
+      "July"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 59,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000045",
+    "task": "Brew nettle or comfrey liquid feed for 10–14 days, dilute to weak tea and use weekly.",
+    "months": [
+      "May",
+      "June",
+      "July"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 59,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000046",
+    "task": "Work wood ash into the soil, about 1 kg per m², especially around berry bushes.",
+    "months": [
+      "May"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a00000000000000000000028",
+      "a00000000000000000000086",
+      "a00000000000000000000087",
+      "a00000000000000000000082"
+    ],
+    "location": "outside",
+    "bookPage": 65,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000047",
+    "task": "Liquid-feed container plants weekly, starting 3–4 weeks after planting.",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 131,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000048",
+    "task": "Mulch pots and check they are moist right through, especially before going on holiday.",
+    "months": [
+      "June",
+      "July"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 134,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000049",
+    "task": "Repot overwintered perennials in containers into fresh soil mixed with compost and manure.",
+    "months": [
+      "May"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 136,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000004a",
+    "task": "Give indoor seedlings grow lights 14–16 hours a day, keep them at 12–18°C and air covers daily.",
+    "months": [
+      "February",
+      "March",
+      "April"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "house",
+    "bookPage": 78,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000004b",
+    "task": "Prick out seedlings into individual pots of rich soil once the first true leaves appear.",
+    "months": [
+      "March",
+      "April",
+      "May"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "house",
+    "bookPage": 80,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000004c",
+    "task": "Harden off indoor-raised plants over a week before planting them out.",
+    "months": [
+      "May",
+      "June"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 80,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000004d",
+    "task": "Cover new sowings and transplants with fleece for a couple of weeks for even moisture and shelter.",
+    "months": [
+      "May",
+      "June"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 83,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000004e",
+    "task": "Keep carrots, onions and brassicas under well-anchored fleece or mesh until harvest against flies and caterpillars.",
+    "months": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a0000000000000000000000b",
+      "a00000000000000000000007",
+      "a00000000000000000000063",
+      "a00000000000000000000018",
+      "a0000000000000000000001a",
+      "a00000000000000000000017",
+      "a00000000000000000000019",
+      "a00000000000000000000053"
+    ],
+    "location": "outside",
+    "bookPage": 100,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000004f",
+    "task": "Protect brassica and radish seedlings from flea beetles with fleece until they have 4–6 leaves.",
+    "months": [
+      "May",
+      "June"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a0000000000000000000000e",
+      "a00000000000000000000022",
+      "a00000000000000000000030",
+      "a0000000000000000000000f",
+      "a00000000000000000000018",
+      "a0000000000000000000001a"
+    ],
+    "location": "outside",
+    "bookPage": 102,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000050",
+    "task": "Check brassica leaf undersides for butterfly eggs and caterpillars; crush or hand-pick them.",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a00000000000000000000018",
+      "a0000000000000000000001a",
+      "a00000000000000000000017",
+      "a00000000000000000000019",
+      "a00000000000000000000053"
+    ],
+    "location": "outside",
+    "bookPage": 102,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000051",
+    "task": "Protect pea and bean sowings from birds with fleece or spruce twigs.",
+    "months": [
+      "May",
+      "June"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a00000000000000000000011",
+      "a00000000000000000000012",
+      "a00000000000000000000013",
+      "a00000000000000000000014"
+    ],
+    "location": "outside",
+    "bookPage": 104,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000052",
+    "task": "Hunt slugs at dusk or dawn, empty beer traps daily and water in the morning.",
+    "months": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 105,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000053",
+    "task": "Hose aphids off with cold water; if needed spray soap solution weekly, not in sunshine.",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 102,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000054",
+    "task": "Spray potatoes and tomatoes with salicylic acid at 20–25 cm tall, repeating after 1–2 weeks, against blight.",
+    "months": [
+      "June",
+      "July"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a00000000000000000000025",
+      "a00000000000000000000001"
+    ],
+    "location": "outside",
+    "bookPage": 99,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000055",
+    "task": "Trample snow around fruit bushes and trees to deter voles; keep the ground around them bare.",
+    "months": [
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 107,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000056",
+    "task": "Cover pots with bubble-wrap hoods on frosty nights to extend the season.",
+    "months": [
+      "May",
+      "September",
+      "October"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 135,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000057",
+    "task": "Overwinter perennials in pots: sink them in a bed or compost, or pack them in an insulated box by a wall.",
+    "months": [
+      "October",
+      "November"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 135,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000058",
+    "task": "Clean, dry and sharpen tools, oil metal parts and treat handles with linseed oil and turpentine.",
+    "months": [
+      "October",
+      "November"
+    ],
+    "category": "tools",
+    "plantIds": [],
+    "location": null,
+    "bookPage": 72,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000059",
+    "task": "Lift pallet-collar frames off the beds and store them under cover for winter.",
+    "months": [
+      "November"
+    ],
+    "category": "tools",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 115,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000005a",
+    "task": "Empty containers used for annuals, rinse and store them dry; spread the old soil on beds.",
+    "months": [
+      "October"
+    ],
+    "category": "tools",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 136,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000005b",
+    "task": "Choose and mark the best, most typical plants for seed, at least five, and give them extra space.",
+    "months": [
+      "June",
+      "July"
+    ],
+    "category": "seed-saving",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 141,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000005c",
+    "task": "Tie fleece bags over flowers of plants grown for seed before they open to prevent crossing.",
+    "months": [
+      "June",
+      "July"
+    ],
+    "category": "seed-saving",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 141,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000005d",
+    "task": "Harvest ripe seed in dry weather; before frost or autumn rain pull plants and dry them indoors.",
+    "months": [
+      "August",
+      "September"
+    ],
+    "category": "seed-saving",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 141,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000005e",
+    "task": "Clean and dry saved seed, then store it dry, cool and dark over winter.",
+    "months": [
+      "September",
+      "October"
+    ],
+    "category": "seed-saving",
+    "plantIds": [],
+    "location": "house",
+    "bookPage": 142,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000005f",
+    "task": "Lift biennials chosen for seed and store them cool and frost-free for replanting in spring.",
+    "months": [
+      "October"
+    ],
+    "category": "seed-saving",
+    "plantIds": [
+      "a0000000000000000000000b",
+      "a00000000000000000000063",
+      "a00000000000000000000018",
+      "a0000000000000000000000d",
+      "a00000000000000000000009"
+    ],
+    "location": "outside",
+    "bookPage": 140,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000060",
+    "task": "Replant overwintered biennial roots and plants to flower and set seed.",
+    "months": [
+      "May"
+    ],
+    "category": "seed-saving",
+    "plantIds": [
+      "a0000000000000000000000b",
+      "a00000000000000000000063",
+      "a00000000000000000000018",
+      "a0000000000000000000000d",
+      "a00000000000000000000009"
+    ],
+    "location": "outside",
+    "bookPage": 140,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000061",
+    "task": "At harvest, select long smooth parsnip, salsify and scorzonera roots and replant them for seed.",
+    "months": [
+      "October"
+    ],
+    "category": "seed-saving",
+    "plantIds": [
+      "a0000000000000000000000c",
+      "a00000000000000000000069",
+      "a00000000000000000000068"
+    ],
+    "location": "outside",
+    "bookPage": 143,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000062",
+    "task": "Leave the best pea and broad bean pods until dry and rattling, then dry indoors and shell.",
+    "months": [
+      "August",
+      "September"
+    ],
+    "category": "seed-saving",
+    "plantIds": [
+      "a00000000000000000000011",
+      "a00000000000000000000012",
+      "a00000000000000000000013"
+    ],
+    "location": "outside",
+    "bookPage": 146,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000063",
+    "task": "Save seed from overripe tomatoes (ferment and rinse) and chillies (scrape out and dry).",
+    "months": [
+      "August",
+      "September"
+    ],
+    "category": "seed-saving",
+    "plantIds": [
+      "a00000000000000000000001",
+      "a00000000000000000000002"
+    ],
+    "location": null,
+    "bookPage": 146,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000064",
+    "task": "Cut seeding lettuce after the first frost, hang it indoors to dry, then thresh the seed.",
+    "months": [
+      "September",
+      "October"
+    ],
+    "category": "seed-saving",
+    "plantIds": [
+      "a0000000000000000000001f"
+    ],
+    "location": "outside",
+    "bookPage": 144,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000065",
+    "task": "Start new beds in autumn: dig, weed and mulch so worms improve the soil over winter.",
+    "months": [
+      "September",
+      "October"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 156,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000066",
+    "task": "Cut flexible withies and build plant supports on site once the bed is prepared.",
+    "months": [
+      "May",
+      "June"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 169,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000067",
+    "task": "Feed hungry crops in deep beds with liquid feed every other week unless mulched with fresh grass clippings.",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 185,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000068",
+    "task": "Dig a trench down the middle of deep beds and fill it with leaves and weeds, or mulch the beds.",
+    "months": [
+      "October",
+      "November"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 187,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000069",
+    "task": "In early spring rake off undecomposed mulch from deep beds, dig one spit deep and work in compost and manure.",
+    "months": [
+      "April",
+      "May"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 187,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000006a",
+    "task": "Sow fast cold-hardy crops for autumn harvest and keep transplants ready to fill any bed space that empties.",
+    "months": [
+      "June",
+      "July"
+    ],
+    "category": "sowing",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 225,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000006b",
+    "task": "Build a compost loaf from branches, turf, clippings, compost and soil, then cover it with black plastic or straw.",
+    "months": [
+      "September",
+      "October"
+    ],
+    "category": "compost",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 196,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000006c",
+    "task": "Use fleece as frost protection on cold spring and autumn nights.",
+    "months": [
+      "May",
+      "September",
+      "October"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 198,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000006d",
+    "task": "Keep fleece over pest-prone crops all season with edges anchored; remove it the last one to two weeks before harvest.",
+    "months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 198,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000006e",
+    "task": "Open both ends of plastic growing tunnels in midsummer and lift the side when watering.",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 200,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000006f",
+    "task": "Put up a mobile plastic tunnel over cold-hardy crops to extend harvest into late autumn.",
+    "months": [
+      "October",
+      "November"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 200,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000070",
+    "task": "Tend cold frames: ventilate daily with a wedge, shade seedlings at midday, cover with a mat on frosty nights.",
+    "months": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 204,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000071",
+    "task": "Extend the cold greenhouse season: seal gaps, repair panes, add bubble wrap and fleece, run a heater above 6°C.",
+    "months": [
+      "April",
+      "September",
+      "October"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "greenhouse",
+    "bookPage": 207,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000072",
+    "task": "Remove the plastic from a tunnel greenhouse for winter, or anchor it well with stones or sandbags.",
+    "months": [
+      "October",
+      "November"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "greenhouse",
+    "bookPage": 215,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000073",
+    "task": "Fill greenhouse containers with fresh potting soil in spring and empty the old soil onto vegetable beds in autumn.",
+    "months": [
+      "April",
+      "October"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "greenhouse",
+    "bookPage": 215,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000074",
+    "task": "Replace the top layer of greenhouse bed soil each spring with compost; change all soil every two to three years.",
+    "months": [
+      "April"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "greenhouse",
+    "bookPage": 217,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000075",
+    "task": "Mulch greenhouse sand beds with 10 cm fresh grass clippings, adding another 10 cm a month later.",
+    "months": [
+      "May",
+      "June"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "greenhouse",
+    "bookPage": 216,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000076",
+    "task": "Ventilate the greenhouse daily, especially in the afternoon so no condensation forms overnight.",
+    "months": [
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "greenhouse",
+    "bookPage": 217,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000077",
+    "task": "Shade the sunniest side of the greenhouse on hot days with shade cloth, fleece or old lace curtains.",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "greenhouse",
+    "bookPage": 219,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000078",
+    "task": "Water greenhouse plants in the morning, shower them on hot days and mulch to keep moisture.",
+    "months": [
+      "May",
+      "June",
+      "July",
+      "August",
+      "September"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "greenhouse",
+    "bookPage": 219,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000079",
+    "task": "Inspect greenhouse plants regularly, crush egg clusters and start biological pest control early in the season.",
+    "months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "greenhouse",
+    "bookPage": 220,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000007a",
+    "task": "Clean the greenhouse thoroughly after the season: clear debris, wash pots, hose down and scrub with soap solution.",
+    "months": [
+      "October"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "greenhouse",
+    "bookPage": 222,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000007b",
+    "task": "Sow slow-germinating crops in a weeded, fed bed just before the ground freezes, covering seed with sandy soil.",
+    "months": [
+      "October",
+      "November"
+    ],
+    "category": "sowing",
+    "plantIds": [
+      "a00000000000000000000036",
+      "a0000000000000000000000c",
+      "a0000000000000000000000b",
+      "a00000000000000000000068",
+      "a00000000000000000000069"
+    ],
+    "location": "outside",
+    "bookPage": 230,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000007c",
+    "task": "Cover autumn-sown beds with fleece in spring to speed up emergence.",
+    "months": [
+      "April",
+      "May"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 231,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000007d",
+    "task": "Sow fast leafy greens in the tunnel greenhouse or cold frame in late autumn for harvest before tomatoes go in.",
+    "months": [
+      "October"
+    ],
+    "category": "sowing",
+    "plantIds": [
+      "a0000000000000000000001f",
+      "a00000000000000000000022",
+      "a00000000000000000000021"
+    ],
+    "location": "greenhouse",
+    "bookPage": 230,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000007e",
+    "task": "For a hot bed, dig a 30-50 cm pit, fill it with straw against frost, and store dry leaves.",
+    "months": [
+      "October"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 233,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000007f",
+    "task": "Build a hot bed of fresh horse manure and straw; add soil at 50°C, sow at 20°C.",
+    "months": [
+      "April"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 234,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000080",
+    "task": "Ventilate the hot bed daily, cover it at night, lift the window above 30°C; reuse spent straw as mulch.",
+    "months": [
+      "April",
+      "May"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 235,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000081",
+    "task": "Grow microgreens and baby leaves indoors under grow lights during the darkest months.",
+    "months": [
+      "November",
+      "December",
+      "January",
+      "February"
+    ],
+    "category": "sowing",
+    "plantIds": [],
+    "location": "house",
+    "bookPage": 237,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000082",
+    "task": "Bring a few chilli, tomato or herb plants indoors to a sunny window to keep harvesting into winter.",
+    "months": [
+      "September",
+      "October"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a00000000000000000000002",
+      "a00000000000000000000001"
+    ],
+    "location": "house",
+    "bookPage": 224,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000083",
+    "task": "Store potatoes and root crops cool and dark, ideally in a 1-4°C cellar; watch the thermometer for balcony storage boxes.",
+    "months": [
+      "October",
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "category": "harvest-storage",
+    "plantIds": [
+      "a00000000000000000000025",
+      "a0000000000000000000000b",
+      "a0000000000000000000000c",
+      "a0000000000000000000000d",
+      "a00000000000000000000065",
+      "a00000000000000000000063"
+    ],
+    "location": null,
+    "bookPage": 403,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000084",
+    "task": "Lift root crops just before frost, top and dry them, and pack them into a newspaper-lined buried cement-ring cellar.",
+    "months": [
+      "October"
+    ],
+    "category": "harvest-storage",
+    "plantIds": [
+      "a0000000000000000000000b",
+      "a0000000000000000000000c",
+      "a0000000000000000000000d",
+      "a00000000000000000000065"
+    ],
+    "location": "outside",
+    "bookPage": 404,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000085",
+    "task": "Build a straw-covered clamp for roots and potatoes; add the soil layer only when frost threatens.",
+    "months": [
+      "October",
+      "November"
+    ],
+    "category": "harvest-storage",
+    "plantIds": [
+      "a00000000000000000000025",
+      "a0000000000000000000000b",
+      "a0000000000000000000000c",
+      "a0000000000000000000000d",
+      "a00000000000000000000063"
+    ],
+    "location": "outside",
+    "bookPage": 405,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000086",
+    "task": "Insulate clamps and mini-cellars with leaves or spruce branches and open them only briefly in mild weather.",
+    "months": [
+      "November",
+      "December",
+      "January",
+      "February",
+      "March"
+    ],
+    "category": "harvest-storage",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 405,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000087",
+    "task": "Work compost into the herb bed every year to keep the soil light and well drained.",
+    "months": [
+      "May",
+      "September"
+    ],
+    "category": "soil",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 414,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000088",
+    "task": "Feed perennial herbs sparingly, e.g. 5 cm of grass clippings at the start of the season; avoid excess nitrogen.",
+    "months": [
+      "May",
+      "June"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 415,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000089",
+    "task": "Weed and hoe the herb bed and water perennial herbs only in extreme drought.",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 415,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000008a",
+    "task": "Hose aphids off lemon balm and tarragon with a hard jet of water and crush egg clusters.",
+    "months": [
+      "June",
+      "July"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a00000000000000000000094",
+      "a00000000000000000000098"
+    ],
+    "location": "outside",
+    "bookPage": 415,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000008b",
+    "task": "Cut herbaceous perennial herbs right down in late spring once new shoots appear from the base.",
+    "months": [
+      "May"
+    ],
+    "category": "pruning",
+    "plantIds": [
+      "a00000000000000000000098",
+      "a000000000000000000000a2",
+      "a00000000000000000000094",
+      "a0000000000000000000009f"
+    ],
+    "location": "outside",
+    "bookPage": 415,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000008c",
+    "task": "Cut woody herbs back by about half in late spring, never into old wood; do not cut back in autumn.",
+    "months": [
+      "May"
+    ],
+    "category": "pruning",
+    "plantIds": [
+      "a00000000000000000000099",
+      "a0000000000000000000009e",
+      "a0000000000000000000009c",
+      "a000000000000000000000a7",
+      "a000000000000000000000a9"
+    ],
+    "location": "outside",
+    "bookPage": 415,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000008d",
+    "task": "Cut oregano down to 5-7 cm, wormwood to 15 cm and trim rue in spring.",
+    "months": [
+      "May"
+    ],
+    "category": "pruning",
+    "plantIds": [
+      "a000000000000000000000a3",
+      "a000000000000000000000a0",
+      "a000000000000000000000a8"
+    ],
+    "location": "outside",
+    "bookPage": 449,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000008e",
+    "task": "Cover tender perennial herbs with spruce branches in late autumn; never use leaves that mat down.",
+    "months": [
+      "November"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a0000000000000000000009c",
+      "a000000000000000000000a7",
+      "a000000000000000000000a3"
+    ],
+    "location": "outside",
+    "bookPage": 416,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000008f",
+    "task": "Lay fleece over thyme and other woody herbs in late winter to shield them from burning sun and frost swings.",
+    "months": [
+      "March",
+      "April"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a000000000000000000000a7",
+      "a0000000000000000000009c",
+      "a0000000000000000000009e"
+    ],
+    "location": "outside",
+    "bookPage": 416,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000090",
+    "task": "Renew perennial herbs every three to six years by dividing them in spring and replanting with compost.",
+    "months": [
+      "May"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a0000000000000000000009e",
+      "a00000000000000000000099",
+      "a00000000000000000000098",
+      "a00000000000000000000094",
+      "a000000000000000000000a0",
+      "a000000000000000000000a7",
+      "a000000000000000000000a3",
+      "a000000000000000000000a9"
+    ],
+    "location": "outside",
+    "bookPage": 417,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000091",
+    "task": "Take 10 cm tip cuttings of herbs, or peg down layers, to propagate them.",
+    "months": [
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a0000000000000000000009c",
+      "a000000000000000000000a7",
+      "a0000000000000000000009e",
+      "a000000000000000000000a9",
+      "a00000000000000000000095",
+      "a00000000000000000000099"
+    ],
+    "location": "outside",
+    "bookPage": 418,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000092",
+    "task": "Collect ripe dry herb seed; sow perennial herbs in a fleece-covered box left outdoors over winter.",
+    "months": [
+      "September",
+      "October"
+    ],
+    "category": "seed-saving",
+    "plantIds": [
+      "a0000000000000000000009f",
+      "a00000000000000000000097",
+      "a00000000000000000000090"
+    ],
+    "location": "outside",
+    "bookPage": 417,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000093",
+    "task": "Harvest herbs just before flowering and dry them in small hanging bunches somewhere airy and dark.",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "harvest-storage",
+    "plantIds": [],
+    "location": null,
+    "bookPage": 416,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000094",
+    "task": "Bring potted rosemary, lemongrass, lemon verbena and basil indoors before frost; keep bright, cool and barely watered.",
+    "months": [
+      "September"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a000000000000000000000a4",
+      "a00000000000000000000093",
+      "a00000000000000000000095",
+      "a0000000000000000000008f"
+    ],
+    "location": "house",
+    "bookPage": 451,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000095",
+    "task": "In spring trim dead leaves, repot and divide lemongrass and prune lemon verbena before moving them outside.",
+    "months": [
+      "April",
+      "May"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a00000000000000000000093",
+      "a00000000000000000000095"
+    ],
+    "location": "house",
+    "bookPage": 428,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000096",
+    "task": "Cut basil back to two or three leaf pairs once it has six to eight, to delay flowering; keep feeding.",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "pruning",
+    "plantIds": [
+      "a0000000000000000000008f"
+    ],
+    "location": null,
+    "bookPage": 425,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000097",
+    "task": "Cut lemon balm back by half after the midsummer harvest and cut lovage down once it turns scruffy.",
+    "months": [
+      "July"
+    ],
+    "category": "pruning",
+    "plantIds": [
+      "a00000000000000000000094",
+      "a0000000000000000000009f"
+    ],
+    "location": "outside",
+    "bookPage": 429,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000098",
+    "task": "Cut off sweet cicely seed heads to stop it spreading and trim spignel into a ball after flowering.",
+    "months": [
+      "July"
+    ],
+    "category": "pruning",
+    "plantIds": [
+      "a00000000000000000000097",
+      "a00000000000000000000090"
+    ],
+    "location": "outside",
+    "bookPage": 432,
+    "otherSource": null
+  },
+  {
+    "_id": "b00000000000000000000099",
+    "task": "Watch for self-sown herb seedlings when weeding and keep mint in check with a spade.",
+    "months": [
+      "May",
+      "June"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a000000000000000000000a2"
+    ],
+    "location": "outside",
+    "bookPage": 419,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000009a",
+    "task": "Feed berry bushes only in spring, with bone meal, wood ash or manure; late feeding stops shoots ripening for winter.",
+    "months": [
+      "April",
+      "May"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 465,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000009b",
+    "task": "Water berry plants generously while berries develop, mulch, and never water in the evening.",
+    "months": [
+      "June",
+      "July"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 466,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000009c",
+    "task": "Weed under berry bushes diligently and keep the soil open or mulched.",
+    "months": [
+      "May",
+      "June"
+    ],
+    "category": "care",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 467,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000009d",
+    "task": "Cover flowering berry bushes with fleece on frosty nights and water before frost.",
+    "months": [
+      "May",
+      "June"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a0000000000000000000007d",
+      "a0000000000000000000007e",
+      "a0000000000000000000008a"
+    ],
+    "location": "outside",
+    "bookPage": 467,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000009e",
+    "task": "Protect ripening berries from birds with nets or a scarecrow; put red-painted walnuts in the strawberry bed.",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "protection",
+    "plantIds": [],
+    "location": "outside",
+    "bookPage": 468,
+    "otherSource": null
+  },
+  {
+    "_id": "b0000000000000000000009f",
+    "task": "Take cuttings of currants and gooseberries (20 cm) and sea buckthorn (10-15 cm) and root them in sand.",
+    "months": [
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a00000000000000000000028",
+      "a00000000000000000000086",
+      "a00000000000000000000087",
+      "a00000000000000000000082",
+      "a00000000000000000000081"
+    ],
+    "location": "outside",
+    "bookPage": 466,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000a0",
+    "task": "Mulch arctic bramble over winter and rake the cover away in spring.",
+    "months": [
+      "April",
+      "October",
+      "November"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a0000000000000000000007b"
+    ],
+    "location": "outside",
+    "bookPage": 470,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000a1",
+    "task": "Cut out blackberry and tayberry canes that have fruited after harvest.",
+    "months": [
+      "September",
+      "October"
+    ],
+    "category": "pruning",
+    "plantIds": [
+      "a0000000000000000000007c",
+      "a00000000000000000000085"
+    ],
+    "location": "outside",
+    "bookPage": 472,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000a2",
+    "task": "Lay first-year blackberry and tayberry canes on the ground and cover them with spruce branches or straw.",
+    "months": [
+      "October",
+      "November"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a0000000000000000000007c",
+      "a00000000000000000000085"
+    ],
+    "location": "outside",
+    "bookPage": 472,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000a3",
+    "task": "Fan-train last year's blackberry canes on wires, thin to six to eight, and cut back dead tips.",
+    "months": [
+      "April",
+      "May"
+    ],
+    "category": "pruning",
+    "plantIds": [
+      "a0000000000000000000007c",
+      "a00000000000000000000085"
+    ],
+    "location": "outside",
+    "bookPage": 472,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000a4",
+    "task": "Feed blueberries in spring and again as flowering starts; mulch with acidic conifer litter.",
+    "months": [
+      "May",
+      "June"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a0000000000000000000007d",
+      "a0000000000000000000007e"
+    ],
+    "location": "outside",
+    "bookPage": 474,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000a5",
+    "task": "Prune established blueberries and saskatoons by removing about a fifth of the oldest and drooping branches.",
+    "months": [
+      "April",
+      "October"
+    ],
+    "category": "pruning",
+    "plantIds": [
+      "a0000000000000000000007d",
+      "a0000000000000000000007e",
+      "a00000000000000000000080"
+    ],
+    "location": "outside",
+    "bookPage": 474,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000a6",
+    "task": "Feed raspberries with up to 2 kg manure per metre and mulch with clippings mixed with leaves or straw.",
+    "months": [
+      "April",
+      "May"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a00000000000000000000029"
+    ],
+    "location": "outside",
+    "bookPage": 480,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000a7",
+    "task": "Keep the raspberry row weeded and pull up suckers coming up outside the row.",
+    "months": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a00000000000000000000029"
+    ],
+    "location": "outside",
+    "bookPage": 480,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000a8",
+    "task": "Right after harvest cut fruited raspberry canes to the ground and thin new canes to about ten per metre.",
+    "months": [
+      "August"
+    ],
+    "category": "pruning",
+    "plantIds": [
+      "a00000000000000000000029"
+    ],
+    "location": "outside",
+    "bookPage": 480,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000a9",
+    "task": "Top raspberry canes taller than 170 cm and cut out and burn canes with gall midge swellings.",
+    "months": [
+      "April"
+    ],
+    "category": "pruning",
+    "plantIds": [
+      "a00000000000000000000029"
+    ],
+    "location": "outside",
+    "bookPage": 480,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000aa",
+    "task": "Cut all autumn raspberry canes to the ground after harvest.",
+    "months": [
+      "October",
+      "November"
+    ],
+    "category": "pruning",
+    "plantIds": [
+      "a00000000000000000000029"
+    ],
+    "location": "outside",
+    "bookPage": 480,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000ab",
+    "task": "Shake raspberry beetles into a bucket of soapy water early each morning while raspberries flower.",
+    "months": [
+      "June"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a00000000000000000000029"
+    ],
+    "location": "outside",
+    "bookPage": 481,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000ac",
+    "task": "Keep fleece over strawberries until the first flowers open to protect buds from strawberry blossom weevil.",
+    "months": [
+      "May",
+      "June"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a00000000000000000000027"
+    ],
+    "location": "outside",
+    "bookPage": 487,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000ad",
+    "task": "Keep strawberry beds unmulched until fruits hang down, then put straw between the rows.",
+    "months": [
+      "June"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a00000000000000000000027"
+    ],
+    "location": "outside",
+    "bookPage": 486,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000ae",
+    "task": "Water strawberries in the morning during fruiting and remove damaged or mouldy berries.",
+    "months": [
+      "June",
+      "July"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a00000000000000000000027"
+    ],
+    "location": "outside",
+    "bookPage": 487,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000af",
+    "task": "Feed strawberries after harvest and cut off the foliage if the bed is diseased.",
+    "months": [
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a00000000000000000000027"
+    ],
+    "location": "outside",
+    "bookPage": 486,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000b0",
+    "task": "Cut off strawberry runners not needed for new plants.",
+    "months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "category": "pruning",
+    "plantIds": [
+      "a00000000000000000000027"
+    ],
+    "location": "outside",
+    "bookPage": 487,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000b1",
+    "task": "Renew strawberry beds every three to four years on a new site using rooted runners planted by late summer.",
+    "months": [
+      "July",
+      "August"
+    ],
+    "category": "care",
+    "plantIds": [
+      "a00000000000000000000027",
+      "a00000000000000000000084"
+    ],
+    "location": "outside",
+    "bookPage": 487,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000b2",
+    "task": "Winter-cover strawberry beds with straw, dry leaves or fleece.",
+    "months": [
+      "October",
+      "November"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a00000000000000000000027"
+    ],
+    "location": "outside",
+    "bookPage": 486,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000b3",
+    "task": "Spray wild strawberries with soapy water before flowering against strawberry leaf beetle.",
+    "months": [
+      "May"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a00000000000000000000084"
+    ],
+    "location": "outside",
+    "bookPage": 493,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000b4",
+    "task": "Thin established bushes: remove drooping and damaged branches and the three or four oldest stems at the base.",
+    "months": [
+      "October",
+      "November",
+      "March",
+      "April"
+    ],
+    "category": "pruning",
+    "plantIds": [
+      "a00000000000000000000028",
+      "a00000000000000000000086",
+      "a00000000000000000000087",
+      "a00000000000000000000082",
+      "a0000000000000000000007f",
+      "a0000000000000000000008c",
+      "a00000000000000000000088"
+    ],
+    "location": "outside",
+    "bookPage": 497,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000b5",
+    "task": "Watch for gooseberry sawfly larvae and pick or shake them off before they strip the bush.",
+    "months": [
+      "May",
+      "June",
+      "July"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a00000000000000000000082"
+    ],
+    "location": "outside",
+    "bookPage": 490,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000b6",
+    "task": "Spray aphid-blistered red currants with soapy water; dig up and burn black currants with swollen gall-mite buds.",
+    "months": [
+      "April",
+      "May",
+      "June"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a00000000000000000000086",
+      "a00000000000000000000028"
+    ],
+    "location": "outside",
+    "bookPage": 498,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000b7",
+    "task": "On espaliered or standard currants and gooseberries, cut out the oldest branches and tie in young ones.",
+    "months": [
+      "April"
+    ],
+    "category": "pruning",
+    "plantIds": [
+      "a00000000000000000000028",
+      "a00000000000000000000086",
+      "a00000000000000000000087",
+      "a00000000000000000000082"
+    ],
+    "location": "outside",
+    "bookPage": 500,
+    "otherSource": null
+  },
+  {
+    "_id": "b000000000000000000000b8",
+    "task": "Rake up and remove fallen lingonberry leaves spotted by leaf-fall disease.",
+    "months": [
+      "September",
+      "October"
+    ],
+    "category": "protection",
+    "plantIds": [
+      "a00000000000000000000083"
+    ],
+    "location": "outside",
+    "bookPage": 492,
+    "otherSource": null
+  }
+]

@@ -3,6 +3,7 @@ package models
 import org.scalatestplus.play._
 import play.api.libs.json._
 import models.climate.Climate
+import models.job.{GardenJob, JobCategory}
 import models.user.{User, UserGrowSettings}
 import models.common.IntRange
 import models.plant._
@@ -165,6 +166,24 @@ class PlantJsonSpec extends PlaySpec {
     }
   }
 
+  "a user's selected plants" should {
+    "point at plants that exist, once each" in {
+      val plantIds = plants.map(_._id).toSet
+      plantIds.size mustBe plants.size // plant ids are unique
+      val users = Json.parse(Files.readString(Paths.get("temp-db/users.json"))).as[List[User]]
+      users.foreach { user =>
+        (user.savedPlantIds ++ user.selectedPlantIds).filterNot(plantIds.contains) mustBe empty
+        user.savedPlantIds.distinct.size mustBe user.savedPlantIds.size
+        user.selectedPlantIds.distinct.size mustBe user.selectedPlantIds.size
+      }
+    }
+
+    "only select plants that are saved" in {
+      val users = Json.parse(Files.readString(Paths.get("temp-db/users.json"))).as[List[User]]
+      users.foreach(user => user.selectedPlantIds.filterNot(user.savedPlantIds.contains) mustBe empty)
+    }
+  }
+
   "temp-db/user-grow-settings.json" should {
     "link every user's settings to an existing user and climate" in {
       val users = Json.parse(Files.readString(Paths.get("temp-db/users.json"))).as[List[User]].map(_._id).toSet
@@ -175,6 +194,38 @@ class PlantJsonSpec extends PlaySpec {
           settings.filterNot(row => climates.contains(row.climateId)) mustBe empty
         case JsError(errors) => fail(errors.mkString("\n"))
       }
+    }
+  }
+
+  "temp-db/garden-jobs.json" should {
+    lazy val jobs = Json.parse(Files.readString(Paths.get("temp-db/garden-jobs.json"))).validate[List[GardenJob]] match {
+      case JsSuccess(parsed, _) => parsed
+      case JsError(errors)      => fail(errors.mkString("\n"))
+    }
+
+    "parse into GardenJob models with unique ids" in {
+      jobs must not be empty
+      jobs.map(_._id).distinct.size mustBe jobs.size
+    }
+
+    "give every job at least one month and exactly one source" in {
+      jobs.filter(_.months.isEmpty).map(_.task) mustBe empty
+      jobs.filter(job => job.bookPage.isDefined == job.otherSource.isDefined).map(_.task) mustBe empty
+    }
+
+    "only link to plants that exist" in {
+      val plantIds = plants.map(_._id).toSet
+      jobs.flatMap(_.plantIds).filterNot(plantIds.contains) mustBe empty
+    }
+
+    "keep task text English" in {
+      jobs.map(_.task).filter(task => "[åäöÅÄÖ]".r.findFirstIn(task).isDefined) mustBe empty
+    }
+  }
+
+  "JobCategory" should {
+    "round-trip every category" in {
+      JobCategory.all.foreach(category => Json.toJson(category).as[JobCategory] mustBe category)
     }
   }
 
