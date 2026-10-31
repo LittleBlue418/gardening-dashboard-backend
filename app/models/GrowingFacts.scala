@@ -13,7 +13,8 @@ object IntRange {
 }
 
 // The fact box the book prints beside every plant (key on p. 243). One per plant,
-// taken from the book; `bookPage` is where it came from. A range field is None when
+// taken from the book (`bookPage`), or from another source (`otherSource`) for plants the book
+// doesn't cover, such as apple and plum. Exactly one of the two is set. A range field is None when
 // the book doesn't give it (e.g. no germination facts for plants grown from sets).
 case class GrowingFacts(
     germinationDays: Option[IntRange], // sowing until the seedling shows
@@ -27,7 +28,8 @@ case class GrowingFacts(
     goodIntercrop: Boolean, // fast enough to sow between slow crops
     sowInRounds: Boolean, // succession sowing works
     cutAndComeAgain: Boolean, // harvested in rounds most of the season
-    bookPage: Int,
+    bookPage: Option[Int],
+    otherSource: Option[String], // e.g. "Svensk Trädgård faktablad 9; E-planta variety pages"
 )
 
 object GrowingFacts {

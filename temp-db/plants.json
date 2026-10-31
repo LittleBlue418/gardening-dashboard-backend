@@ -48,7 +48,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 393
+      "bookPage": 393,
+      "otherSource": null
     },
     "methods": [
       {
@@ -115,7 +116,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Pepper",
@@ -166,7 +168,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 390
+      "bookPage": 390,
+      "otherSource": null
     },
     "methods": [
       {
@@ -233,7 +236,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Pepper",
@@ -284,7 +288,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 390
+      "bookPage": 390,
+      "otherSource": null
     },
     "methods": [
       {
@@ -350,7 +355,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Cucumber",
@@ -401,7 +407,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 298
+      "bookPage": 298,
+      "otherSource": null
     },
     "methods": [
       {
@@ -445,7 +452,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Pumpkin",
@@ -496,7 +504,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 302
+      "bookPage": 302,
+      "otherSource": null
     },
     "methods": [
       {
@@ -540,7 +549,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Squash",
@@ -591,7 +601,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 302
+      "bookPage": 302,
+      "otherSource": null
     },
     "methods": [
       {
@@ -646,7 +657,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Onion",
@@ -694,7 +706,8 @@
       "goodIntercrop": true,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 326
+      "bookPage": 326,
+      "otherSource": null
     },
     "methods": [
       {
@@ -812,7 +825,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Onion",
@@ -863,7 +877,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": true,
-      "bookPage": 330
+      "bookPage": 330,
+      "otherSource": null
     },
     "methods": [
       {
@@ -921,7 +936,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Leek",
@@ -972,7 +988,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 332
+      "bookPage": 332,
+      "otherSource": null
     },
     "methods": [
       {
@@ -1030,7 +1047,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Garlic",
@@ -1075,7 +1093,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 334
+      "bookPage": 334,
+      "otherSource": null
     },
     "methods": [
       {
@@ -1129,7 +1148,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Carrot",
@@ -1180,7 +1200,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 346
+      "bookPage": 346,
+      "otherSource": null
     },
     "methods": [
       {
@@ -1269,7 +1290,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Parsnip",
@@ -1320,7 +1342,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 350
+      "bookPage": 350,
+      "otherSource": null
     },
     "methods": [
       {
@@ -1353,7 +1376,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Beetroot",
@@ -1404,7 +1428,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 366
+      "bookPage": 366,
+      "otherSource": null
     },
     "methods": [
       {
@@ -1470,7 +1495,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Radish",
@@ -1521,7 +1547,8 @@
       "goodIntercrop": true,
       "sowInRounds": true,
       "cutAndComeAgain": false,
-      "bookPage": 362
+      "bookPage": 362,
+      "otherSource": null
     },
     "methods": [
       {
@@ -1623,7 +1650,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Turnip",
@@ -1674,7 +1702,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 344
+      "bookPage": 344,
+      "otherSource": null
     },
     "methods": [
       {
@@ -1720,7 +1749,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Kohlrabi",
@@ -1771,7 +1801,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 342
+      "bookPage": 342,
+      "otherSource": null
     },
     "methods": [
       {
@@ -1807,7 +1838,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Pea",
@@ -1858,7 +1890,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 252
+      "bookPage": 252,
+      "otherSource": null
     },
     "methods": [
       {
@@ -1891,7 +1924,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Pea",
@@ -1942,7 +1976,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 252
+      "bookPage": 252,
+      "otherSource": null
     },
     "methods": [
       {
@@ -1975,7 +2010,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Bean",
@@ -2026,7 +2062,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 245
+      "bookPage": 245,
+      "otherSource": null
     },
     "methods": [
       {
@@ -2059,7 +2096,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Bean",
@@ -2110,7 +2148,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 248
+      "bookPage": 248,
+      "otherSource": null
     },
     "methods": [
       {
@@ -2153,7 +2192,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Bean",
@@ -2199,7 +2239,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 247
+      "bookPage": 247,
+      "otherSource": null
     },
     "methods": [
       {
@@ -2242,7 +2283,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Bean",
@@ -2293,7 +2335,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 248
+      "bookPage": 248,
+      "otherSource": null
     },
     "methods": [
       {
@@ -2324,7 +2367,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Broccoli",
@@ -2375,7 +2419,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 307
+      "bookPage": 307,
+      "otherSource": null
     },
     "methods": [
       {
@@ -2454,7 +2499,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Cabbage",
@@ -2505,7 +2551,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 318
+      "bookPage": 318,
+      "otherSource": null
     },
     "methods": [
       {
@@ -2550,7 +2597,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Cauliflower",
@@ -2601,7 +2649,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 306
+      "bookPage": 306,
+      "otherSource": null
     },
     "methods": [
       {
@@ -2645,7 +2694,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Kale",
@@ -2696,7 +2746,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": true,
-      "bookPage": 312
+      "bookPage": 312,
+      "otherSource": null
     },
     "methods": [
       {
@@ -2753,7 +2804,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Pak choi",
@@ -2804,7 +2856,8 @@
       "goodIntercrop": true,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 258
+      "bookPage": 258,
+      "otherSource": null
     },
     "methods": [
       {
@@ -2848,7 +2901,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Mizuna",
@@ -2899,7 +2953,8 @@
       "goodIntercrop": true,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 258
+      "bookPage": 258,
+      "otherSource": null
     },
     "methods": [
       {
@@ -2932,7 +2987,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Mustard greens",
@@ -2983,7 +3039,8 @@
       "goodIntercrop": true,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 258
+      "bookPage": 258,
+      "otherSource": null
     },
     "methods": [
       {
@@ -3016,7 +3073,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Chard",
@@ -3067,7 +3125,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": true,
-      "bookPage": 269
+      "bookPage": 269,
+      "otherSource": null
     },
     "methods": [
       {
@@ -3123,7 +3182,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Lettuce",
@@ -3174,7 +3234,8 @@
       "goodIntercrop": true,
       "sowInRounds": true,
       "cutAndComeAgain": false,
-      "bookPage": 273
+      "bookPage": 273,
+      "otherSource": null
     },
     "methods": [
       {
@@ -3258,7 +3319,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Winter salad",
@@ -3400,7 +3462,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Spinach",
@@ -3451,7 +3514,8 @@
       "goodIntercrop": true,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 280
+      "bookPage": 280,
+      "otherSource": null
     },
     "methods": [
       {
@@ -3529,7 +3593,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Rocket",
@@ -3575,7 +3640,8 @@
       "goodIntercrop": true,
       "sowInRounds": true,
       "cutAndComeAgain": false,
-      "bookPage": 271
+      "bookPage": 271,
+      "otherSource": null
     },
     "methods": [
       {
@@ -3654,7 +3720,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Corn salad",
@@ -3705,7 +3772,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": true,
-      "bookPage": 283
+      "bookPage": 283,
+      "otherSource": null
     },
     "methods": [
       {
@@ -3749,7 +3817,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Fennel",
@@ -3800,7 +3869,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 384
+      "bookPage": 384,
+      "otherSource": null
     },
     "methods": [
       {
@@ -3842,7 +3912,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Potato",
@@ -3887,7 +3958,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 352
+      "bookPage": 352,
+      "otherSource": null
     },
     "methods": [
       {
@@ -3940,7 +4012,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Rhubarb",
@@ -3985,7 +4058,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 381
+      "bookPage": 381,
+      "otherSource": null
     },
     "methods": [
       {
@@ -4038,7 +4112,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Strawberry",
@@ -4059,8 +4134,13 @@
     ],
     "description": "Arrived in Sweden in the 1700s and quickly became a manor-garden favourite. Modern varieties are healthier than the grand old ones, if slightly milder in taste.",
     "howToEat": "Eaten fresh straight from the bed; the book also suggests varieties such as Rebecka for hanging baskets and balcony boxes.",
-    "image": null,
-    "imageCredit": null,
+    "image": "strawberry.jpg",
+    "imageCredit": {
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -4082,7 +4162,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 486
+      "bookPage": 486,
+      "otherSource": null
     },
     "methods": [
       {
@@ -4125,7 +4206,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Currant",
@@ -4146,8 +4228,13 @@
     ],
     "description": "The hardiest of all berry bushes, grown and wild across Sweden; in Tornedalen it is farmed commercially. Variety Polar tolerates spring frost at flowering.",
     "howToEat": null,
-    "image": null,
-    "imageCredit": null,
+    "image": "currant-black.jpg",
+    "imageCredit": {
+      "author": "Jerzy Opioła",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ribes_nigrum_a1.JPG"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -4169,7 +4256,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 497
+      "bookPage": 497,
+      "otherSource": null
     },
     "methods": [
       {
@@ -4214,7 +4302,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Raspberry",
@@ -4235,8 +4324,13 @@
     ],
     "description": "Raspberries have been grown in Sweden since the Middle Ages and are part of every classic Swedish garden. They need protection from insects, disease, frost and drought to give good berries.",
     "howToEat": null,
-    "image": null,
-    "imageCredit": null,
+    "image": "raspberry.jpg",
+    "imageCredit": {
+      "author": "ulleo on Pixabay",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Close-up_of_raspberries_on_bush.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -4261,7 +4355,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 479
+      "bookPage": 479,
+      "otherSource": null
     },
     "methods": [
       {
@@ -4316,65 +4411,61 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Apple",
-    "swedishName": null,
-    "scientificName": null,
+    "swedishName": "Äpple",
+    "scientificName": "Malus domestica",
     "variety": null,
-    "family": null,
+    "family": "Rosaceae",
     "lifecycle": "perennial",
     "category": "fruit",
     "form": "tree",
     "icon": [
       "🍎"
     ],
-    "notes": [],
-    "description": null,
-    "howToEat": null,
-    "image": null,
-    "imageCredit": null,
-    "growing": null,
+    "notes": [
+      "Apples need pollen from another variety that flowers at the same time; check E-planta's pollination chart.",
+      "Sunny, sheltered spot in well-drained soil, pH about 6-7. On compact clay, plant on a raised bed. Keep the graft knob above ground.",
+      "Prune every year for the first ten years. Net young trees against deer and hares, guard the trunk against voles, and give no nitrogen after mid-July."
+    ],
+    "description": "Sweden's most-grown fruit tree. Each tree is a chosen variety grafted onto a rootstock that decides its size and hardiness; the common A2 rootstock gives a large, hardy tree. Hardy varieties for zone 3 include Silva (zone 1-6), Oranie and Gyllenkroks Astrakan (1-5).",
+    "howToEat": "Eat fresh, or cook into apple sauce, pies and juice. Winter apples store through the winter somewhere cool.",
+    "image": "apple.jpg",
+    "imageCredit": {
+      "author": "Abhijit Tembhekar from Mumbai, India",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Apple.jpg"
+    },
+    "growing": {
+      "germinationDays": null,
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 400,
+        "max": 400
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": null,
+      "swedishZones": {
+        "min": 1,
+        "max": 6
+      },
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": null,
+      "otherSource": "Svensk Trädgård faktablad 9 \"Odla frukt\" (text from SLU Fakta Trädgård-Fritid 17, revised 2013); Svensk Trädgård \"Äppelträd - välja, plantera, sköta\"; E-planta variety pages (eplanta.com), zones checked 2026-10-31"
+    },
     "methods": [
       {
         "start": "plants",
-        "difficulty": "regular",
+        "difficulty": "effort",
         "events": [
-          {
-            "action": "Harvest",
-            "months": [
-              "August"
-            ],
-            "locations": [
-              "outside"
-            ],
-            "equipment": [],
-            "note": "Early varieties — eat straight away, they don't keep."
-          },
-          {
-            "action": "Harvest",
-            "months": [
-              "September",
-              "October"
-            ],
-            "locations": [
-              "outside"
-            ],
-            "equipment": [],
-            "note": "Main apples. Pick before hard frost and store cool."
-          },
-          {
-            "action": "Plant in ground",
-            "months": [
-              "October"
-            ],
-            "locations": [
-              "outside"
-            ],
-            "equipment": [],
-            "note": "Plant bare-root trees in October, before the ground freezes."
-          },
           {
             "action": "Plant in ground",
             "months": [
@@ -4384,35 +4475,287 @@
               "outside"
             ],
             "equipment": [],
-            "note": "Or plant in spring once the ground has thawed."
+            "note": "In colder parts of Sweden spring planting is best (national gardening society fact sheet 9, see source). Potted trees can also go in in early September."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "August",
+              "September",
+              "October"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Summer apples in August, autumn apples in September, winter apples in October; pick before hard frost."
           }
         ]
+      }
+    ],
+    "recommendedVarieties": [
+      {
+        "name": "Rödluvan",
+        "swedishZones": {
+          "min": 1,
+          "max": 6
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-rodluvan-e/"
+      },
+      {
+        "name": "Silva",
+        "swedishZones": {
+          "min": 1,
+          "max": 6
+        },
+        "ripening": "August-September",
+        "pollination": "Pollinated by Gyllenkroks Astrakan, Oranie, Transparente Blanche",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-silva-e/"
+      },
+      {
+        "name": "Gyllenkroks Astrakan",
+        "swedishZones": {
+          "min": 1,
+          "max": 5
+        },
+        "ripening": "Late August to early September; eat soon",
+        "pollination": "Pollinated by James Grieve, Katja, Signe Tillisch and others",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-gyllenkroks-astrakan-e/"
+      },
+      {
+        "name": "Oranie",
+        "swedishZones": {
+          "min": 1,
+          "max": 5
+        },
+        "ripening": "Late September; eat within a few weeks",
+        "pollination": "Pollinated by Gyllenkroks Astrakan, Katja and others",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-oranie-e/"
+      },
+      {
+        "name": "Röd Melba",
+        "swedishZones": {
+          "min": 1,
+          "max": 5
+        },
+        "ripening": "Turn of September/October",
+        "pollination": "Pollinated by Transparente Blanche and Silva",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-rod-melba-e-melred/"
+      },
+      {
+        "name": "Aroma",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": "Late October; stores until Christmas",
+        "pollination": "Pollinated by Discovery, Filippa and Mio",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-aroma-e/"
+      },
+      {
+        "name": "Birgit Bonnier",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": "Mid to late September",
+        "pollination": null,
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-birgit-bonnier-e/"
+      },
+      {
+        "name": "Folke",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": "October; stores until April-May",
+        "pollination": "Triploid: gives no pollen to other varieties and needs two pollinators",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-folke-e-slubgd1016/"
+      },
+      {
+        "name": "Fredrik",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": "October",
+        "pollination": "Pollinated by Transparente Blanche, Cox Orange, Discovery",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-fredrik-pbr-e/"
+      },
+      {
+        "name": "Höstdessert",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-hostdessert-e-sugisdessert/"
+      },
+      {
+        "name": "Agnes",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "Second half of August",
+        "pollination": "Pollinated by other early-flowering varieties",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-agnes-e-slubgd1377/"
+      },
+      {
+        "name": "Discovery",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "September-October",
+        "pollination": "Pollinated by James Grieve, Summerred, Transparente Blanche",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-discovery-e/"
+      },
+      {
+        "name": "Filippa",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "Picked late September or October",
+        "pollination": "Pollinated by Ingrid Marie, James Grieve, Lobo and others",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-filippa-e/"
+      },
+      {
+        "name": "Ingrid Marie",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "Picked in October; best November-January",
+        "pollination": "Pollinated by Discovery, Filippa and Mio",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-ingrid-marie-e/"
+      },
+      {
+        "name": "James Grieve",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "Mid September; eat within a few weeks",
+        "pollination": "Pollinated by Discovery, Filippa and Mio",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-james-grieve-e/"
+      },
+      {
+        "name": "Katja",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "Late September; stores 1-2 months",
+        "pollination": "Pollinated by Alice, Lobo, Mio and Oranie",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-katja-e/"
+      },
+      {
+        "name": "Lovisa",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "Mid September",
+        "pollination": "Pollinated by Birgit Bonnier, Discovery, James Grieve, Katja and others",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-lovisa-e-slubgd1160/"
+      },
+      {
+        "name": "Mio",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "Picked mid September; stores for a while",
+        "pollination": "Pollinated by Discovery, Ingrid Marie, James Grieve and others",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-mio-e/"
+      },
+      {
+        "name": "Trulsa",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "Turn of August/September",
+        "pollination": "Pollinated by e.g. Discovery, Filippa, Fredrik, Gyllenkroks Astrakan",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-trulsa-e-slubgd1458/"
+      },
+      {
+        "name": "Belle de Boskoop",
+        "swedishZones": {
+          "min": 1,
+          "max": 1
+        },
+        "ripening": "Picked late October; best later in winter",
+        "pollination": "Pollinated by Cox's Orange, Ingrid Marie, Transparente Blanche and others",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/malus-domestica-belle-de-boskoop-e/"
       }
     ]
   },
   {
     "name": "Plum",
-    "swedishName": null,
-    "scientificName": null,
+    "swedishName": "Plommon",
+    "scientificName": "Prunus domestica",
     "variety": null,
-    "family": null,
+    "family": "Rosaceae",
     "lifecycle": "perennial",
     "category": "fruit",
     "form": "tree",
     "icon": [
       "🍑"
     ],
-    "notes": [],
-    "description": null,
-    "howToEat": null,
-    "image": null,
-    "imageCredit": null,
-    "growing": null,
+    "notes": [
+      "Many plums are self-fertile, e.g. Victoria, Opal, Herman and Reine Claude d'Oullins, so one tree can crop alone.",
+      "Sunny, sheltered spot in well-drained soil, pH about 6-7. Don't plant where a plum or cherry grew before; an apple spot is fine.",
+      "Hardiest varieties: Tunaplommon (zone 1-5) and Opal (1-4)."
+    ],
+    "description": "A stone fruit tree, grafted like apples. Swedish hardy varieties include old local types such as Tunaplommon from Medelpad, a small, sweet, yellow plum that grows up to zone 5.",
+    "howToEat": "Eat fresh, or make jam and compote. Prune-type varieties can be dried.",
+    "image": "plum.jpg",
+    "imageCredit": {
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plums_African_Rose_-_whole,_halved_and_slice.jpg"
+    },
+    "growing": {
+      "germinationDays": null,
+      "minGerminationTempC": null,
+      "plantSpacingCm": null,
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": null,
+      "swedishZones": {
+        "min": 1,
+        "max": 5
+      },
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": null,
+      "otherSource": "Svensk Trädgård faktablad 9 \"Odla frukt\" (text from SLU Fakta Trädgård-Fritid 17, revised 2013); E-planta variety pages (eplanta.com), zones checked 2026-10-31"
+    },
     "methods": [
       {
         "start": "plants",
         "difficulty": "regular",
         "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "In colder parts of Sweden spring planting is best (national gardening society fact sheet 9, see source). Potted trees can also go in in early September."
+          },
           {
             "action": "Harvest",
             "months": [
@@ -4423,31 +4766,121 @@
               "outside"
             ],
             "equipment": [],
-            "note": "Pick when soft at the stalk end; net against wasps and birds."
-          },
-          {
-            "action": "Plant in ground",
-            "months": [
-              "October"
-            ],
-            "locations": [
-              "outside"
-            ],
-            "equipment": [],
-            "note": "Plant bare-root trees in October, before the ground freezes."
-          },
-          {
-            "action": "Plant in ground",
-            "months": [
-              "May"
-            ],
-            "locations": [
-              "outside"
-            ],
-            "equipment": [],
-            "note": "Or plant in spring once the ground has thawed."
+            "note": "Most varieties ripen from August into September (E-planta)."
           }
         ]
+      }
+    ],
+    "recommendedVarieties": [
+      {
+        "name": "Tunaplommon",
+        "swedishZones": {
+          "min": 1,
+          "max": 5
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/prunus-domestica-tunaplommon-e/"
+      },
+      {
+        "name": "Allmänt Gulplommon",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": "August-September",
+        "pollination": "Pollinated by Hackman, Jefferson, Reine Claude d'Oullins and others",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/prunus-domestica-allmant-gulplommon-e/"
+      },
+      {
+        "name": "Allmänt rödplommon",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": "Mid August; pick in rounds",
+        "pollination": "Self-fertile",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/prunus-domestica-allmant-rodplommon-e/"
+      },
+      {
+        "name": "Experimentalfältets Sviskon",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": "September",
+        "pollination": "Self-fertile",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/prunus-domestica-experimentalfaltets-sviskon-e/"
+      },
+      {
+        "name": "Opal",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": "August-September",
+        "pollination": "Self-fertile",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/prunus-domestica-opal-e/"
+      },
+      {
+        "name": "Reine Claude d'Oullins",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": "August-September",
+        "pollination": "Self-fertile",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/prunus-domestica-reine-claude-doullins-e/"
+      },
+      {
+        "name": "Herman",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "Early August",
+        "pollination": "Self-fertile",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/prunus-domestica-herman-e/"
+      },
+      {
+        "name": "Jubileum",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "September",
+        "pollination": "Pollinated by Opal, Victoria and others",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/prunus-domestica-jubileumpbr-e/"
+      },
+      {
+        "name": "Victoria",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "September",
+        "pollination": "Self-fertile",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/prunus-domestica-victoria-e/"
+      },
+      {
+        "name": "Violetta",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "August",
+        "pollination": "Probably pollinated by Opal, Victoria and others",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/prunus-domestica-violettapbr-e/"
+      },
+      {
+        "name": "Reine Claude Althan",
+        "swedishZones": {
+          "min": 1,
+          "max": 2
+        },
+        "ripening": "September",
+        "pollination": "Pollinated by Victoria, Reine Claude d'Oullins",
+        "source": "E-planta, https://eplanta.com/vaxter_yrkesanvandar/prunus-domestica-reine-claude-althan-e/"
       }
     ]
   },
@@ -4488,7 +4921,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 255
+      "bookPage": 255,
+      "otherSource": null
     },
     "methods": [
       {
@@ -4521,7 +4955,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Soybean",
@@ -4561,7 +4996,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 256
+      "bookPage": 256,
+      "otherSource": null
     },
     "methods": [
       {
@@ -4603,7 +5039,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Asparagus pea",
@@ -4645,7 +5082,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 256
+      "bookPage": 256,
+      "otherSource": null
     },
     "methods": [
       {
@@ -4701,7 +5139,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Chinese broccoli",
@@ -4756,7 +5195,8 @@
       "goodIntercrop": true,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 258
+      "bookPage": 258,
+      "otherSource": null
     },
     "methods": [
       {
@@ -4789,7 +5229,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Chinese cabbage",
@@ -4844,7 +5285,8 @@
       "goodIntercrop": true,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 258
+      "bookPage": 258,
+      "otherSource": null
     },
     "methods": [
       {
@@ -4877,7 +5319,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Tatsoi",
@@ -4932,7 +5375,8 @@
       "goodIntercrop": true,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 258
+      "bookPage": 258,
+      "otherSource": null
     },
     "methods": [
       {
@@ -4966,7 +5410,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Chicory",
@@ -5021,7 +5466,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 264
+      "bookPage": 264,
+      "otherSource": null
     },
     "methods": [
       {
@@ -5087,7 +5533,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Endive",
@@ -5142,7 +5589,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 264
+      "bookPage": 264,
+      "otherSource": null
     },
     "methods": [
       {
@@ -5175,7 +5623,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Dill",
@@ -5230,7 +5679,8 @@
       "goodIntercrop": true,
       "sowInRounds": true,
       "cutAndComeAgain": false,
-      "bookPage": 266
+      "bookPage": 266,
+      "otherSource": null
     },
     "methods": [
       {
@@ -5267,7 +5717,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "New Zealand spinach",
@@ -5322,7 +5773,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": true,
-      "bookPage": 270
+      "bookPage": 270,
+      "otherSource": null
     },
     "methods": [
       {
@@ -5367,7 +5819,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Parsley",
@@ -5422,7 +5875,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": true,
-      "bookPage": 270
+      "bookPage": 270,
+      "otherSource": null
     },
     "methods": [
       {
@@ -5482,7 +5936,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Water spinach",
@@ -5537,7 +5992,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": true,
-      "bookPage": 275
+      "bookPage": 275,
+      "otherSource": null
     },
     "methods": [
       {
@@ -5581,7 +6037,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Wild rocket",
@@ -5636,7 +6093,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": true,
-      "bookPage": 277
+      "bookPage": 277,
+      "otherSource": null
     },
     "methods": [
       {
@@ -5696,7 +6154,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Garden cress",
@@ -5751,7 +6210,8 @@
       "goodIntercrop": true,
       "sowInRounds": true,
       "cutAndComeAgain": false,
-      "bookPage": 278
+      "bookPage": 278,
+      "otherSource": null
     },
     "methods": [
       {
@@ -5789,7 +6249,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Celery",
@@ -5844,7 +6305,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": true,
-      "bookPage": 279
+      "bookPage": 279,
+      "otherSource": null
     },
     "methods": [
       {
@@ -5891,7 +6353,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Purslane",
@@ -5945,7 +6408,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 282
+      "bookPage": 282,
+      "otherSource": null
     },
     "methods": [
       {
@@ -6001,7 +6465,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Strawberry spinach",
@@ -6044,7 +6509,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 285
+      "bookPage": 285,
+      "otherSource": null
     },
     "methods": [
       {
@@ -6078,7 +6544,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Good King Henry",
@@ -6120,7 +6587,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 285
+      "bookPage": 285,
+      "otherSource": null
     },
     "methods": [
       {
@@ -6166,7 +6634,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Ice plant",
@@ -6208,7 +6677,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 285
+      "bookPage": 285,
+      "otherSource": null
     },
     "methods": [
       {
@@ -6253,7 +6723,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Mallow",
@@ -6295,7 +6766,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 286
+      "bookPage": 286,
+      "otherSource": null
     },
     "methods": [
       {
@@ -6328,7 +6800,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Milk thistle",
@@ -6371,7 +6844,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 286
+      "bookPage": 286,
+      "otherSource": null
     },
     "methods": [
       {
@@ -6416,7 +6890,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Mitsuba",
@@ -6458,7 +6933,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 286
+      "bookPage": 286,
+      "otherSource": null
     },
     "methods": [
       {
@@ -6507,7 +6983,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Quinoa",
@@ -6549,7 +7026,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 287
+      "bookPage": 287,
+      "otherSource": null
     },
     "methods": [
       {
@@ -6583,7 +7061,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Amaranth",
@@ -6625,7 +7104,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": true,
-      "bookPage": 287
+      "bookPage": 287,
+      "otherSource": null
     },
     "methods": [
       {
@@ -6680,7 +7160,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Salad burnet",
@@ -6725,7 +7206,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 287
+      "bookPage": 287,
+      "otherSource": null
     },
     "methods": [
       {
@@ -6760,7 +7242,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Caucasian spinach",
@@ -6799,7 +7282,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 288
+      "bookPage": 288,
+      "otherSource": null
     },
     "methods": [
       {
@@ -6842,7 +7326,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Garland chrysanthemum",
@@ -6887,7 +7372,8 @@
       "goodIntercrop": false,
       "sowInRounds": true,
       "cutAndComeAgain": false,
-      "bookPage": 289
+      "bookPage": 289,
+      "otherSource": null
     },
     "methods": [
       {
@@ -6923,7 +7409,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Sorrel",
@@ -6963,7 +7450,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 289
+      "bookPage": 289,
+      "otherSource": null
     },
     "methods": [
       {
@@ -7009,7 +7497,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Agretti",
@@ -7051,7 +7540,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 289
+      "bookPage": 289,
+      "otherSource": null
     },
     "methods": [
       {
@@ -7095,7 +7585,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Lettuce",
@@ -7137,7 +7628,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 291
+      "bookPage": 291,
+      "otherSource": null
     },
     "methods": [
       {
@@ -7182,7 +7674,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Patience dock",
@@ -7219,7 +7712,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 291
+      "bookPage": 291,
+      "otherSource": null
     },
     "methods": [
       {
@@ -7265,7 +7759,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Orach",
@@ -7299,7 +7794,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 291
+      "bookPage": 291,
+      "otherSource": null
     },
     "methods": [
       {
@@ -7333,7 +7829,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Sorrel",
@@ -7372,7 +7869,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 292
+      "bookPage": 292,
+      "otherSource": null
     },
     "methods": [
       {
@@ -7419,7 +7917,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Watercress",
@@ -7461,7 +7960,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 292
+      "bookPage": 292,
+      "otherSource": null
     },
     "methods": [
       {
@@ -7495,7 +7995,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Winter purslane",
@@ -7543,7 +8044,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 293
+      "bookPage": 293,
+      "otherSource": null
     },
     "methods": [
       {
@@ -7590,7 +8092,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Land cress",
@@ -7632,7 +8135,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 293
+      "bookPage": 293,
+      "otherSource": null
     },
     "methods": [
       {
@@ -7670,7 +8174,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Melon",
@@ -7725,7 +8230,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 301
+      "bookPage": 301,
+      "otherSource": null
     },
     "methods": [
       {
@@ -7771,7 +8277,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Broccoli raab",
@@ -7826,7 +8333,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 310
+      "bookPage": 310,
+      "otherSource": null
     },
     "methods": [
       {
@@ -7871,7 +8379,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Broccoli",
@@ -7926,7 +8435,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 307
+      "bookPage": 307,
+      "otherSource": null
     },
     "methods": [
       {
@@ -7973,7 +8483,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Brussels sprouts",
@@ -8028,7 +8539,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 311
+      "bookPage": 311,
+      "otherSource": null
     },
     "methods": [
       {
@@ -8072,7 +8584,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Kale",
@@ -8127,7 +8640,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 313
+      "bookPage": 313,
+      "otherSource": null
     },
     "methods": [
       {
@@ -8174,7 +8688,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Cabbage",
@@ -8229,7 +8744,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 315
+      "bookPage": 315,
+      "otherSource": null
     },
     "methods": [
       {
@@ -8274,7 +8790,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Siberian kale",
@@ -8329,7 +8846,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": true,
-      "bookPage": 316
+      "bookPage": 316,
+      "otherSource": null
     },
     "methods": [
       {
@@ -8368,7 +8886,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Cabbage",
@@ -8418,7 +8937,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 317
+      "bookPage": 317,
+      "otherSource": null
     },
     "methods": [
       {
@@ -8463,7 +8983,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Cabbage",
@@ -8518,7 +9039,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 318
+      "bookPage": 318,
+      "otherSource": null
     },
     "methods": [
       {
@@ -8563,7 +9085,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Chives",
@@ -8615,7 +9138,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 324
+      "bookPage": 324,
+      "otherSource": null
     },
     "methods": [
       {
@@ -8695,7 +9219,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Shallot",
@@ -8747,7 +9272,8 @@
       "goodIntercrop": true,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 326
+      "bookPage": 326,
+      "otherSource": null
     },
     "methods": [
       {
@@ -8780,7 +9306,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Onion",
@@ -8826,7 +9353,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 329
+      "bookPage": 329,
+      "otherSource": null
     },
     "methods": [
       {
@@ -8859,7 +9387,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Welsh onion",
@@ -8914,7 +9443,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": true,
-      "bookPage": 330
+      "bookPage": 330,
+      "otherSource": null
     },
     "methods": [
       {
@@ -8966,7 +9496,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Garlic chives",
@@ -9006,7 +9537,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 336
+      "bookPage": 336,
+      "otherSource": null
     },
     "methods": [
       {
@@ -9053,7 +9585,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Norrland onion",
@@ -9093,7 +9626,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 336
+      "bookPage": 336,
+      "otherSource": null
     },
     "methods": [
       {
@@ -9127,7 +9661,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Shallot",
@@ -9168,7 +9703,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 336
+      "bookPage": 336,
+      "otherSource": null
     },
     "methods": [
       {
@@ -9201,7 +9737,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Wild garlic",
@@ -9244,7 +9781,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 338
+      "bookPage": 338,
+      "otherSource": null
     },
     "methods": [
       {
@@ -9320,7 +9858,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Sand leek",
@@ -9366,7 +9905,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 338
+      "bookPage": 338,
+      "otherSource": null
     },
     "methods": [
       {
@@ -9432,7 +9972,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Jerusalem artichoke",
@@ -9484,7 +10025,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 341
+      "bookPage": 341,
+      "otherSource": null
     },
     "methods": [
       {
@@ -9518,7 +10060,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Swede",
@@ -9573,7 +10116,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 343
+      "bookPage": 343,
+      "otherSource": null
     },
     "methods": [
       {
@@ -9607,7 +10151,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Parsley",
@@ -9662,7 +10207,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 360
+      "bookPage": 360,
+      "otherSource": null
     },
     "methods": [
       {
@@ -9695,7 +10241,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Celeriac",
@@ -9750,7 +10297,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 361
+      "bookPage": 361,
+      "otherSource": null
     },
     "methods": [
       {
@@ -9797,7 +10345,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Radish",
@@ -9847,7 +10396,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 364
+      "bookPage": 364,
+      "otherSource": null
     },
     "methods": [
       {
@@ -9880,7 +10430,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Radish",
@@ -9935,7 +10486,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 364
+      "bookPage": 364,
+      "otherSource": null
     },
     "methods": [
       {
@@ -9967,7 +10519,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Scorzonera",
@@ -10022,7 +10575,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 369
+      "bookPage": 369,
+      "otherSource": null
     },
     "methods": [
       {
@@ -10054,7 +10608,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Salsify",
@@ -10109,7 +10664,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 369
+      "bookPage": 369,
+      "otherSource": null
     },
     "methods": [
       {
@@ -10141,7 +10697,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Chinese artichoke",
@@ -10183,7 +10740,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 373
+      "bookPage": 373,
+      "otherSource": null
     },
     "methods": [
       {
@@ -10228,7 +10786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Horseradish",
@@ -10271,7 +10830,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 373
+      "bookPage": 373,
+      "otherSource": null
     },
     "methods": [
       {
@@ -10305,7 +10865,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Rampion",
@@ -10346,7 +10907,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 373
+      "bookPage": 373,
+      "otherSource": null
     },
     "methods": [
       {
@@ -10379,7 +10941,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Burdock",
@@ -10421,7 +10984,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 374
+      "bookPage": 374,
+      "otherSource": null
     },
     "methods": [
       {
@@ -10453,7 +11017,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Root chervil",
@@ -10487,7 +11052,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 374
+      "bookPage": 374,
+      "otherSource": null
     },
     "methods": [
       {
@@ -10520,7 +11086,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Skirret",
@@ -10562,7 +11129,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 374
+      "bookPage": 374,
+      "otherSource": null
     },
     "methods": [
       {
@@ -10594,7 +11162,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Turnip",
@@ -10628,7 +11197,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 375
+      "bookPage": 375,
+      "otherSource": null
     },
     "methods": [
       {
@@ -10663,7 +11233,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Celery",
@@ -10718,7 +11289,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 376
+      "bookPage": 376,
+      "otherSource": null
     },
     "methods": [
       {
@@ -10765,7 +11337,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Artichoke",
@@ -10820,7 +11393,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 378
+      "bookPage": 378,
+      "otherSource": null
     },
     "methods": [
       {
@@ -10867,7 +11441,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Sweetcorn",
@@ -10922,7 +11497,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 379
+      "bookPage": 379,
+      "otherSource": null
     },
     "methods": [
       {
@@ -10965,7 +11541,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Asparagus",
@@ -11011,7 +11588,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 382
+      "bookPage": 382,
+      "otherSource": null
     },
     "methods": [
       {
@@ -11087,7 +11665,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Cardoon",
@@ -11126,7 +11705,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 386
+      "bookPage": 386,
+      "otherSource": null
     },
     "methods": [
       {
@@ -11172,7 +11752,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Angelica",
@@ -11212,7 +11793,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 387
+      "bookPage": 387,
+      "otherSource": null
     },
     "methods": [
       {
@@ -11245,7 +11827,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Sea kale",
@@ -11288,7 +11871,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 387
+      "bookPage": 387,
+      "otherSource": null
     },
     "methods": [
       {
@@ -11330,7 +11914,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Aubergine",
@@ -11382,7 +11967,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 388
+      "bookPage": 388,
+      "otherSource": null
     },
     "methods": [
       {
@@ -11429,7 +12015,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Ground cherry",
@@ -11468,7 +12055,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 400
+      "bookPage": 400,
+      "otherSource": null
     },
     "methods": [
       {
@@ -11514,7 +12102,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Tomatillo",
@@ -11553,7 +12142,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 400
+      "bookPage": 400,
+      "otherSource": null
     },
     "methods": [
       {
@@ -11600,7 +12190,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Arctic bramble",
@@ -11621,8 +12212,13 @@
     ],
     "description": "A cross between wild arctic bramble and its Alaskan relative that spreads into a pretty ground cover with pink flowers. The dark red berries taste almost as heavenly as wild ones; yields are highest in the north.",
     "howToEat": "Pick when dark red and slightly soft; makes an exquisite liqueur and jam (book p. 470).",
-    "image": null,
-    "imageCredit": null,
+    "image": "arctic-bramble.jpg",
+    "imageCredit": {
+      "author": "Ztaffanb",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rubus_arcticus_berry.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -11647,7 +12243,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 468
+      "bookPage": 468,
+      "otherSource": null
     },
     "methods": [
       {
@@ -11690,7 +12287,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Blackberry",
@@ -11711,8 +12309,13 @@
     ],
     "description": "A rambling cane fruit that grows wild as far north as the Stockholm region; gardens now mainly grow thornless varieties. Canes fruit in their second year and the harvest runs through autumn.",
     "howToEat": null,
-    "image": null,
-    "imageCredit": null,
+    "image": "blackberry.jpg",
+    "imageCredit": {
+      "author": "Ragesoss",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ripe,_ripening,_and_green_blackberries.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -11734,7 +12337,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 471
+      "bookPage": 471,
+      "otherSource": null
     },
     "methods": [
       {
@@ -11778,7 +12382,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Blueberry",
@@ -11799,8 +12404,13 @@
     ],
     "description": "Garden blueberries taste milder and sweeter than wild ones, are two to three times larger and have white flesh that won't stain your mouth. Highbush is the commonest type, giving 2-7 kg per bush, with orange-red autumn colour.",
     "howToEat": "The berries are firm and can be eaten fresh or frozen individually (book p. 472).",
-    "image": null,
-    "imageCredit": null,
+    "image": "blueberry-highbush.jpg",
+    "imageCredit": {
+      "author": "Unknown (see source)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vaccinium_corymbosum(01).jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -11825,7 +12435,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 472
+      "bookPage": 472,
+      "otherSource": null
     },
     "methods": [
       {
@@ -11868,7 +12479,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Blueberry",
@@ -11889,8 +12501,13 @@
     ],
     "description": "A cross between highbush and wild blueberry: lower (60-100 cm), slightly less productive and wilder in flavour, but more cold-hardy than highbush. A Swedish fruit research station bred the hardy variety Putte.",
     "howToEat": "The berries are firm and can be eaten fresh or frozen individually (book p. 472).",
-    "image": null,
-    "imageCredit": null,
+    "image": "blueberry-hybrid.jpg",
+    "imageCredit": {
+      "author": "Unknown (see source)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vaccinium_angustifolium,_Pancake_Bay_PP.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -11915,7 +12532,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 472
+      "bookPage": 472,
+      "otherSource": null
     },
     "methods": [
       {
@@ -11958,7 +12576,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Haskap",
@@ -11979,8 +12598,13 @@
     ],
     "description": "A blue honeysuckle transformed by 60 years of Canadian and Russian breeding into a large, sweet-tart, very vitamin-rich berry. Extremely hardy, and it ripens about a week before strawberries.",
     "howToEat": "The berries are used just like blueberries and other garden berries (book p. 476).",
-    "image": null,
-    "imageCredit": null,
+    "image": "haskap.jpg",
+    "imageCredit": {
+      "author": "Opioła Jerzy (Poland)",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lonicera_coerulea_a3.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -12005,7 +12629,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 475
+      "bookPage": 475,
+      "otherSource": null
     },
     "methods": [
       {
@@ -12048,7 +12673,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Saskatoon",
@@ -12069,8 +12695,13 @@
     ],
     "description": "A North American relative of the serviceberry, used for centuries as food and medicine from Maine to Alaska. Clouds of white blossom, orange-red autumn leaves, and berries tasting of wild blueberry with a hint of blackcurrant.",
     "howToEat": "Eat the berries when they turn from pink to dark purple; they taste like wild blueberries with a touch of blackcurrant and were long used as food by Native Americans (book p. 478).",
-    "image": null,
-    "imageCredit": null,
+    "image": "saskatoon.jpg",
+    "imageCredit": {
+      "author": "Thayne Tuason",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amelanchier_alnifolia_var._semiintegrifolia_4.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -12092,7 +12723,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 476
+      "bookPage": 476,
+      "otherSource": null
     },
     "methods": [
       {
@@ -12134,7 +12766,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Sea buckthorn",
@@ -12155,8 +12788,13 @@
     ],
     "description": "A tough shrub with silvery leaves and very sour orange berries tasting of passion fruit and pineapple. The berries hold three times as much vitamin C as oranges.",
     "howToEat": "Too sour to eat raw without sugar; use for parfait, sorbet, panna cotta, marmalade, cordial or a fresh-pressed health shot. Easiest harvest: cut whole branches, freeze them and shake the berries off (book p. 484).",
-    "image": null,
-    "imageCredit": null,
+    "image": "sea-buckthorn.jpg",
+    "imageCredit": {
+      "author": "Unknown (see source)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hippophae_rhamnoides-01_(xndr).JPG"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -12178,7 +12816,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 483
+      "bookPage": 483,
+      "otherSource": null
     },
     "methods": [
       {
@@ -12221,7 +12860,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Gooseberry",
@@ -12242,8 +12882,13 @@
     ],
     "description": "Gooseberry fever swept 1800s Sweden until powdery mildew wiped out the crops. Mildew-resistant varieties have brought a revival, and wild bushes from old homesteads can have unbeatable aroma.",
     "howToEat": null,
-    "image": null,
-    "imageCredit": null,
+    "image": "gooseberry.jpg",
+    "imageCredit": {
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grosella_espinosa_(Ribes_uva-crispa),_M%C3%BAnich,_Alemania,_2012-06-07,_DD_01.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -12265,7 +12910,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 489
+      "bookPage": 489,
+      "otherSource": null
     },
     "methods": [
       {
@@ -12310,7 +12956,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Lingonberry",
@@ -12331,8 +12978,13 @@
     ],
     "description": "Cultivated lingonberries are compact evergreen plants with big red berries that taste like wild ones, making a fine edging. Each plant gives 0.5-1 litre a year from year three.",
     "howToEat": null,
-    "image": null,
-    "imageCredit": null,
+    "image": "lingonberry.jpg",
+    "imageCredit": {
+      "author": "Jonas Bergsten",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vaccinium_vitis-idaea_20060824_003.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -12357,7 +13009,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 491
+      "bookPage": 491,
+      "otherSource": null
     },
     "methods": [
       {
@@ -12389,7 +13042,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Wild strawberry",
@@ -12410,8 +13064,13 @@
     ],
     "description": "Non-running alpine strawberries make superb edging and fruit all summer; newer runner-forming red and white types have bigger berries and are effective ground cover.",
     "howToEat": null,
-    "image": null,
-    "imageCredit": null,
+    "image": "wild-strawberry.jpg",
+    "imageCredit": {
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fragaria_vesca_-_metsmaasikas.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -12433,7 +13092,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 492
+      "bookPage": 492,
+      "otherSource": null
     },
     "methods": [
       {
@@ -12478,7 +13138,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Tayberry",
@@ -12499,8 +13160,13 @@
     ],
     "description": "A 1970s Scottish raspberry-blackberry hybrid, the best of the 'bramble-raspberries'. Deep red berries 4 cm long, on long thorny canes; keep flavour expectations modest.",
     "howToEat": "Picked when dark red and eaten fresh; the book says the berries look like jewels on a cream cake.",
-    "image": null,
-    "imageCredit": null,
+    "image": "tayberry.jpg",
+    "imageCredit": {
+      "author": "Jean-Luc Toilet",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tayberry.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -12522,7 +13188,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 494
+      "bookPage": 494,
+      "otherSource": null
     },
     "methods": [
       {
@@ -12565,7 +13232,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Currant",
@@ -12586,8 +13254,13 @@
     ],
     "description": "Very hardy currant grown throughout Sweden. An old Dutch red variety, around 300 years old, gives small berries but a high yield and is hardy to zone 6.",
     "howToEat": null,
-    "image": null,
-    "imageCredit": null,
+    "image": "currant-red.jpg",
+    "imageCredit": {
+      "author": "Unknown (see source)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ribes_rubrum_1.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -12609,7 +13282,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 497
+      "bookPage": 497,
+      "otherSource": null
     },
     "methods": [
       {
@@ -12654,7 +13328,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Currant",
@@ -12675,8 +13350,13 @@
     ],
     "description": "White currants arose as a mutation of red currants and are slightly milder in taste, as are pink currants.",
     "howToEat": null,
-    "image": null,
-    "imageCredit": null,
+    "image": "currant-white.jpg",
+    "imageCredit": {
+      "author": "Marie-Lan Nguyen",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Groseilles_blanches.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -12698,7 +13378,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 497
+      "bookPage": 497,
+      "otherSource": null
     },
     "methods": [
       {
@@ -12743,7 +13424,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Elder",
@@ -12764,8 +13446,13 @@
     ],
     "description": "A large shrub that grows up to four metres high and wide once established. Varieties Samyl and Samidan stay at two to three metres.",
     "howToEat": "Both the flowers and the berries are used for cordial. Do not confuse it with red-berried elder (Sambucus racemosa), whose red berries are not edible (book p. 503). Always cook the berries: raw or unripe elderberries, leaves and stems can make you sick.",
-    "image": null,
-    "imageCredit": null,
+    "image": "elder.jpg",
+    "imageCredit": {
+      "author": "Willow",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -12784,7 +13471,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 502
+      "bookPage": 502,
+      "otherSource": null
     },
     "methods": [
       {
@@ -12839,7 +13527,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Magnolia vine",
@@ -12860,8 +13549,13 @@
     ],
     "description": "Also called schisandra, the most challenging berry in the chapter: a climbing vine with lemon-scented flowers and leaves and clusters of lingonberry-red berries.",
     "howToEat": "The berries are used for cordial and a jelly said to go well with game; Siberian hunters used them against hunger and fatigue.",
-    "image": null,
-    "imageCredit": null,
+    "image": "magnolia-vine.jpg",
+    "imageCredit": {
+      "author": "三上 勝生",
+      "license": "CC BY-SA 2.1 jp",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schisandra_chinensis,_fruit_01.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -12880,7 +13574,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 502
+      "bookPage": 502,
+      "otherSource": null
     },
     "methods": [
       {
@@ -12912,7 +13607,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Cloudberry",
@@ -12933,8 +13629,13 @@
     ],
     "description": "A real challenge with low yields, but hardy to minus 40 degrees. New plants are easy from 10 cm rhizome pieces planted about 2 cm deep.",
     "howToEat": null,
-    "image": null,
-    "imageCredit": null,
+    "image": "cloudberry.jpg",
+    "imageCredit": {
+      "author": "Moravice",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rubus_chamaemorus,_from_Troms%C3%B8,_August_2020.jpeg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -12953,7 +13654,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 503
+      "bookPage": 503,
+      "otherSource": null
     },
     "methods": [
       {
@@ -12996,7 +13698,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Rose hip",
@@ -13016,8 +13719,13 @@
     ],
     "description": "Grow your own hips instead of buying imported ones, and enjoy the roses too. Hips are packed with vitamin C, carotene and magnesium.",
     "howToEat": "Used for rose hip soup, a Swedish classic.",
-    "image": null,
-    "imageCredit": null,
+    "image": "rose-hip.jpg",
+    "imageCredit": {
+      "author": "Morn the Gorn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rose_hips.jpg"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -13033,7 +13741,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 504
+      "bookPage": 504,
+      "otherSource": null
     },
     "methods": [
       {
@@ -13075,7 +13784,8 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   },
   {
     "name": "Black chokeberry",
@@ -13095,8 +13805,13 @@
     ],
     "description": "The black berries taste of almost nothing but are rich in acid and dark pigment. Also an attractive ornamental with leaves that turn bright red in autumn.",
     "howToEat": "Useful for jelly and cordial thanks to their acidity and colour.",
-    "image": null,
-    "imageCredit": null,
+    "image": "black-chokeberry.jpg",
+    "imageCredit": {
+      "author": "manfred.sause@volloeko.de",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aronia_melanocarpa_cv_Rubina_P1020524.JPG"
+    },
     "growing": {
       "germinationDays": null,
       "minGerminationTempC": null,
@@ -13115,7 +13830,8 @@
       "goodIntercrop": false,
       "sowInRounds": false,
       "cutAndComeAgain": false,
-      "bookPage": 505
+      "bookPage": 505,
+      "otherSource": null
     },
     "methods": [
       {
@@ -13160,6 +13876,7 @@
           }
         ]
       }
-    ]
+    ],
+    "recommendedVarieties": []
   }
 ]
