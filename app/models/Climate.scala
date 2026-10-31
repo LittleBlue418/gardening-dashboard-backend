@@ -12,6 +12,7 @@ case class Climate(
     lastSpringFrost: FrostDate,
     firstAutumnFrost: FrostDate,
     vegetationPeriod: VegetationPeriod,
+    coldestNight: Option[ColdestNight], // the yearly low that sets the USDA zone
     frozenGroundMonths: List[MonthName],
     snowCoverMonths: List[MonthName],
     outdoorSowingFrom: MonthDay, // once the soil has thawed and is workable
@@ -68,4 +69,16 @@ case class VegetationPeriod(
 
 object VegetationPeriod {
   implicit val format: OFormat[VegetationPeriod] = Json.format[VegetationPeriod]
+}
+
+// The coldest night of each winter, averaged over a normal period. This is what a USDA hardiness
+// zone measures (7a = -17.8 to -15.0 C), so plants' frost tolerance can be compared with it.
+case class ColdestNight(
+    averageC: Double,
+    worstC: Double, // the single coldest winter in the period
+    source: Option[String],
+)
+
+object ColdestNight {
+  implicit val format: OFormat[ColdestNight] = Json.format[ColdestNight]
 }
