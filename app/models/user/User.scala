@@ -10,7 +10,9 @@ case class User(
   email: String,
   name: String,
   pictureUrl: Option[String],
-  createdAt: Long = System.currentTimeMillis()
+  createdAt: Long = System.currentTimeMillis(),
+  savedPlantIds: List[ObjectId] = Nil, // Plant._id of each plant in "My plants"
+  selectedPlantIds: List[ObjectId] = Nil, // the saved plants they're growing this year (always a subset of saved); drives the timeline
 )
 
 object User {

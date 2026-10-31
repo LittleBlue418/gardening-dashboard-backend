@@ -1,5 +1,6 @@
 [
   {
+    "_id": "a00000000000000000000001",
     "name": "Tomato",
     "swedishName": "Tomat",
     "scientificName": "Solanum lycopersicum",
@@ -120,6 +121,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000002",
     "name": "Pepper",
     "swedishName": "Chilipeppar",
     "scientificName": "Capsicum annuum",
@@ -240,6 +242,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000003",
     "name": "Pepper",
     "swedishName": "Paprika",
     "scientificName": "Capsicum annuum",
@@ -359,6 +362,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000004",
     "name": "Cucumber",
     "swedishName": "Gurka",
     "scientificName": "Cucumis sativus",
@@ -456,6 +460,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000005",
     "name": "Pumpkin",
     "swedishName": "Pumpa",
     "scientificName": "Cucurbita maxima",
@@ -553,6 +558,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000006",
     "name": "Squash",
     "swedishName": "Squash",
     "scientificName": "Cucurbita pepo",
@@ -661,6 +667,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000007",
     "name": "Onion",
     "swedishName": "Kepalök",
     "scientificName": "Allium cepa",
@@ -829,6 +836,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000008",
     "name": "Onion",
     "swedishName": "Salladslök",
     "scientificName": "Allium fistulosum",
@@ -940,6 +948,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000009",
     "name": "Leek",
     "swedishName": "Purjolök",
     "scientificName": "Allium porrum",
@@ -1051,6 +1060,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000000a",
     "name": "Garlic",
     "swedishName": "Vitlök",
     "scientificName": "Allium sativum",
@@ -1152,6 +1162,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000000b",
     "name": "Carrot",
     "swedishName": "Morot",
     "scientificName": "Daucus carota",
@@ -1294,6 +1305,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000000c",
     "name": "Parsnip",
     "swedishName": "Palsternacka",
     "scientificName": "Pastinaca sativa",
@@ -1380,6 +1392,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000000d",
     "name": "Beetroot",
     "swedishName": "Rödbeta",
     "scientificName": "Beta vulgaris",
@@ -1499,6 +1512,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000000e",
     "name": "Radish",
     "swedishName": "Rädisa",
     "scientificName": "Raphanus sativus",
@@ -1654,6 +1668,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000000f",
     "name": "Turnip",
     "swedishName": "Majrova",
     "scientificName": "Brassica rapa",
@@ -1753,6 +1768,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000010",
     "name": "Kohlrabi",
     "swedishName": "Kålrabbi",
     "scientificName": "Brassica oleracea",
@@ -1842,6 +1858,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000011",
     "name": "Pea",
     "swedishName": "Spritärt",
     "scientificName": "Pisum sativum",
@@ -1928,6 +1945,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000012",
     "name": "Pea",
     "swedishName": "Brytsockerärt",
     "scientificName": "Pisum sativum",
@@ -2014,6 +2032,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000013",
     "name": "Bean",
     "swedishName": "Bondböna",
     "scientificName": "Vicia faba",
@@ -2100,6 +2119,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000014",
     "name": "Bean",
     "swedishName": "Brytböna",
     "scientificName": "Phaseolus vulgaris",
@@ -2196,6 +2216,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000015",
     "name": "Bean",
     "swedishName": "Rosenböna",
     "scientificName": "Phaseolus coccineus",
@@ -2287,6 +2308,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000016",
     "name": "Bean",
     "swedishName": "Kokböna",
     "scientificName": "Phaseolus vulgaris",
@@ -2371,6 +2393,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000017",
     "name": "Broccoli",
     "swedishName": "Broccoli",
     "scientificName": "Brassica oleracea",
@@ -2503,6 +2526,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000018",
     "name": "Cabbage",
     "swedishName": "Vitkål",
     "scientificName": "Brassica oleracea",
@@ -2601,6 +2625,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000019",
     "name": "Cauliflower",
     "swedishName": "Blomkål",
     "scientificName": "Brassica oleracea",
@@ -2698,6 +2723,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000001a",
     "name": "Kale",
     "swedishName": "Grönkål",
     "scientificName": "Brassica oleracea",
@@ -2808,6 +2834,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000001b",
     "name": "Pak choi",
     "swedishName": "Sellerikål",
     "scientificName": "Brassica rapa",
@@ -2905,6 +2932,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000001c",
     "name": "Mizuna",
     "swedishName": "Mizunakål",
     "scientificName": "Brassica rapa",
@@ -2991,6 +3019,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000001d",
     "name": "Mustard greens",
     "swedishName": "Bladsarepta",
     "scientificName": "Brassica juncea",
@@ -3077,6 +3106,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000001e",
     "name": "Chard",
     "swedishName": "Mangold",
     "scientificName": "Beta vulgaris",
@@ -3186,6 +3216,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000001f",
     "name": "Lettuce",
     "swedishName": "Sallat",
     "scientificName": "Lactuca sativa",
@@ -3323,6 +3354,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000020",
     "name": "Winter salad",
     "swedishName": null,
     "scientificName": null,
@@ -3466,6 +3498,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000021",
     "name": "Spinach",
     "swedishName": "Spenat",
     "scientificName": "Spinacia oleracea",
@@ -3597,6 +3630,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000022",
     "name": "Rocket",
     "swedishName": "Rucola",
     "scientificName": "Eruca sativa",
@@ -3724,6 +3758,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000023",
     "name": "Corn salad",
     "swedishName": "Vintersallat",
     "scientificName": "Valerianella locusta",
@@ -3821,6 +3856,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000024",
     "name": "Fennel",
     "swedishName": "Sötfänkål",
     "scientificName": "Foeniculum vulgare",
@@ -3916,6 +3952,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000025",
     "name": "Potato",
     "swedishName": "Potatis",
     "scientificName": "Solanum tuberosum",
@@ -4016,6 +4053,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000026",
     "name": "Rhubarb",
     "swedishName": "Rabarber",
     "scientificName": "Rheum rhabarbarum",
@@ -4145,6 +4183,7 @@
     ]
   },
   {
+    "_id": "a00000000000000000000027",
     "name": "Strawberry",
     "swedishName": "Jordgubbe",
     "scientificName": "Fragaria x ananassa",
@@ -4310,6 +4349,7 @@
     ]
   },
   {
+    "_id": "a00000000000000000000028",
     "name": "Currant",
     "swedishName": "Svarta vinbär",
     "scientificName": "Ribes nigrum",
@@ -4437,6 +4477,7 @@
     ]
   },
   {
+    "_id": "a00000000000000000000029",
     "name": "Raspberry",
     "swedishName": "Hallon",
     "scientificName": "Rubus idaeus",
@@ -4657,6 +4698,7 @@
     ]
   },
   {
+    "_id": "a0000000000000000000002a",
     "name": "Apple",
     "swedishName": "Äpple",
     "scientificName": "Malus domestica",
@@ -4939,6 +4981,7 @@
     ]
   },
   {
+    "_id": "a0000000000000000000002b",
     "name": "Plum",
     "swedishName": "Plommon",
     "scientificName": "Prunus domestica",
@@ -5127,6 +5170,7 @@
     ]
   },
   {
+    "_id": "a0000000000000000000002c",
     "name": "Earthnut pea",
     "swedishName": "Knölvial",
     "scientificName": "Lathyrus tuberosus",
@@ -5201,6 +5245,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000002d",
     "name": "Soybean",
     "swedishName": "Sojaböna",
     "scientificName": "Glycine max",
@@ -5285,6 +5330,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000002e",
     "name": "Asparagus pea",
     "swedishName": "Sparrisärt",
     "scientificName": "Tetragonolobus purpureus",
@@ -5385,6 +5431,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000002f",
     "name": "Chinese broccoli",
     "swedishName": "Daggkål",
     "scientificName": "Brassica oleracea",
@@ -5475,6 +5522,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000030",
     "name": "Chinese cabbage",
     "swedishName": "Salladskål",
     "scientificName": "Brassica rapa",
@@ -5565,6 +5613,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000031",
     "name": "Tatsoi",
     "swedishName": "Tatsoikål",
     "scientificName": "Brassica rapa",
@@ -5656,6 +5705,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000032",
     "name": "Chicory",
     "swedishName": "Cikoria",
     "scientificName": "Cichorium intybus",
@@ -5779,6 +5829,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000033",
     "name": "Endive",
     "swedishName": "Friséesallat",
     "scientificName": "Cichorium endivia",
@@ -5869,6 +5920,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000034",
     "name": "Dill",
     "swedishName": "Dill",
     "scientificName": "Anethum graveolens",
@@ -5963,6 +6015,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000035",
     "name": "New Zealand spinach",
     "swedishName": "Nyzeeländsk spenat",
     "scientificName": "Tetragonia tetragonoides",
@@ -6065,6 +6118,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000036",
     "name": "Parsley",
     "swedishName": "Persilja",
     "scientificName": "Petroselinum crispum",
@@ -6182,6 +6236,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000037",
     "name": "Water spinach",
     "swedishName": "Sallatsipomea",
     "scientificName": "Ipomoea aquatica",
@@ -6283,6 +6338,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000038",
     "name": "Wild rocket",
     "swedishName": "Sandsenap",
     "scientificName": "Diplotaxis tenuifolia",
@@ -6400,6 +6456,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000039",
     "name": "Garden cress",
     "swedishName": "Smörgåskrasse",
     "scientificName": "Lepidium sativum",
@@ -6495,6 +6552,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000003a",
     "name": "Celery",
     "swedishName": "Snittselleri",
     "scientificName": "Apium graveolens",
@@ -6599,6 +6657,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000003b",
     "name": "Purslane",
     "swedishName": "Trädgårdsportlak",
     "scientificName": "Portulaca oleracea",
@@ -6711,6 +6770,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000003c",
     "name": "Strawberry spinach",
     "swedishName": "Bärmålla",
     "scientificName": "Blitum virgatum",
@@ -6790,6 +6850,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000003d",
     "name": "Good King Henry",
     "swedishName": "Gode Henrik",
     "scientificName": "Chenopodium bonus-henricus",
@@ -6880,6 +6941,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000003e",
     "name": "Ice plant",
     "swedishName": "Isört",
     "scientificName": "Mesembryanthemum crystallinum",
@@ -6969,6 +7031,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000003f",
     "name": "Mallow",
     "swedishName": "Malva",
     "scientificName": "Malva verticillata",
@@ -7046,6 +7109,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000040",
     "name": "Milk thistle",
     "swedishName": "Mariatistel",
     "scientificName": "Silybum marianum",
@@ -7136,6 +7200,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000041",
     "name": "Mitsuba",
     "swedishName": "Mitsuba",
     "scientificName": "Cryptotaenia canadensis",
@@ -7229,6 +7294,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000042",
     "name": "Quinoa",
     "swedishName": "Mjölmålla",
     "scientificName": "Chenopodium quinoa",
@@ -7307,6 +7373,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000043",
     "name": "Amaranth",
     "swedishName": "Papegojamarant",
     "scientificName": "Amaranthus tricolor",
@@ -7406,6 +7473,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000044",
     "name": "Salad burnet",
     "swedishName": "Pimpinell",
     "scientificName": "Sanguisorba minor",
@@ -7488,6 +7556,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000045",
     "name": "Caucasian spinach",
     "swedishName": "Rankspenat",
     "scientificName": "Hablitzia tamnoides",
@@ -7572,6 +7641,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000046",
     "name": "Garland chrysanthemum",
     "swedishName": "Sallatskranskrage",
     "scientificName": "Glebionis coronaria",
@@ -7655,6 +7725,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000047",
     "name": "Sorrel",
     "swedishName": "Sköldsyra",
     "scientificName": "Rumex scutatus",
@@ -7743,6 +7814,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000048",
     "name": "Agretti",
     "swedishName": "Sodaört",
     "scientificName": "Salsola soda",
@@ -7831,6 +7903,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000049",
     "name": "Lettuce",
     "swedishName": "Sparrissallat",
     "scientificName": "Lactuca sativa",
@@ -7920,6 +7993,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000004a",
     "name": "Patience dock",
     "swedishName": "Spenatskräppa",
     "scientificName": "Rumex patientia",
@@ -8005,6 +8079,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000004b",
     "name": "Orach",
     "swedishName": "Trädgårdsmålla",
     "scientificName": "Atriplex hortensis",
@@ -8075,6 +8150,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000004c",
     "name": "Sorrel",
     "swedishName": "Trädgårdssyra",
     "scientificName": "Rumex rugosus",
@@ -8163,6 +8239,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000004d",
     "name": "Watercress",
     "swedishName": "Vattenkrasse",
     "scientificName": "Rorippa nasturtium-aquaticum",
@@ -8241,6 +8318,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000004e",
     "name": "Winter purslane",
     "swedishName": "Vinterportlak",
     "scientificName": "Claytonia perfoliata",
@@ -8338,6 +8416,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000004f",
     "name": "Land cress",
     "swedishName": "Vårgyllen",
     "scientificName": "Barbarea verna",
@@ -8420,6 +8499,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000050",
     "name": "Melon",
     "swedishName": "Melon",
     "scientificName": "Cucumis melo",
@@ -8523,6 +8603,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000051",
     "name": "Broccoli raab",
     "swedishName": "Broccolirybs",
     "scientificName": "Brassica rapa",
@@ -8625,6 +8706,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000052",
     "name": "Broccoli",
     "swedishName": "Broccolo",
     "scientificName": "Brassica oleracea",
@@ -8729,6 +8811,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000053",
     "name": "Brussels sprouts",
     "swedishName": "Brysselkål",
     "scientificName": "Brassica oleracea",
@@ -8830,6 +8913,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000054",
     "name": "Kale",
     "swedishName": "Palmkål",
     "scientificName": "Brassica oleracea",
@@ -8934,6 +9018,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000055",
     "name": "Cabbage",
     "swedishName": "Savojkål",
     "scientificName": "Brassica oleracea",
@@ -9036,6 +9121,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000056",
     "name": "Siberian kale",
     "swedishName": "Sibirisk bladraps",
     "scientificName": "Brassica napus",
@@ -9132,6 +9218,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000057",
     "name": "Cabbage",
     "swedishName": "Smörkål",
     "scientificName": "Brassica oleracea",
@@ -9229,6 +9316,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000058",
     "name": "Cabbage",
     "swedishName": "Rödkål",
     "scientificName": "Brassica oleracea",
@@ -9331,6 +9419,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000059",
     "name": "Chives",
     "swedishName": "Gräslök",
     "scientificName": "Allium schoenoprasum",
@@ -9465,6 +9554,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000005a",
     "name": "Shallot",
     "swedishName": "Schalottenlök",
     "scientificName": "Allium cepa",
@@ -9552,6 +9642,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000005b",
     "name": "Onion",
     "swedishName": "Luftlök",
     "scientificName": "Allium x proliferum",
@@ -9633,6 +9724,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000005c",
     "name": "Welsh onion",
     "swedishName": "Piplök",
     "scientificName": "Allium fistulosum",
@@ -9742,6 +9834,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000005d",
     "name": "Garlic chives",
     "swedishName": "Kinesisk gräslök",
     "scientificName": "Allium tuberosum",
@@ -9831,6 +9924,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000005e",
     "name": "Norrland onion",
     "swedishName": "Norrlandslök",
     "scientificName": "Allium angulosum",
@@ -9907,6 +10001,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000005f",
     "name": "Shallot",
     "swedishName": "Potatislök",
     "scientificName": "Allium cepa",
@@ -9983,6 +10078,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000060",
     "name": "Wild garlic",
     "swedishName": "Ramslök",
     "scientificName": "Allium ursinum",
@@ -10104,6 +10200,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000061",
     "name": "Sand leek",
     "swedishName": "Skogslök",
     "scientificName": "Allium scorodoprasum",
@@ -10218,6 +10315,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000062",
     "name": "Jerusalem artichoke",
     "swedishName": "Jordärtskocka",
     "scientificName": "Helianthus tuberosus",
@@ -10306,6 +10404,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000063",
     "name": "Swede",
     "swedishName": "Kålrot",
     "scientificName": "Brassica napus",
@@ -10397,6 +10496,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000064",
     "name": "Parsley",
     "swedishName": "Rotpersilja",
     "scientificName": "Petroselinum crispum",
@@ -10487,6 +10587,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000065",
     "name": "Celeriac",
     "swedishName": "Rotselleri",
     "scientificName": "Apium graveolens",
@@ -10591,6 +10692,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000066",
     "name": "Radish",
     "swedishName": "Rättika",
     "scientificName": "Raphanus sativus var. niger",
@@ -10676,6 +10778,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000067",
     "name": "Radish",
     "swedishName": "Daikon",
     "scientificName": "Raphanus sativus var. longipinnatus",
@@ -10765,6 +10868,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000068",
     "name": "Scorzonera",
     "swedishName": "Svartrot",
     "scientificName": "Scorzonera hispanica",
@@ -10854,6 +10958,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000069",
     "name": "Salsify",
     "swedishName": "Haverrot",
     "scientificName": "Tragopogon porrifolius",
@@ -10943,6 +11048,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000006a",
     "name": "Chinese artichoke",
     "swedishName": "Korogi",
     "scientificName": "Stachys affinis",
@@ -11032,6 +11138,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000006b",
     "name": "Horseradish",
     "swedishName": "Pepparrot",
     "scientificName": "Armoracia rusticana",
@@ -11111,6 +11218,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000006c",
     "name": "Rampion",
     "swedishName": "Rapunkelklocka",
     "scientificName": "Campanula rapunculus",
@@ -11187,6 +11295,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000006d",
     "name": "Burdock",
     "swedishName": "Rotkardborre",
     "scientificName": "Arctium lappa",
@@ -11263,6 +11372,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000006e",
     "name": "Root chervil",
     "swedishName": "Rotkörvel",
     "scientificName": "Chaerophyllum bulbosum",
@@ -11332,6 +11442,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000006f",
     "name": "Skirret",
     "swedishName": "Sockerrot",
     "scientificName": "Sium sisarum",
@@ -11408,6 +11519,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000070",
     "name": "Turnip",
     "swedishName": "Svedjerova",
     "scientificName": "Brassica rapa",
@@ -11479,6 +11591,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000071",
     "name": "Celery",
     "swedishName": "Blekselleri",
     "scientificName": "Apium graveolens",
@@ -11583,6 +11696,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000072",
     "name": "Artichoke",
     "swedishName": "Kronärtskocka",
     "scientificName": "Cynara cardunculus",
@@ -11687,6 +11801,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000073",
     "name": "Sweetcorn",
     "swedishName": "Majs",
     "scientificName": "Zea mays",
@@ -11787,6 +11902,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000074",
     "name": "Asparagus",
     "swedishName": "Sparris",
     "scientificName": "Asparagus officinalis",
@@ -11911,6 +12027,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000075",
     "name": "Cardoon",
     "swedishName": "Kardon",
     "scientificName": "Cynara cardunculus",
@@ -11998,6 +12115,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000076",
     "name": "Angelica",
     "swedishName": "Kvanne",
     "scientificName": "Angelica archangelica",
@@ -12073,6 +12191,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000077",
     "name": "Sea kale",
     "swedishName": "Strandkål",
     "scientificName": "Crambe maritima",
@@ -12160,6 +12279,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000078",
     "name": "Aubergine",
     "swedishName": "Aubergin",
     "scientificName": "Solanum melongena",
@@ -12261,6 +12381,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000079",
     "name": "Ground cherry",
     "swedishName": "Gyllenbär",
     "scientificName": "Physalis grisea",
@@ -12348,6 +12469,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000007a",
     "name": "Tomatillo",
     "swedishName": "Tomatillo",
     "scientificName": "Physalis philadelphica",
@@ -12436,6 +12558,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000007b",
     "name": "Arctic bramble",
     "swedishName": "Allåkerbär",
     "scientificName": "Rubus arcticus",
@@ -12562,6 +12685,7 @@
     ]
   },
   {
+    "_id": "a0000000000000000000007c",
     "name": "Blackberry",
     "swedishName": "Björnbär",
     "scientificName": "Rubus fruticosus",
@@ -12675,6 +12799,7 @@
     ]
   },
   {
+    "_id": "a0000000000000000000007d",
     "name": "Blueberry",
     "swedishName": "Amerikanskt blåbär",
     "scientificName": "Vaccinium corymbosum",
@@ -12820,6 +12945,7 @@
     ]
   },
   {
+    "_id": "a0000000000000000000007e",
     "name": "Blueberry",
     "swedishName": "Hybridblåbär",
     "scientificName": "Vaccinium angustifolium group",
@@ -12938,6 +13064,7 @@
     ]
   },
   {
+    "_id": "a0000000000000000000007f",
     "name": "Haskap",
     "swedishName": "Blåbärstry",
     "scientificName": "Lonicera kamtschatica",
@@ -13096,6 +13223,7 @@
     ]
   },
   {
+    "_id": "a00000000000000000000080",
     "name": "Saskatoon",
     "swedishName": "Bärhäggmispel",
     "scientificName": "Amelanchier alnifolia",
@@ -13214,6 +13342,7 @@
     ]
   },
   {
+    "_id": "a00000000000000000000081",
     "name": "Sea buckthorn",
     "swedishName": "Havtorn",
     "scientificName": "Hippophae rhamnoides",
@@ -13353,6 +13482,7 @@
     ]
   },
   {
+    "_id": "a00000000000000000000082",
     "name": "Gooseberry",
     "swedishName": "Krusbär",
     "scientificName": "Ribes uva-crispa",
@@ -13490,6 +13620,7 @@
     ]
   },
   {
+    "_id": "a00000000000000000000083",
     "name": "Lingonberry",
     "swedishName": "Lingon",
     "scientificName": "Vaccinium vitis-idaea",
@@ -13617,6 +13748,7 @@
     ]
   },
   {
+    "_id": "a00000000000000000000084",
     "name": "Wild strawberry",
     "swedishName": "Smultron",
     "scientificName": "Fragaria vesca, F. moschata",
@@ -13742,6 +13874,7 @@
     ]
   },
   {
+    "_id": "a00000000000000000000085",
     "name": "Tayberry",
     "swedishName": "Taybär",
     "scientificName": "Rubus (blackberry x raspberry hybrid group)",
@@ -13836,6 +13969,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000086",
     "name": "Currant",
     "swedishName": "Röda vinbär",
     "scientificName": "Ribes rubrum",
@@ -13953,6 +14087,7 @@
     ]
   },
   {
+    "_id": "a00000000000000000000087",
     "name": "Currant",
     "swedishName": "Vita vinbär",
     "scientificName": "Ribes rubrum",
@@ -14080,6 +14215,7 @@
     ]
   },
   {
+    "_id": "a00000000000000000000088",
     "name": "Elder",
     "swedishName": "Fläder",
     "scientificName": "Sambucus nigra",
@@ -14204,6 +14340,7 @@
     ]
   },
   {
+    "_id": "a00000000000000000000089",
     "name": "Magnolia vine",
     "swedishName": "Fjärilsranka",
     "scientificName": "Schisandra chinensis",
@@ -14284,6 +14421,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000008a",
     "name": "Cloudberry",
     "swedishName": "Hjortron",
     "scientificName": "Rubus chamaemorus",
@@ -14383,6 +14521,7 @@
     ]
   },
   {
+    "_id": "a0000000000000000000008b",
     "name": "Rose hip",
     "swedishName": "Nypon",
     "scientificName": "Rosa dumalis, R. rugosa, R. rubiginosa",
@@ -14469,6 +14608,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000008c",
     "name": "Black chokeberry",
     "swedishName": "Svartaronia",
     "scientificName": "Aronia melanocarpa",
@@ -14572,6 +14712,7 @@
     ]
   },
   {
+    "_id": "a0000000000000000000008d",
     "name": "Anise",
     "swedishName": "Anis",
     "scientificName": "Pimpinella anisum",
@@ -14679,6 +14820,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000008e",
     "name": "Anise hyssop",
     "swedishName": "Anisisop",
     "scientificName": "Agastache foeniculum",
@@ -14776,6 +14918,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000008f",
     "name": "Basil",
     "swedishName": "Basilika",
     "scientificName": "Ocimum basilicum",
@@ -14888,6 +15031,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000090",
     "name": "Spignel",
     "swedishName": "Björnrot",
     "scientificName": "Meum athamanticum",
@@ -15017,6 +15161,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000091",
     "name": "Perilla",
     "swedishName": "Bladmynta",
     "scientificName": "Perilla frutescens",
@@ -15115,6 +15260,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000092",
     "name": "Fenugreek",
     "swedishName": "Bockhornsklöver",
     "scientificName": "Trigonella foenum-graecum",
@@ -15203,6 +15349,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000093",
     "name": "Lemongrass",
     "swedishName": "Citrongräs",
     "scientificName": "Cymbopogon citratus",
@@ -15366,6 +15513,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000094",
     "name": "Lemon balm",
     "swedishName": "Citronmeliss",
     "scientificName": "Melissa officinalis",
@@ -15496,6 +15644,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000095",
     "name": "Lemon verbena",
     "swedishName": "Citronverbena",
     "scientificName": "Aloysia citriodora",
@@ -15586,6 +15735,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000096",
     "name": "Chervil",
     "swedishName": "Dansk körvel",
     "scientificName": "Anthriscus cerefolium",
@@ -15674,6 +15824,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000097",
     "name": "Sweet cicely",
     "swedishName": "Spansk körvel",
     "scientificName": "Myrrhis odorata",
@@ -15763,6 +15914,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000098",
     "name": "Tarragon",
     "swedishName": "Dragon",
     "scientificName": "Artemisia dracunculus",
@@ -15846,6 +15998,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a00000000000000000000099",
     "name": "Hyssop",
     "swedishName": "Isop",
     "scientificName": "Hyssopus officinalis",
@@ -15976,6 +16129,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000009a",
     "name": "Coriander",
     "swedishName": "Koriander",
     "scientificName": "Coriandrum sativum",
@@ -16065,6 +16219,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000009b",
     "name": "Fennel",
     "swedishName": "Kryddfänkål",
     "scientificName": "Foeniculum vulgare",
@@ -16160,6 +16315,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000009c",
     "name": "Sage",
     "swedishName": "Kryddsalvia",
     "scientificName": "Salvia officinalis",
@@ -16293,6 +16449,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000009d",
     "name": "Caraway",
     "swedishName": "Kummin",
     "scientificName": "Carum carvi",
@@ -16376,6 +16533,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000009e",
     "name": "Lavender",
     "swedishName": "Lavendel",
     "scientificName": "Lavandula angustifolia",
@@ -16502,6 +16660,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a0000000000000000000009f",
     "name": "Lovage",
     "swedishName": "Libbsticka",
     "scientificName": "Levisticum officinale",
@@ -16618,6 +16777,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a000000000000000000000a0",
     "name": "Wormwood",
     "swedishName": "Malört",
     "scientificName": "Artemisia absinthium",
@@ -16746,6 +16906,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a000000000000000000000a1",
     "name": "Marjoram",
     "swedishName": "Mejram",
     "scientificName": "Origanum majorana",
@@ -16845,6 +17006,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a000000000000000000000a2",
     "name": "Mint",
     "swedishName": "Mynta",
     "scientificName": "Mentha",
@@ -16929,6 +17091,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a000000000000000000000a3",
     "name": "Oregano",
     "swedishName": "Oregano",
     "scientificName": "Origanum vulgare",
@@ -17059,6 +17222,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a000000000000000000000a4",
     "name": "Rosemary",
     "swedishName": "Rosmarin",
     "scientificName": "Rosmarinus officinalis",
@@ -17154,6 +17318,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a000000000000000000000a5",
     "name": "Summer savory",
     "swedishName": "Sommarkyndel",
     "scientificName": "Satureja hortensis",
@@ -17238,6 +17403,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a000000000000000000000a6",
     "name": "Huacatay",
     "swedishName": "Stinktagetes",
     "scientificName": "Tagetes minuta",
@@ -17333,6 +17499,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a000000000000000000000a7",
     "name": "Thyme",
     "swedishName": "Timjan",
     "scientificName": "Thymus vulgaris",
@@ -17461,6 +17628,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a000000000000000000000a8",
     "name": "Rue",
     "swedishName": "Vinruta",
     "scientificName": "Ruta graveolens",
@@ -17591,6 +17759,7 @@
     "recommendedVarieties": []
   },
   {
+    "_id": "a000000000000000000000a9",
     "name": "Southernwood",
     "swedishName": "Åbrodd",
     "scientificName": "Artemisia abrotanum",
