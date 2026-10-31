@@ -6,6 +6,11 @@
         "system": "swedish",
         "value": "3",
         "source": "zonkartan.se (Svensk Trädgård) address lookup, 2026-10-16. Covers woody plants only (trees, bushes, fruit), not vegetables."
+      },
+      {
+        "system": "usda",
+        "value": "7a",
+        "source": "SMHI open data, Stockholm-Bromma 97200, daily minimum air temperature, winters 1991/92–2020/21, coldest night of each winter (July–June). Computed 2026-10-31. Average yearly low -17.4 °C = USDA 7a (-17.8 to -15.0 °C). City centre (Observatoriekullen) is 7b."
       }
     ],
     "lastSpringFrost": {
@@ -36,6 +41,11 @@
       "minDays": 190,
       "maxDays": 200,
       "source": "SMHI Vegetationsperiod map, 1991–2020 (days with mean temperature above +5°C)."
+    },
+    "coldestNight": {
+      "averageC": -17.4,
+      "worstC": -24.7,
+      "source": "SMHI open data, Stockholm-Bromma 97200, daily minimum air temperature, winters 1991/92–2020/21, coldest night of each winter (July–June). Computed 2026-10-31."
     },
     "frozenGroundMonths": [
       "December",

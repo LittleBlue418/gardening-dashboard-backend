@@ -259,3 +259,105 @@ object GrowthForm {
         }
     }
 }
+
+// Botanical family. Drives crop rotation: plants in the same family share pests and
+// diseases, so they shouldn't follow each other in a bed. JSON uses the Latin name,
+// which never changes; `swedishName` is the name the book uses (it sometimes uses two).
+sealed abstract class PlantFamily(val latinName: String, val swedishName: String)
+object PlantFamily {
+    case object Aizoaceae extends PlantFamily("Aizoaceae", "isörtsväxter")
+    case object Amaranthaceae extends PlantFamily("Amaranthaceae", "amarantväxter") // book also: mållväxter
+    case object Amaryllidaceae extends PlantFamily("Amaryllidaceae", "amaryllisväxter") // book: backlöksväxter
+    case object Apiaceae extends PlantFamily("Apiaceae", "flockblommiga")
+    case object Asparagaceae extends PlantFamily("Asparagaceae", "sparrisväxter")
+    case object Asteraceae extends PlantFamily("Asteraceae", "korgblommiga")
+    case object Brassicaceae extends PlantFamily("Brassicaceae", "korsblommiga") // book also: kålväxter
+    case object Campanulaceae extends PlantFamily("Campanulaceae", "klockväxter")
+    case object Caprifoliaceae extends PlantFamily("Caprifoliaceae", "kaprifolväxter") // book also: vänderotsväxter
+    case object Convolvulaceae extends PlantFamily("Convolvulaceae", "vindeväxter")
+    case object Cucurbitaceae extends PlantFamily("Cucurbitaceae", "gurkväxter")
+    case object Elaeagnaceae extends PlantFamily("Elaeagnaceae", "havtornsväxter")
+    case object Ericaceae extends PlantFamily("Ericaceae", "ljungväxter")
+    case object Fabaceae extends PlantFamily("Fabaceae", "ärtväxter")
+    case object Grossulariaceae extends PlantFamily("Grossulariaceae", "ripsväxter")
+    case object Lamiaceae extends PlantFamily("Lamiaceae", "kransblommiga")
+    case object Malvaceae extends PlantFamily("Malvaceae", "malvaväxter")
+    case object Poaceae extends PlantFamily("Poaceae", "gräs")
+    case object Polygonaceae extends PlantFamily("Polygonaceae", "slideväxter")
+    case object Portulacaceae extends PlantFamily("Portulacaceae", "portlakväxter")
+    case object Rosaceae extends PlantFamily("Rosaceae", "rosväxter")
+    case object Rutaceae extends PlantFamily("Rutaceae", "vinruteväxter")
+    case object Schisandraceae extends PlantFamily("Schisandraceae", "schisandraväxter")
+    case object Solanaceae extends PlantFamily("Solanaceae", "potatisväxter")
+    case object Verbenaceae extends PlantFamily("Verbenaceae", "verbenaväxter")
+
+    val all: List[PlantFamily] = List(
+        Aizoaceae, Amaranthaceae, Amaryllidaceae, Apiaceae, Asparagaceae, Asteraceae, Brassicaceae,
+        Campanulaceae, Caprifoliaceae, Convolvulaceae, Cucurbitaceae, Elaeagnaceae, Ericaceae, Fabaceae,
+        Grossulariaceae, Lamiaceae, Malvaceae, Poaceae, Polygonaceae, Portulacaceae, Rosaceae, Rutaceae,
+        Schisandraceae, Solanaceae, Verbenaceae,
+    )
+
+    // Looked up from `all` rather than one case per family, so adding a family is one line.
+    implicit val format: Format[PlantFamily] = new Format[PlantFamily] {
+        def reads(json: JsValue): JsResult[PlantFamily] = json match {
+            case JsString(name) =>
+                all.find(_.latinName == name).map(JsSuccess(_)).getOrElse(JsError("Invalid plant family: " + name))
+            case _ => JsError("Invalid plant family")
+        }
+
+        def writes(family: PlantFamily): JsValue = JsString(family.latinName)
+    }
+}
+
+// How much work and skill a plant takes in a Stockholm garden.
+sealed trait GrowingDifficulty
+object GrowingDifficulty {
+    case object Easy extends GrowingDifficulty // hardy and forgiving: chard, potatoes, perennial onions
+    case object Regular extends GrowingDifficulty // sow outdoors; only the soil temperature matters
+    case object Effort extends GrowingDifficulty // start indoors, harden off, plant out at the right time
+    case object Challenging extends GrowingDifficulty // exact temperatures, special soil or extra steps (blanching, hand-pollinating)
+    case object VeryChallenging extends GrowingDifficulty // needs specialist set-ups, e.g. running water
+
+    implicit val format: Format[GrowingDifficulty] = new Format[GrowingDifficulty] {
+        def reads(json: JsValue): JsResult[GrowingDifficulty] = json match {
+            case JsString("easy")             => JsSuccess(Easy)
+            case JsString("regular")          => JsSuccess(Regular)
+            case JsString("effort")           => JsSuccess(Effort)
+            case JsString("challenging")      => JsSuccess(Challenging)
+            case JsString("very-challenging") => JsSuccess(VeryChallenging)
+            case _                            => JsError("Invalid growing difficulty")
+        }
+
+        def writes(difficulty: GrowingDifficulty): JsValue = difficulty match {
+            case Easy            => JsString("easy")
+            case Regular         => JsString("regular")
+            case Effort          => JsString("effort")
+            case Challenging     => JsString("challenging")
+            case VeryChallenging => JsString("very-challenging")
+        }
+    }
+}
+
+// What a plant is started from. A plant can have several (onion: seed or sets), each with its own
+// difficulty and timing.
+sealed abstract class StartMethod(val key: String)
+object StartMethod {
+    case object Seed extends StartMethod("seed")
+    case object Sets extends StartMethod("sets") // small onion-family bulbs, bulbils
+    case object Cloves extends StartMethod("cloves")
+    case object Tubers extends StartMethod("tubers")
+    case object Crowns extends StartMethod("crowns") // rhubarb, asparagus
+    case object Plants extends StartMethod("plants") // divisions, root cuttings, bought plants
+
+    val all: List[StartMethod] = List(Seed, Sets, Cloves, Tubers, Crowns, Plants)
+
+    implicit val format: Format[StartMethod] = new Format[StartMethod] {
+        def reads(json: JsValue): JsResult[StartMethod] = json match {
+            case JsString(key) => all.find(_.key == key).map(JsSuccess(_)).getOrElse(JsError("Invalid start method: " + key))
+            case _             => JsError("Invalid start method")
+        }
+
+        def writes(method: StartMethod): JsValue = JsString(method.key)
+    }
+}
