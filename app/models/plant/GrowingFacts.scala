@@ -1,16 +1,8 @@
 package models
+package plant
 
 import play.api.libs.json._
-
-// An inclusive range, e.g. 10–15 cm. A single value is min == max.
-case class IntRange(
-    min: Int,
-    max: Int,
-)
-
-object IntRange {
-  implicit val format: OFormat[IntRange] = Json.format[IntRange]
-}
+import models.common._
 
 // The fact box the book prints beside every plant (key on p. 243). One per plant,
 // taken from the book (`bookPage`), or from another source (`otherSource`) for plants the book

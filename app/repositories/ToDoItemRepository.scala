@@ -6,7 +6,7 @@ import org.mongodb.scala.model.ReplaceOptions
 import com.google.inject.{Inject, Singleton}
 import scala.concurrent.ExecutionContext
 import scala.concurrent.Future
-import models.{ToDoItem, Timescale, Priority} 
+import models.user.{ToDoItem, Timescale, Priority} 
 
 @Singleton
 class ToDoItemRepository @Inject() (mongoConnection: MongoConnection)(implicit

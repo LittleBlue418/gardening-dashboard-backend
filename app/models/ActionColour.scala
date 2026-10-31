@@ -1,6 +1,7 @@
 package models
 
 import play.api.libs.json._
+import models.plant.PlantingAction
 
 // Display colours for one planting action (one row per action), matching the key
 // on the dashboard. Kept apart from Plant so a colour change is a single edit.

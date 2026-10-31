@@ -1,7 +1,8 @@
 package models
-package usergrowsettings
+package user
 
 import play.api.libs.json._
+import models.common._
 
 // One user's own version of a growing location: what their house, conservatory,
 // greenhouse or outside space is like. Equipment lives in UserEquipment.

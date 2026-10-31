@@ -1,7 +1,9 @@
 package models
+package climate
 
 import org.mongodb.scala.bson.ObjectId
 import play.api.libs.json._
+import models.common._
 
 // The growing climate for one location. One row per location, so a second
 // garden somewhere else is a new row, not a schema change.
@@ -81,4 +83,24 @@ case class ColdestNight(
 
 object ColdestNight {
   implicit val format: OFormat[ColdestNight] = Json.format[ColdestNight]
+}
+
+// Which zone map a hardiness zone comes from.
+sealed trait HardinessSystem
+object HardinessSystem {
+    case object Swedish extends HardinessSystem
+    case object Usda extends HardinessSystem
+
+    implicit val format: Format[HardinessSystem] = new Format[HardinessSystem] {
+        def reads(json: JsValue): JsResult[HardinessSystem] = json match {
+            case JsString("swedish") => JsSuccess(Swedish)
+            case JsString("usda")    => JsSuccess(Usda)
+            case _                   => JsError("Invalid hardiness system")
+        }
+
+        def writes(system: HardinessSystem): JsValue = system match {
+            case Swedish => JsString("swedish")
+            case Usda    => JsString("usda")
+        }
+    }
 }

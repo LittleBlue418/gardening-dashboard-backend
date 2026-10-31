@@ -1,4 +1,5 @@
 package models
+package user
 
 import org.mongodb.scala.bson.ObjectId
 import play.api.libs.json._

@@ -2,6 +2,10 @@ package models
 
 import org.scalatestplus.play._
 import play.api.libs.json._
+import models.climate.Climate
+import models.user.{User, UserGrowSettings}
+import models.common.IntRange
+import models.plant._
 
 import java.nio.file.{Files, Paths}
 
@@ -147,6 +151,28 @@ class PlantJsonSpec extends PlaySpec {
         case JsSuccess(rows, _) =>
           rows must not be empty
           rows.foreach(row => row.coldestNight.foreach(night => night.worstC must be <= night.averageC))
+        case JsError(errors) => fail(errors.mkString("\n"))
+      }
+    }
+  }
+
+  "temp-db/users.json" should {
+    "parse into User models" in {
+      Json.parse(Files.readString(Paths.get("temp-db/users.json"))).validate[List[User]] match {
+        case JsSuccess(users, _) => users must not be empty
+        case JsError(errors)     => fail(errors.mkString("\n"))
+      }
+    }
+  }
+
+  "temp-db/user-grow-settings.json" should {
+    "link every user's settings to an existing user and climate" in {
+      val users = Json.parse(Files.readString(Paths.get("temp-db/users.json"))).as[List[User]].map(_._id).toSet
+      val climates = Json.parse(Files.readString(Paths.get("temp-db/climate.json"))).as[List[Climate]].map(_._id).toSet
+      Json.parse(Files.readString(Paths.get("temp-db/user-grow-settings.json"))).validate[List[UserGrowSettings]] match {
+        case JsSuccess(settings, _) =>
+          settings.filterNot(row => users.contains(row.userId)) mustBe empty
+          settings.filterNot(row => climates.contains(row.climateId)) mustBe empty
         case JsError(errors) => fail(errors.mkString("\n"))
       }
     }
