@@ -47,12 +47,17 @@ class PlantJsonSpec extends PlaySpec {
       missing mustBe empty
     }
 
-    "keep Swedish text in swedishName only" in {
+    "keep Swedish text in swedishName only (Swedish place names are allowed)" in {
       val swedishLetters = "[åäöÅÄÖ]".r
+      // Holly's rule: text is English, but Swedish place names stay as they are.
+      val placeNames = List("Skåne", "Öland", "Örebro", "Dalälven", "Mälaren", "Mälardalen", "Västergötland", "Nyköpingshus", "Nyköping", "Balsgård")
+      def withoutPlaceNames(text: String) = placeNames.foldLeft(text)((rest, place) => rest.replace(place, ""))
       val bad = plants.flatMap { plant =>
         (List(plant.name) ++ plant.variety ++ plant.description ++ plant.howToEat ++ plant.notes ++ plant.methods.flatMap(_.events).map(_.note) ++
-          plant.recommendedVarieties.flatMap(variety => variety.ripening ++ variety.pollination))
-          .filter(text => swedishLetters.findFirstIn(text).isDefined)
+          plant.recommendedVarieties.flatMap(variety => variety.ripening ++ variety.pollination) ++
+          plant.foraging.toList.flatMap(f => List(f.picking, f.habitat, f.distribution, f.identification) ++ f.safety ++
+            f.harvest.flatMap(_.note) ++ f.lookAlikes.map(_.howToTell)))
+          .filter(text => swedishLetters.findFirstIn(withoutPlaceNames(text)).isDefined)
           .map(text => label(plant) + ": " + text.take(60))
       }
       bad mustBe empty
@@ -72,8 +77,30 @@ class PlantJsonSpec extends PlaySpec {
       bad mustBe empty
     }
 
-    "have at least one growing method per plant, each with events" in {
-      val bad = plants.collect { case plant if plant.methods.isEmpty || plant.methods.exists(_.events.isEmpty) => label(plant) }
+    "have at least one growing method per grown plant, each with events" in {
+      // Wild-only plants (category Forage) aren't grown, so they have no methods.
+      val bad = plants.collect {
+        case plant if plant.category != PlantCategory.Forage && plant.methods.isEmpty => label(plant) + ": no methods"
+        case plant if plant.methods.exists(_.events.isEmpty)                         => label(plant) + ": method without events"
+      }
+      bad mustBe empty
+    }
+
+    "give every Forage plant foraging information and no growing methods" in {
+      val bad = plants.collect {
+        case plant if plant.category == PlantCategory.Forage && (plant.foraging.isEmpty || plant.methods.nonEmpty) => label(plant)
+      }
+      bad mustBe empty
+    }
+
+    "have valid foraging information" in {
+      val bad = plants.flatMap { plant =>
+        plant.foraging.toList.flatMap { foraging =>
+          (if (foraging.harvest.isEmpty || foraging.harvest.exists(_.months.isEmpty)) List("no harvest months") else Nil) ++
+            (if (foraging.bookPage < 1 || foraging.bookPage > 177) List("bookPage " + foraging.bookPage) else Nil) ++
+            (if (foraging.harvest.map(_.part).distinct.size != foraging.harvest.size) List("harvest part listed twice") else Nil)
+        }.map(label(plant) + ": " + _)
+      }
       bad mustBe empty
     }
 

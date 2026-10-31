@@ -59,6 +59,7 @@ object PlantCategory {
     case object Herb extends PlantCategory
     case object Fruit extends PlantCategory
     case object Ornamental extends PlantCategory // grown for looks, shelter or wood, not to eat
+    case object Forage extends PlantCategory // picked in the wild, not grown (any plant with Plant.foraging is foragable too)
 
     implicit val format: Format[PlantCategory] = new Format[PlantCategory] {
         def reads(json: JsValue): JsResult[PlantCategory] = json match {
@@ -66,6 +67,7 @@ object PlantCategory {
             case JsString("herb")       => JsSuccess(Herb)
             case JsString("fruit")      => JsSuccess(Fruit)
             case JsString("ornamental") => JsSuccess(Ornamental)
+            case JsString("forage")     => JsSuccess(Forage)
             case _                      => JsError("Invalid plant category")
         }
 
@@ -74,6 +76,7 @@ object PlantCategory {
             case Herb       => JsString("herb")
             case Fruit      => JsString("fruit")
             case Ornamental => JsString("ornamental")
+            case Forage     => JsString("forage")
         }
     }
 }
@@ -84,12 +87,16 @@ object GrowthForm {
     case object Herbaceous extends GrowthForm // soft-stemmed: vegetables, herbs, strawberries, rhubarb
     case object Bush extends GrowthForm // woody, several stems: currants, raspberry canes
     case object Tree extends GrowthForm // woody, one trunk: apple, plum
+    case object Fungus extends GrowthForm // mushrooms and bracket fungi
+    case object Lichen extends GrowthForm // e.g. reindeer lichen
 
     implicit val format: Format[GrowthForm] = new Format[GrowthForm] {
         def reads(json: JsValue): JsResult[GrowthForm] = json match {
             case JsString("herbaceous") => JsSuccess(Herbaceous)
             case JsString("bush")       => JsSuccess(Bush)
             case JsString("tree")       => JsSuccess(Tree)
+            case JsString("fungus")     => JsSuccess(Fungus)
+            case JsString("lichen")     => JsSuccess(Lichen)
             case _                      => JsError("Invalid growth form")
         }
 
@@ -97,6 +104,8 @@ object GrowthForm {
             case Herbaceous => JsString("herbaceous")
             case Bush       => JsString("bush")
             case Tree       => JsString("tree")
+            case Fungus     => JsString("fungus")
+            case Lichen     => JsString("lichen")
         }
     }
 }
