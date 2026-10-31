@@ -45,7 +45,8 @@ class PlantJsonSpec extends PlaySpec {
     "keep Swedish text in swedishName only" in {
       val swedishLetters = "[åäöÅÄÖ]".r
       val bad = plants.flatMap { plant =>
-        (List(plant.name) ++ plant.variety ++ plant.description ++ plant.howToEat ++ plant.notes ++ plant.methods.flatMap(_.events).map(_.note))
+        (List(plant.name) ++ plant.variety ++ plant.description ++ plant.howToEat ++ plant.notes ++ plant.methods.flatMap(_.events).map(_.note) ++
+          plant.recommendedVarieties.flatMap(variety => variety.ripening ++ variety.pollination))
           .filter(text => swedishLetters.findFirstIn(text).isDefined)
           .map(text => label(plant) + ": " + text.take(60))
       }
@@ -88,6 +89,17 @@ class PlantJsonSpec extends PlaySpec {
       bad mustBe empty
     }
 
+    "list each recommended variety once per plant, with zones within 1-8" in {
+      val bad = plants.flatMap { plant =>
+        val names = plant.recommendedVarieties.map(_.name)
+        val duplicate = if (names.distinct.size != names.size) List(label(plant) + ": duplicate variety") else Nil
+        duplicate ++ plant.recommendedVarieties.collect {
+          case variety if variety.swedishZones.exists(z => z.min < 1 || z.max > 8 || z.min > z.max) => label(plant) + ": " + variety.name
+        }
+      }
+      bad mustBe empty
+    }
+
     "use each Swedish name once" in {
       val duplicates = plants.flatMap(_.swedishName).groupBy(identity).collect { case (name, group) if group.size > 1 => name }
       duplicates mustBe empty
@@ -118,8 +130,13 @@ class PlantJsonSpec extends PlaySpec {
       bad mustBe empty
     }
 
+    "name exactly one source per fact box: a book page or another source" in {
+      val bad = withFacts.collect { case (plant, facts) if facts.bookPage.isDefined == facts.otherSource.isDefined => label(plant) }
+      bad mustBe empty
+    }
+
     "point every fact box at a real page of the book (532 pages)" in {
-      val bad = withFacts.collect { case (plant, facts) if facts.bookPage < 1 || facts.bookPage > 532 => label(plant) }
+      val bad = withFacts.collect { case (plant, facts) if facts.bookPage.exists(page => page < 1 || page > 532) => label(plant) }
       bad mustBe empty
     }
   }
@@ -149,7 +166,8 @@ class PlantJsonSpec extends PlaySpec {
         goodIntercrop = false,
         sowInRounds = false,
         cutAndComeAgain = false,
-        bookPage = 245,
+        bookPage = Some(245),
+        otherSource = None,
       )
       Json.toJson(facts).as[GrowingFacts] mustBe facts
     }

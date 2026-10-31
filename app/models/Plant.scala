@@ -22,10 +22,25 @@ case class Plant(
     imageCredit: Option[ImageCredit], // for free-licence photos (e.g. Wikimedia Commons); None for Holly's own book photos
     growing: Option[GrowingFacts], // the book's fact box; None until filled in
     methods: List[GrowingMethod], // one per way of starting it (seed, sets, ...); at least one
+    recommendedVarieties: List[RecommendedVariety], // named varieties worth buying, with their zones; may be empty
 )
 
 object Plant {
   implicit val format: OFormat[Plant] = Json.format[Plant]
+}
+
+// A named variety worth growing, e.g. apple 'Silva'. The name is a proper noun, so it stays exactly
+// as sold (it may be Swedish); the other text is English.
+case class RecommendedVariety(
+    name: String,
+    swedishZones: Option[IntRange], // Swedish growing zones it's sold for, e.g. 1-6
+    ripening: Option[String], // e.g. "Late October; stores until Christmas"
+    pollination: Option[String], // e.g. "Self-fertile" or "Pollinated by Discovery, Filippa, Mio"
+    source: String,
+)
+
+object RecommendedVariety {
+  implicit val format: OFormat[RecommendedVariety] = Json.format[RecommendedVariety]
 }
 
 // Who took a free-licence photo and under which licence. CC BY / BY-SA require showing this.
