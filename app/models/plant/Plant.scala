@@ -23,7 +23,8 @@ case class Plant(
     image: Option[String], // file name in image-db/ (gitignored); None when there's no photo
     imageCredit: Option[ImageCredit], // for free-licence photos (e.g. Wikimedia Commons); None for Holly's own book photos
     growing: Option[GrowingFacts], // the book's fact box; None until filled in
-    methods: List[GrowingMethod], // one per way of starting it (seed, sets, ...); at least one
+    foraging: Option[Foraging], // how to find and pick it in the wild; None if it isn't foraged
+    methods: List[GrowingMethod], // one per way of starting it (seed, sets, ...); empty only for wild-only (Forage) plants
     recommendedVarieties: List[RecommendedVariety], // named varieties worth buying, with their zones; may be empty
 )
 
