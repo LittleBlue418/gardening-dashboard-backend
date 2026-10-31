@@ -4113,7 +4113,36 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Elmsblitz",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 382"
+      },
+      {
+        "name": "Victoria",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 382"
+      },
+      {
+        "name": "Canada Red",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 382"
+      },
+      {
+        "name": "Barbro",
+        "swedishZones": null,
+        "ripening": "Very early",
+        "pollination": null,
+        "source": "Book p. 382"
+      }
+    ]
   },
   {
     "name": "Strawberry",
@@ -4207,7 +4236,78 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Bianca",
+        "swedishZones": null,
+        "ripening": "Mid-season",
+        "pollination": null,
+        "source": "Book p. 488"
+      },
+      {
+        "name": "Florence",
+        "swedishZones": null,
+        "ripening": "Late",
+        "pollination": null,
+        "source": "Book p. 488"
+      },
+      {
+        "name": "Honeoye",
+        "swedishZones": null,
+        "ripening": "Early",
+        "pollination": null,
+        "source": "Book p. 488"
+      },
+      {
+        "name": "Korona",
+        "swedishZones": null,
+        "ripening": "Mid-season",
+        "pollination": null,
+        "source": "Book p. 488"
+      },
+      {
+        "name": "Maxim",
+        "swedishZones": null,
+        "ripening": "Late",
+        "pollination": null,
+        "source": "Book p. 488"
+      },
+      {
+        "name": "Polka",
+        "swedishZones": null,
+        "ripening": "Mid-season",
+        "pollination": null,
+        "source": "Book p. 488"
+      },
+      {
+        "name": "Rebecka",
+        "swedishZones": null,
+        "ripening": "Early; everbearing, first harvest record early",
+        "pollination": null,
+        "source": "Book p. 488"
+      },
+      {
+        "name": "Rumba",
+        "swedishZones": null,
+        "ripening": "Early",
+        "pollination": null,
+        "source": "Book p. 488"
+      },
+      {
+        "name": "Sonata",
+        "swedishZones": null,
+        "ripening": "Mid-season",
+        "pollination": null,
+        "source": "Book p. 488"
+      },
+      {
+        "name": "Zephyr",
+        "swedishZones": null,
+        "ripening": "Early",
+        "pollination": null,
+        "source": "Book p. 488"
+      }
+    ]
   },
   {
     "name": "Currant",
@@ -4303,7 +4403,38 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Polar",
+        "swedishZones": {
+          "min": 1,
+          "max": 6
+        },
+        "ripening": "Mid-season",
+        "pollination": null,
+        "source": "Book p. 498"
+      },
+      {
+        "name": "Öjebyn",
+        "swedishZones": {
+          "min": 1,
+          "max": 6
+        },
+        "ripening": "Early",
+        "pollination": null,
+        "source": "Book p. 498"
+      },
+      {
+        "name": "Petter",
+        "swedishZones": {
+          "min": 1,
+          "max": 5
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 498"
+      }
+    ]
   },
   {
     "name": "Raspberry",
@@ -4412,7 +4543,118 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Haida",
+        "swedishZones": {
+          "min": 1,
+          "max": 6
+        },
+        "ripening": "Late",
+        "pollination": null,
+        "source": "Book p. 482"
+      },
+      {
+        "name": "Maria",
+        "swedishZones": {
+          "min": 1,
+          "max": 6
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 482"
+      },
+      {
+        "name": "Ottawa",
+        "swedishZones": {
+          "min": 1,
+          "max": 6
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 482"
+      },
+      {
+        "name": "Älandsbro Asker",
+        "swedishZones": {
+          "min": 1,
+          "max": 6
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 482"
+      },
+      {
+        "name": "Lloyd George",
+        "swedishZones": {
+          "min": 1,
+          "max": 5
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 482"
+      },
+      {
+        "name": "Golden Queen",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 482"
+      },
+      {
+        "name": "Preussen",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 482"
+      },
+      {
+        "name": "Allgold",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "Autumn-fruiting, very late",
+        "pollination": null,
+        "source": "Book p. 482"
+      },
+      {
+        "name": "Mormorshallon",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 482"
+      },
+      {
+        "name": "Ariadne",
+        "swedishZones": {
+          "min": 1,
+          "max": 2
+        },
+        "ripening": "Earliest autumn-fruiting raspberry",
+        "pollination": null,
+        "source": "Book p. 482"
+      },
+      {
+        "name": "Glen Prosen",
+        "swedishZones": {
+          "min": 1,
+          "max": 2
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 482"
+      }
+    ]
   },
   {
     "name": "Apple",
@@ -12288,7 +12530,36 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Linda",
+        "swedishZones": null,
+        "ripening": "Earliest variety",
+        "pollination": "Plant at least two of these varieties",
+        "source": "Book p. 471"
+      },
+      {
+        "name": "Anna",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": "Plant at least two of these varieties",
+        "source": "Book p. 471"
+      },
+      {
+        "name": "Beata",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": "Plant at least two of these varieties",
+        "source": "Book p. 471"
+      },
+      {
+        "name": "Sofia",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": "Plant at least two of these varieties",
+        "source": "Book p. 471"
+      }
+    ]
   },
   {
     "name": "Blackberry",
@@ -12383,7 +12654,25 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Loch Tay",
+        "swedishZones": {
+          "min": 1,
+          "max": 2
+        },
+        "ripening": "Extremely early",
+        "pollination": null,
+        "source": "Book p. 472"
+      },
+      {
+        "name": "Sibiriskt Björnbär",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 472"
+      }
+    ]
   },
   {
     "name": "Blueberry",
@@ -12480,7 +12769,55 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Pelle",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 475"
+      },
+      {
+        "name": "Patriot",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 475"
+      },
+      {
+        "name": "Reka",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 475"
+      },
+      {
+        "name": "Duke",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 475"
+      },
+      {
+        "name": "Bluetta",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 474"
+      }
+    ]
   },
   {
     "name": "Blueberry",
@@ -12577,7 +12914,28 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Putte",
+        "swedishZones": {
+          "min": 1,
+          "max": 5
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 475"
+      },
+      {
+        "name": "Northblue",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 475"
+      }
+    ]
   },
   {
     "name": "Haskap",
@@ -12674,7 +13032,68 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Aurora",
+        "swedishZones": {
+          "min": 1,
+          "max": 7
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 476"
+      },
+      {
+        "name": "Borealis",
+        "swedishZones": {
+          "min": 1,
+          "max": 7
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 476"
+      },
+      {
+        "name": "Cinderella",
+        "swedishZones": {
+          "min": 1,
+          "max": 7
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 476"
+      },
+      {
+        "name": "Honey Bee",
+        "swedishZones": {
+          "min": 1,
+          "max": 7
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 476"
+      },
+      {
+        "name": "Tundra",
+        "swedishZones": {
+          "min": 1,
+          "max": 7
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 476"
+      },
+      {
+        "name": "Anja",
+        "swedishZones": {
+          "min": 1,
+          "max": 7
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 476"
+      }
+    ]
   },
   {
     "name": "Saskatoon",
@@ -12767,7 +13186,32 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Martin",
+        "swedishZones": {
+          "min": 1,
+          "max": 5
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 478"
+      },
+      {
+        "name": "Northline",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 478"
+      },
+      {
+        "name": "Smokey",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 478"
+      }
+    ]
   },
   {
     "name": "Sea buckthorn",
@@ -12861,7 +13305,52 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Svenne",
+        "swedishZones": {
+          "min": 1,
+          "max": 5
+        },
+        "ripening": null,
+        "pollination": "Pairs with Lotta; can be combined with the female Ljubitelskaja",
+        "source": "Book p. 485"
+      },
+      {
+        "name": "Lotta",
+        "swedishZones": {
+          "min": 1,
+          "max": 5
+        },
+        "ripening": null,
+        "pollination": "Pairs with Svenne",
+        "source": "Book p. 485"
+      },
+      {
+        "name": "Ljubitelskaja",
+        "swedishZones": {
+          "min": 1,
+          "max": 5
+        },
+        "ripening": null,
+        "pollination": "Female plant; combine with Svenne",
+        "source": "Book p. 485"
+      },
+      {
+        "name": "Julia",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 485"
+      },
+      {
+        "name": "Romeo",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 485"
+      }
+    ]
   },
   {
     "name": "Gooseberry",
@@ -12957,7 +13446,48 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Hinnonmäki Gul",
+        "swedishZones": {
+          "min": 1,
+          "max": 6
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 491"
+      },
+      {
+        "name": "Hinnonmäki röd",
+        "swedishZones": {
+          "min": 1,
+          "max": 6
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 491"
+      },
+      {
+        "name": "Invicta",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 491"
+      },
+      {
+        "name": "Martlet",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 491"
+      }
+    ]
   },
   {
     "name": "Lingonberry",
@@ -13043,7 +13573,48 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Linnea",
+        "swedishZones": {
+          "min": 1,
+          "max": 6
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 492"
+      },
+      {
+        "name": "Sanna",
+        "swedishZones": {
+          "min": 1,
+          "max": 5
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 492"
+      },
+      {
+        "name": "Sussi",
+        "swedishZones": {
+          "min": 1,
+          "max": 5
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 492"
+      },
+      {
+        "name": "Ida",
+        "swedishZones": {
+          "min": 1,
+          "max": 2
+        },
+        "ripening": "Remontant, crops more than once per season",
+        "pollination": null,
+        "source": "Book p. 492"
+      }
+    ]
   },
   {
     "name": "Wild strawberry",
@@ -13139,7 +13710,36 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Rügen",
+        "swedishZones": null,
+        "ripening": "Fruits all summer",
+        "pollination": null,
+        "source": "Book p. 493"
+      },
+      {
+        "name": "Rödluvan",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 494"
+      },
+      {
+        "name": "Snövit",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 494"
+      },
+      {
+        "name": "Askungen",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": "First self-fertile musk strawberry",
+        "source": "Book p. 494"
+      }
+    ]
   },
   {
     "name": "Tayberry",
@@ -13329,7 +13929,28 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Röda Holländska",
+        "swedishZones": {
+          "min": 1,
+          "max": 6
+        },
+        "ripening": "Mid-season",
+        "pollination": null,
+        "source": "Book p. 498"
+      },
+      {
+        "name": "Jonkheer van Tets",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "Early",
+        "pollination": null,
+        "source": "Book p. 498"
+      }
+    ]
   },
   {
     "name": "Currant",
@@ -13425,7 +14046,38 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Gullan",
+        "swedishZones": {
+          "min": 1,
+          "max": 5
+        },
+        "ripening": "Mid-season",
+        "pollination": null,
+        "source": "Book p. 498"
+      },
+      {
+        "name": "Vit Jätte",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": "Late",
+        "pollination": null,
+        "source": "Book p. 498"
+      },
+      {
+        "name": "Pink Champagne",
+        "swedishZones": {
+          "min": 1,
+          "max": 2
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 498"
+      }
+    ]
   },
   {
     "name": "Elder",
@@ -13528,7 +14180,28 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Samyl",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 502"
+      },
+      {
+        "name": "Samidan",
+        "swedishZones": {
+          "min": 1,
+          "max": 3
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 502"
+      }
+    ]
   },
   {
     "name": "Magnolia vine",
@@ -13699,7 +14372,15 @@
         ]
       }
     ],
-    "recommendedVarieties": []
+    "recommendedVarieties": [
+      {
+        "name": "Nyby",
+        "swedishZones": null,
+        "ripening": null,
+        "pollination": "Only variety with both sexes on one plant; other cloudberries need separate male and female plants",
+        "source": "Book p. 503"
+      }
+    ]
   },
   {
     "name": "Rose hip",
@@ -13873,6 +14554,3121 @@
             ],
             "equipment": [],
             "note": "Harvest timing not given in the book."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": [
+      {
+        "name": "Hugin",
+        "swedishZones": {
+          "min": 1,
+          "max": 4
+        },
+        "ripening": null,
+        "pollination": null,
+        "source": "Book p. 505"
+      }
+    ]
+  },
+  {
+    "name": "Anise",
+    "swedishName": "Anis",
+    "scientificName": "Pimpinella anisum",
+    "variety": null,
+    "family": "Apiaceae",
+    "lifecycle": "annual",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🍬"
+    ],
+    "notes": [
+      "Needs light, porous but not poor soil; thin to 20 cm and keep weeds down.",
+      "Grows best around 20 °C and needs a warm summer for the seeds to ripen, so starting indoors is the safer bet in Stockholm."
+    ],
+    "description": "A graceful plant with feathery leaves and pink flowers, grown only for its liquorice-flavoured seeds. A medicinal plant since antiquity, mostly prescribed for coughs.",
+    "howToEat": "Only the seeds are used: in cough sweets, schnapps and bread, and a pinch is good in fish soup or nettle soup.",
+    "image": "anise.jpg",
+    "imageCredit": {
+      "author": "Ayotte, Gilles, 1948-",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pimpinella_anisum_15-p.bot-pimp.anisum-16.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 14,
+        "max": 21
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 20,
+        "max": 20
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": {
+        "min": 120,
+        "max": 135
+      },
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 40,
+        "max": 60
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 419,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "regular",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "May"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Sow direct once the soil is workable and warm; mid-May in Stockholm, later than the book's 'when the soil is ready' (book p. 419)."
+          },
+          {
+            "action": "Sow",
+            "months": [
+              "April"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [],
+            "note": "Optional head start: starting indoors gives a better chance of ripe seed (book p. 419)."
+          },
+          {
+            "action": "Transplant",
+            "months": [
+              "May"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Harden off and plant out after about 20 May."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Hang plants to dry indoors over newspaper to catch the falling seeds (book p. 419)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Anise hyssop",
+    "swedishName": "Anisisop",
+    "scientificName": "Agastache foeniculum",
+    "variety": null,
+    "family": "Lamiaceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🦋"
+    ],
+    "notes": [
+      "Sunny spot with porous, fertile soil; needs more nutrients and moisture than most herbs.",
+      "Perennial but does not always survive winter; it usually self-seeds.",
+      "Grows well in a pot on a balcony if the pot is at least 30 cm across."
+    ],
+    "description": "A mildly scented perennial tasting of anise with a hint of mint, flowering June to August. Long grown by Native Americans, its flowers are a superb nectar source for butterflies and bees.",
+    "howToEat": "Flowers and leaves are used, fresh or dried, in salads and tea or with chicken and pork. Pick leaves before flowering and flowers just as they open.",
+    "image": "anise-hyssop.jpg",
+    "imageCredit": {
+      "author": "Meneerke bloem",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agastache_foeniculum02.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 10,
+        "max": 15
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 40,
+        "max": 40
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 60,
+        "max": 80
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 420,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "March",
+              "April"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [],
+            "note": "Sow indoors; seeds germinate readily and seedlings are sturdy (book p. 420)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Harden off and plant out after frost risk, from about 20 May (book p. 420)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "May flower the first year or the next; leaves before flowering, flowers as they open (book p. 420)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Basil",
+    "swedishName": "Basilika",
+    "scientificName": "Ocimum basilicum",
+    "variety": null,
+    "family": "Lamiaceae",
+    "lifecycle": "annual",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🌿"
+    ],
+    "notes": [
+      "Needs lots of warmth, light and sun; outside southern Sweden the book recommends growing it in pots (at least 20 cm wide) that go out in summer.",
+      "Use porous, rich soil, water sparingly and liquid-feed all season; shower off aphids and let the soil dry slightly to deter fungus gnats.",
+      "To delay flowering, cut the plant back to two or three leaf pairs once it has six to eight; pinching buds does not work."
+    ],
+    "description": "A culinary icon, once sacred to the Romans and the base of Genoese pesto. Its flavour comes from linalool (floral), methyl chavicol (anise) and eugenol (clove) in varying balance between varieties.",
+    "howToEat": "The leaves are used fresh or dried in tomato, rice and pasta dishes and snipped into salads; basil with garlic always works. Blitz leaves with olive oil and freeze as a pesto base.",
+    "image": "basil.jpg",
+    "imageCredit": {
+      "author": "Photo by David J. Stang",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ocimum_basilicum_8zz.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 6,
+        "max": 12
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 20,
+        "max": 30
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 25,
+        "max": 70
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": true,
+      "bookPage": 420,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "March",
+              "April"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [
+              "heat-mat",
+              "grow-lamp"
+            ],
+            "note": "Sow from late Feb/March with a south window or grow light, otherwise April; keep warm until germination (book p. 423)."
+          },
+          {
+            "action": "Transplant",
+            "months": [
+              "April",
+              "May"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [],
+            "note": "Pot on several seedlings per pot at the first true leaves, then into bigger pots as roots fill them (book p. 423)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Harden off and move out only when nights stay around 15 °C, usually June in Stockholm; pots are the safer option (book p. 423)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Cut sprigs as needed; bring pots back in before autumn frost (book p. 423-425)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Spignel",
+    "swedishName": "Björnrot",
+    "scientificName": "Meum athamanticum",
+    "variety": null,
+    "family": "Apiaceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🌿"
+    ],
+    "notes": [
+      "Sunny spot with light, porous soil; do not let it suffer drought, especially in late summer when it withers.",
+      "Very hardy: the author reports it overwintering in Norrbotten.",
+      "Clip it into a neat ball after flowering."
+    ],
+    "description": "A forgotten herb that arrived in Sweden in the 1600s, with airy dill-like leaves and sweet white umbels. Related to parsley and sometimes grown in rock gardens for its foliage.",
+    "howToEat": "The leaves are used like parsley, snipped over food, and also as a schnapps and fish seasoning.",
+    "image": "spignel.jpg",
+    "imageCredit": {
+      "author": "Jean-Claude Ernewein",
+      "license": "CC BY-SA 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meum_athamanticum_plant_(02).jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 20,
+        "max": 35
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 30,
+        "max": 30
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 40,
+        "max": 50
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 425,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "March"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [],
+            "note": "Start indoors in March; alternatively sow in autumn in a shallow, well-drained box left outside under fleece (book p. 425-426)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Plant out hardened seedlings in May."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves as needed."
+          }
+        ]
+      },
+      {
+        "start": "plants",
+        "difficulty": "easy",
+        "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June",
+              "August"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Buy a plant or divide an existing one (book p. 426)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves as needed."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Perilla",
+    "swedishName": "Bladmynta",
+    "scientificName": "Perilla frutescens",
+    "variety": null,
+    "family": "Lamiaceae",
+    "lifecycle": "annual",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🍃"
+    ],
+    "notes": [
+      "Loose soil and a sunny spot; frost kills it.",
+      "Seeds are covered thinly and germinate slowly and unevenly; direct sowing needs fleece at first.",
+      "Water in drought and liquid-feed a couple of times in summer, or mulch with grass clippings."
+    ],
+    "description": "Japan's and Korea's parsley, in green (shiso) and red forms. Green is the most aromatic, tasting of cumin, coriander, mint and lemon at once; red has crinkled purple leaves and a milder taste.",
+    "howToEat": "The leaves are used fresh, in sushi and with fish; Koreans fill the large leaves with food. Red leaves are made into tea.",
+    "image": "perilla.jpg",
+    "imageCredit": {
+      "author": "Alex Abair",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Perilla_frutescens_frutescens_732814283.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 14,
+        "max": 21
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 20,
+        "max": 20
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 50,
+        "max": 50
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": true,
+      "bookPage": 426,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "March",
+              "April"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [],
+            "note": "Raise plants indoors (book p. 427)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Frost-tender: plant out only after 20 May."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pinch or cut young shoots as needed; finish before late-September frost (book p. 427)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Fenugreek",
+    "swedishName": "Bockhornsklöver",
+    "scientificName": "Trigonella foenum-graecum",
+    "variety": null,
+    "family": "Fabaceae",
+    "lifecycle": "annual",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🍛"
+    ],
+    "notes": [
+      "Needs sun, warmth and loose soil; unlike coriander it does not tolerate frost.",
+      "Cover with fleece after sowing and water in drought, or it bolts."
+    ],
+    "description": "Essential in Persian cooking and loved in India. Its bittersweet taste recalls a freshly mown meadow, and the ground seeds go into many curry blends.",
+    "howToEat": "Leaves and seeds are used; the leaves dry well and go into curries and chapati. Seeds rarely ripen in Sweden, but if they do, grind them for curry mix.",
+    "image": "fenugreek.jpg",
+    "imageCredit": {
+      "author": "Leslie Seaton",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Methi_Fenugreek_Indian_Food.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 8,
+        "max": 12
+      },
+      "minGerminationTempC": 12,
+      "plantSpacingCm": {
+        "min": 5,
+        "max": 5
+      },
+      "rowSpacingCm": {
+        "min": 20,
+        "max": 20
+      },
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 30,
+        "max": 60
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": true,
+      "cutAndComeAgain": false,
+      "bookPage": 427,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "regular",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "May",
+              "June",
+              "July"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Sow direct only when the soil is about 12 °C, late May at the earliest in Stockholm; resow after harvest like coriander (book p. 427)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Harvest at about 30 cm before any sign of flowering; if it bolts, harvest everything at once (book p. 427)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Lemongrass",
+    "swedishName": "Citrongräs",
+    "scientificName": "Cymbopogon citratus",
+    "variety": null,
+    "family": "Poaceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🌾"
+    ],
+    "notes": [
+      "Tender perennial: grow in a pot of rich soil outside in a sunny, sheltered spot in summer and bring it in before frost.",
+      "Overwinter like a pelargonium, bright and cool with very little water; trim dead leaves, repot and divide in spring.",
+      "Stalks only swell in the second year, so overwintering is needed for a real crop."
+    ],
+    "description": "A perennial grass inseparable from Thai food, with lemon flavour in both stalks and leaves. Impossible outdoors in Sweden but grows into a nearly metre-high clump in a pot.",
+    "howToEat": "Stems and leaves are used: the white stalks are chopped finely, and leaves (fresh or dried) are cooked like bay leaves and removed. Never chew fresh blades, as grass can stick in your throat.",
+    "image": "lemongrass.jpg",
+    "imageCredit": {
+      "author": "Raffi Kojian",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_2892_rbgs11jan.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 20,
+        "max": 35
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": null,
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": {
+        "min": -3,
+        "max": -2
+      },
+      "heightCm": {
+        "min": 60,
+        "max": 100
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 428,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "February",
+              "March"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [
+              "heat-mat",
+              "grow-lamp"
+            ],
+            "note": "Sow indoors; the book says it is hardly worth it unless you cannot get plants (book p. 428)."
+          },
+          {
+            "action": "Transplant",
+            "months": [
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Move the pot outside after 20 May to a sunny, sheltered spot."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Use leaves the first year; stalks thicken in year two."
+          },
+          {
+            "action": "Transplant",
+            "months": [
+              "September"
+            ],
+            "locations": [
+              "conservatory"
+            ],
+            "equipment": [],
+            "note": "Bring in by late September; dies at -4 °C. Keep bright and cool with very little water over winter (book p. 428)."
+          }
+        ]
+      },
+      {
+        "start": "plants",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "April",
+              "May"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [],
+            "note": "Root shop-bought stalks with some base left in a glass of water, then pot up; or buy a plant (book p. 428)."
+          },
+          {
+            "action": "Transplant",
+            "months": [
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pot outside after 20 May."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Cut stalks and leaves as needed."
+          },
+          {
+            "action": "Transplant",
+            "months": [
+              "September"
+            ],
+            "locations": [
+              "conservatory"
+            ],
+            "equipment": [],
+            "note": "Overwinter bright, cool and almost dry (book p. 428)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Lemon balm",
+    "swedishName": "Citronmeliss",
+    "scientificName": "Melissa officinalis",
+    "variety": null,
+    "family": "Lamiaceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🍋"
+    ],
+    "notes": [
+      "Best in loose, fertile soil that never dries out; may need winter cover in colder areas and can turn weedy in the south.",
+      "After a midsummer harvest cut it back by half; feed or mulch with grass clippings if regrowth is slow.",
+      "Renew by division or sowing after three or four years; watch for aphids and hose them off."
+    ],
+    "description": "A mildly lemony, sweetly scented herb from the Mediterranean, adored by bees and easy for beginners. Its leaves contain calming compounds, hence the old Swedish name meaning 'heart's delight'.",
+    "howToEat": "The leaves are used, best fresh, in desserts, summer drinks, chicken, fish and marinades. For drying, harvest just before flowering.",
+    "image": "lemon-balm.jpg",
+    "imageCredit": {
+      "author": "Amitchell125",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lemon_balm_plant.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 12,
+        "max": 16
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 30,
+        "max": 40
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 50,
+        "max": 70
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": true,
+      "bookPage": 429,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "March",
+              "April"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [],
+            "note": "Sow indoors and cover thinly or the seeds won't germinate (book p. 429)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Plant out after frost risk, from mid/late May."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves all summer; they coarsen in midsummer, so cut back (book p. 429)."
+          }
+        ]
+      },
+      {
+        "start": "plants",
+        "difficulty": "easy",
+        "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June",
+              "August"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Propagate by cuttings or by dividing old plants (book p. 429)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves as needed."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Lemon verbena",
+    "swedishName": "Citronverbena",
+    "scientificName": "Aloysia citriodora",
+    "variety": null,
+    "family": "Verbenaceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "bush",
+    "icon": [
+      "🫖"
+    ],
+    "notes": [
+      "Tender woody shrub from South America: grow in a pot and overwinter indoors in a cool, bright window, like lemongrass.",
+      "Prune it back to keep it bushy and attractive.",
+      "Propagate by cuttings in spring or autumn."
+    ],
+    "description": "No plant has such an exclusive lemon flavour; the whole plant smells and tastes strongly. Dry branches tossed on the fire scent the whole room.",
+    "howToEat": "The leaves are used fresh or dried in drinks, dressings, jellies, fruit salads and desserts, or to line a sponge-cake tin. Unless finely chopped, remove them before serving.",
+    "image": "lemon-verbena.jpg",
+    "imageCredit": {
+      "author": "H. Zell",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aloysia_citriodora_002.jpg"
+    },
+    "growing": {
+      "germinationDays": null,
+      "minGerminationTempC": null,
+      "plantSpacingCm": null,
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 70,
+        "max": 100
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 430,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "plants",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Transplant",
+            "months": [
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Move the potted plant outside after 20 May."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Leaves taste best just after the plant starts flowering (book p. 430)."
+          },
+          {
+            "action": "Transplant",
+            "months": [
+              "September"
+            ],
+            "locations": [
+              "conservatory"
+            ],
+            "equipment": [],
+            "note": "Bring in by late September and overwinter cool and bright (book p. 430)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Chervil",
+    "swedishName": "Dansk körvel",
+    "scientificName": "Anthriscus cerefolium",
+    "variety": null,
+    "family": "Apiaceae",
+    "lifecycle": "annual",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🌿"
+    ],
+    "notes": [
+      "Porous, reasonably fertile soil; never let it dry out.",
+      "Prefers partial shade, as it bolts quickly in strong sun; sowing between vegetable rows suits it and saves space."
+    ],
+    "description": "Looks like flat-leaf parsley with white umbels and tastes of parsley and anise. Called Swedish chervil in the 1800s, but the Danes kept making chervil soup, so the name moved.",
+    "howToEat": "The leaves are used fresh like parsley; add them at the end of cooking, as they lose flavour if boiled.",
+    "image": "chervil.jpg",
+    "imageCredit": {
+      "author": "Schlaghecken Josef",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerbel_(Anthriscus_cerefolium)_mit_Echter_Mehltau_(Erysiphe_heraclei)_Befall,_Schlaghecken.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 6,
+        "max": 8
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 10,
+        "max": 10
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 20,
+        "max": 40
+      },
+      "swedishZones": null,
+      "goodIntercrop": true,
+      "sowInRounds": true,
+      "cutAndComeAgain": true,
+      "bookPage": 431,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "regular",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "April",
+              "May",
+              "June",
+              "July",
+              "August"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Sow direct in rounds all summer from late April, ideally in part shade (book p. 431)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Cut or pinch young shoots as needed (book p. 431)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Sweet cicely",
+    "swedishName": "Spansk körvel",
+    "scientificName": "Myrrhis odorata",
+    "variety": null,
+    "family": "Apiaceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🌿"
+    ],
+    "notes": [
+      "One of the few herbs that happily grows in shade; very vigorous and long-lived.",
+      "Cut off the seed heads to stop it becoming a weed."
+    ],
+    "description": "A metre-tall perennial with fern-like leaves and an anise flavour; colonies survive for generations around old ruins and homesteads.",
+    "howToEat": "The leaves are used mainly in spring and early summer; if too liquorice-like, use them as a garnish or add a sprig to spinach or vegetable soups.",
+    "image": "sweet-cicely.jpg",
+    "imageCredit": {
+      "author": "Hectonichus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apiaceae_-_Myrrhis_odorata.JPG"
+    },
+    "growing": {
+      "germinationDays": null,
+      "minGerminationTempC": null,
+      "plantSpacingCm": null,
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 100,
+        "max": 100
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 431,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "regular",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "September",
+              "October"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Sow fresh seed in autumn in a shallow box covered with fleece and left outside all winter; spring sowings need 3-4 weeks of cold first (book p. 432)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Plant out as soon as seedlings have a couple of leaf pairs (book p. 432)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "May",
+              "June",
+              "July"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Leaves are best in spring and early summer; some harvest possible the first summer."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Tarragon",
+    "swedishName": "Dragon",
+    "scientificName": "Artemisia dracunculus",
+    "variety": "French",
+    "family": "Asteraceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🌿"
+    ],
+    "notes": [
+      "Needs well-drained, humus-rich soil; divide every fourth year or the flavour declines.",
+      "Overwinters in southern and central Sweden and even in parts of Norrbotten; cut down fully in late spring and hose off aphids."
+    ],
+    "description": "The tarragon of béarnaise sauce. French tarragon is sterile, so any seed sold as tarragon is not the French kind; the hardier Russian type is a little taller and bitter-lemony.",
+    "howToEat": "The leaves are used fresh, dried or frozen. Russian tarragon mixed with lovage makes a good soup seasoning.",
+    "image": "tarragon-french.jpg",
+    "imageCredit": {
+      "author": "Unknown (see source)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Estragon_1511.jpg"
+    },
+    "growing": {
+      "germinationDays": null,
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 40,
+        "max": 40
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 50,
+        "max": 100
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 432,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "plants",
+        "difficulty": "easy",
+        "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June",
+              "August"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Buy a plant, as French tarragon cannot be sown; also propagates from tip cuttings (book p. 432)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves as needed."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Hyssop",
+    "swedishName": "Isop",
+    "scientificName": "Hyssopus officinalis",
+    "variety": null,
+    "family": "Lamiaceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "bush",
+    "icon": [
+      "🐝"
+    ],
+    "notes": [
+      "Needs only a few hours of sun, light well-drained soil and very little feeding; can form a low hedge (15-20 cm apart, otherwise double).",
+      "Top plants when planting out so they branch, and cut back by nearly half each spring, never into old wood.",
+      "After four or five years it gets woody: dig up and divide in spring."
+    ],
+    "description": "The 'lavender of the north': a bushy perennial with blue flower spikes, much hardier and easier than lavender and said to have survived -43 °C. Women once sniffed a sprig in church to stay awake.",
+    "howToEat": "Flowers and leaves are used: the strong, slightly bitter leaves fresh or dried with fatty fish, meat and game; flowers over potato salad or in tea.",
+    "image": "hyssop.jpg",
+    "imageCredit": {
+      "author": "User:Topjabot",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Hyssopus_officinalis0.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 14,
+        "max": 21
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 15,
+        "max": 40
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": {
+        "min": -43,
+        "max": -43
+      },
+      "heightCm": {
+        "min": 40,
+        "max": 50
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 434,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "March",
+              "April"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [],
+            "note": "Start indoors (book p. 434)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Plant out once the soil has warmed, late May in Stockholm; no harvest the first year (book p. 418, 434)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "July",
+              "August"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "From year two: leaves as flowers are about to open, flowers once open (book p. 434)."
+          }
+        ]
+      },
+      {
+        "start": "plants",
+        "difficulty": "easy",
+        "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June",
+              "August"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Buy plants or divide old ones in spring (book p. 434)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "July",
+              "August"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Leaves as flowers are about to open, flowers once open."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Coriander",
+    "swedishName": "Koriander",
+    "scientificName": "Coriandrum sativum",
+    "variety": null,
+    "family": "Apiaceae",
+    "lifecycle": "annual",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🥢"
+    ],
+    "notes": [
+      "Loose, moisture-retentive soil kept moist; fleece speeds up the first sowing.",
+      "Sow in rounds every two to three weeks rather than treating it like parsley; late-summer sowings give record harvests.",
+      "Thin to 5 cm for leaves or 20 cm for seed."
+    ],
+    "description": "The world's most widely used herb, grown by the Egyptians 3,000 years ago. People either love or hate the taste, and it thrives in Swedish autumns.",
+    "howToEat": "Leaves, seeds and root are used: leaves like parsley, especially in stir-fries with ginger and garlic; seeds in tomato dishes, curries, bread and pickles; the crushed root in stews and soups.",
+    "image": "coriander.jpg",
+    "imageCredit": {
+      "author": "Rupeshm364",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coriander_Leaves.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 6,
+        "max": 12
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 5,
+        "max": 20
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 50,
+        "max": 50
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": true,
+      "cutAndComeAgain": true,
+      "bookPage": 435,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "regular",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "May",
+              "June",
+              "July",
+              "August"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "First sowing when the soil is warm, then every 2-3 weeks; don't miss the late-summer sowing (book p. 435)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September",
+              "October"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pinch leaves from 10 cm; harvest whole plants when top leaves turn dill-like; let bolted plants set seed (book p. 435)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Fennel",
+    "swedishName": "Kryddfänkål",
+    "scientificName": "Foeniculum vulgare",
+    "variety": "Herb",
+    "family": "Apiaceae",
+    "lifecycle": "annual",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🌿"
+    ],
+    "notes": [
+      "Needs a sunny spot and well-drained, fertile soil kept moist, loose and weed-free.",
+      "A perennial that only overwinters in southern Sweden in mild winters, so treat it as an annual in Stockholm."
+    ],
+    "description": "Same species as Florence fennel but without the swollen bulb, grown mainly for its seeds, a classic bread spice. Some American sects chewed the seeds to stave off hunger during long sermons.",
+    "howToEat": "Seeds and leaves are used: cut the stems when the seed heads turn yellow and use the seeds in bread. Pick the feathery leaves as needed for fish dishes; bronze fennel is superb with fish and shellfish.",
+    "image": "fennel-herb.jpg",
+    "imageCredit": {
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Foeniculum_July_2011-1a.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 12,
+        "max": 16
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 25,
+        "max": 25
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 110,
+        "max": 140
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 436,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "April"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [],
+            "note": "Sow indoors in April (book p. 436)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Plant out once the soil is warm, from late May in Stockholm (book p. 436)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves as needed; cut seed stems when the seed heads yellow (book p. 436)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Sage",
+    "swedishName": "Kryddsalvia",
+    "scientificName": "Salvia officinalis",
+    "variety": null,
+    "family": "Lamiaceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "bush",
+    "icon": [
+      "🌿"
+    ],
+    "notes": [
+      "Plant in sun in light, well-drained soil; cut back to just under half each spring for fresh growth.",
+      "Hardy to about -15 °C; in light soil, a warm spot and under spruce branches it can take more, but not the far north.",
+      "Renew after five or six years from cuttings; coloured-leaf varieties are less hardy and can't be grown from seed."
+    ],
+    "description": "A silvery, downy Mediterranean sub-shrub grown in Swedish gardens since the Middle Ages, covered in blue flowers and insects in July. Eating sage was said to make you wise, and research partly agrees.",
+    "howToEat": "Pick the leaves as needed; they can be dried but the flavour suffers. Classic with fatty food and meat, also good in tomato dishes; lighten it with lemon balm, mint or parsley, or brew a leaf in herbal tea.",
+    "image": "sage.jpg",
+    "imageCredit": {
+      "author": "Kurt Stüber [1]",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salvia_officinalis0.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 10,
+        "max": 20
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 40,
+        "max": 50
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": {
+        "min": -15,
+        "max": -15
+      },
+      "heightCm": {
+        "min": 50,
+        "max": 70
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 436,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "March",
+              "April"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [],
+            "note": "Sow indoors in March or April and keep lightly moist; flowers only from the second year (book p. 437)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Plant out after the frost risk, from about 20 May in Stockholm (book p. 437)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves as needed (book p. 438)."
+          }
+        ]
+      },
+      {
+        "start": "plants",
+        "difficulty": "easy",
+        "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Buy plants or root cuttings; the only option for coloured-leaf varieties (book p. 437-438)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves as needed (book p. 438)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Caraway",
+    "swedishName": "Kummin",
+    "scientificName": "Carum carvi",
+    "variety": null,
+    "family": "Apiaceae",
+    "lifecycle": "annual",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🌾"
+    ],
+    "notes": [
+      "Biennial: a leaf rosette the first year, pinkish-white flowers and seed in early summer of the second.",
+      "Wants sun and fertile, humus-rich, light soil; thin, water in drought and keep weeds down."
+    ],
+    "description": "A biennial once exported in barrels from southern Sweden and still found wild on dry meadows in Sweden. Wild plants are easy to confuse with the very poisonous cowbane, which is taller and has red-flecked stems.",
+    "howToEat": "Mostly seeds, plus young leaves: young fresh leaves go in salads, and the seeds flavour bread, aquavit, goulash and bean or vegetable dishes. If you forage it wild, beware of mixing it up with the very poisonous cowbane.",
+    "image": "caraway.jpg",
+    "imageCredit": {
+      "author": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carum_carvi_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-172.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 12,
+        "max": 16
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 20,
+        "max": 20
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 60,
+        "max": 80
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 438,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "regular",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "April",
+              "May"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Sow direct once the soil is workable (book p. 439)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "July",
+              "August"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "In year two, cut the seed heads when the capsules turn grey-brown but before they open, then dry (book p. 439)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Lavender",
+    "swedishName": "Lavendel",
+    "scientificName": "Lavandula angustifolia",
+    "variety": null,
+    "family": "Lamiaceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "bush",
+    "icon": [
+      "💜"
+    ],
+    "notes": [
+      "Needs sun and light, very porous, well-drained soil; also thrives in a pot.",
+      "Prune by about half every spring, since it quickly turns woody.",
+      "Space 20 cm for a hedge, 40 cm otherwise; not hardy in northern Sweden."
+    ],
+    "description": "A woody Mediterranean sub-shrub whose whole plant contains lavender oil, mostly in the flowers. It makes a fragrant low hedge loved by butterflies and bumblebees.",
+    "howToEat": "Flowers and leaves are used, and the flowers smell best in bud. Dried flowers flavour sweet bakes, marmalade, ice cream and tea; fresh flowers garnish desserts.",
+    "image": "lavender.jpg",
+    "imageCredit": {
+      "author": "Andrey Butko",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lavandula_angustifolia_in_Sedovo_1.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 15,
+        "max": 25
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 20,
+        "max": 40
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 40,
+        "max": 60
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 440,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "plants",
+        "difficulty": "easy",
+        "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Buying plants is easiest; cuttings also work (book p. 440)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Leaves and flowers all summer; flowers finest in bud, dry in bunches (book p. 440)."
+          }
+        ]
+      },
+      {
+        "start": "seed",
+        "difficulty": "challenging",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "October"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Sow in autumn in a seed tray covered with fleece and left outside all winter; expect only a few seedlings in spring, and hybrids won't come true (book p. 440)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Plant out the spring seedlings (book p. 440)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "July",
+              "August"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Light harvest once plants are established (book p. 440)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Lovage",
+    "swedishName": "Libbsticka",
+    "scientificName": "Levisticum officinale",
+    "variety": null,
+    "family": "Apiaceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🍲"
+    ],
+    "notes": [
+      "Plant in well-drained, moist, fertile soil in sun or part shade; yellowing usually means too little water.",
+      "Cut the whole plant down after flowering and it soon becomes neat and compact again; divide to get more.",
+      "Attracts parasitic wasps whose larvae eat aphids and other pests."
+    ],
+    "description": "A robust, head-high perennial that grows far north and tastes exactly like stock, because stock is flavoured with it.",
+    "howToEat": "The leaves are used, fresh or dried, in soups, marinades and stews, and they freeze well. Pick in spring and early summer before the flowers come.",
+    "image": "lovage.jpg",
+    "imageCredit": {
+      "author": "4028mdk09",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liebst%C3%B6ckel.JPG"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 15,
+        "max": 30
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 60,
+        "max": 80
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 150,
+        "max": 200
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 442,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "plants",
+        "difficulty": "easy",
+        "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Plant a bought plant or a division (book p. 442)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "May",
+              "June",
+              "July"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves in spring and early summer before flowering (book p. 442)."
+          }
+        ]
+      },
+      {
+        "start": "seed",
+        "difficulty": "regular",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "September",
+              "October"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Seed loses viability fast, so sow fresh seed outdoors in autumn; old seed still gives a plant or two (book p. 442)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "May",
+              "June",
+              "July"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves from the following spring (book p. 442)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Wormwood",
+    "swedishName": "Malört",
+    "scientificName": "Artemisia absinthium",
+    "variety": null,
+    "family": "Asteraceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🥃"
+    ],
+    "notes": [
+      "Loves full sun and light, well-drained, lean soil; too much feed turns the leaves green.",
+      "Cut down to 15 cm each spring; renew by division or cuttings after four or five years."
+    ],
+    "description": "A silvery, strongly scented, bitter perennial growing wild in southern Sweden, once used against moths and for stomach complaints. The drier the site, the more silvery the leaves.",
+    "howToEat": "Leaves and flowers flavour vermouth and aquavit: put a top shoot in a bottle of aquavit for three or four days. Warning: wormwood contains thujone, which is poisonous in high doses, so wormwood drinks should not be taken daily.",
+    "image": "wormwood.jpg",
+    "imageCredit": {
+      "author": "David Monniaux",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Artemisia_absinthium_P1210748.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 14,
+        "max": 21
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 40,
+        "max": 40
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 70,
+        "max": 100
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 442,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "April"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [],
+            "note": "Starting indoors in April is safest; direct sowing in May also works (book p. 443)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Plant out when the soil is warm, from late May in Stockholm (book p. 443)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Leaves all summer; flowers as they begin to open; dry in bunches (book p. 443)."
+          }
+        ]
+      },
+      {
+        "start": "plants",
+        "difficulty": "easy",
+        "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Buy plants, or use divisions or cuttings (book p. 443)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Leaves all summer, flowers as they open (book p. 443)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Marjoram",
+    "swedishName": "Mejram",
+    "scientificName": "Origanum majorana",
+    "variety": null,
+    "family": "Lamiaceae",
+    "lifecycle": "annual",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🌿"
+    ],
+    "notes": [
+      "A perennial that isn't hardy here, so grow it as an annual; likes sun and humus-rich, light soil.",
+      "Harvest regularly before flowering to keep it bushy; does well in pots."
+    ],
+    "description": "An oregano relative from India, grown as an annual in Sweden since the late 1500s at a royal castle. Its flowers are tiny, but the buds look like little green cones.",
+    "howToEat": "The leaves are used: pea soup demands marjoram, and it also suits tomato dishes, vegetable stews, pasta and egg dishes. Dry it in bunches.",
+    "image": "marjoram.jpg",
+    "imageCredit": {
+      "author": "H. Zell",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Origanum_majorana_002.JPG"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 12,
+        "max": 18
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 15,
+        "max": 15
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 25,
+        "max": 25
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 444,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "March",
+              "April"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [
+              "grow-lamp"
+            ],
+            "note": "Sow indoors in March or April; seeds germinate in light, so don't cover them, and keep moist (book p. 444)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Plant out once the soil is warm, from late May in Stockholm; direct sowing gives too short a season (book p. 444)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Harvest little and often before it flowers (book p. 444)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Mint",
+    "swedishName": "Mynta",
+    "scientificName": "Mentha",
+    "variety": null,
+    "family": "Lamiaceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🌱"
+    ],
+    "notes": [
+      "Easy in sun or part shade in any well-drained soil that isn't starved; water in drought for big yields.",
+      "Invasive: plant in a bottomless bucket or at the wild edge of the garden.",
+      "Variegated mints are less pushy but more tender and don't always overwinter."
+    ],
+    "description": "Around thirty Mentha species that cross freely, even in your garden, so new hybrids keep appearing. Menthol in the leaves gives the flavour; spearmint, not peppermint, is the great culinary mint worldwide.",
+    "howToEat": "The leaves are used. Spearmint goes in mint sauce, meat and vegetable dishes, Moroccan mint is the tastiest culinary mint, mojito mint is for drinks, and peppermint is for tea and desserts.",
+    "image": "mint.jpg",
+    "imageCredit": {
+      "author": "C T Johansson",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mentha_spicata-IMG_6186.jpg"
+    },
+    "growing": {
+      "germinationDays": null,
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 20,
+        "max": 30
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 15,
+        "max": 80
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 444,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "plants",
+        "difficulty": "easy",
+        "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Buy a plant or take a cutting or a 5 cm root piece covered with a couple of centimetres of soil; most mints are hybrids, so seed is pointless (book p. 445)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "May",
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves whenever you like (book p. 445)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Oregano",
+    "swedishName": "Oregano",
+    "scientificName": "Origanum vulgare",
+    "variety": null,
+    "family": "Lamiaceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🍕"
+    ],
+    "notes": [
+      "Wants a sunny, warm spot in light, well-drained soil that needn't be rich.",
+      "Cut back to 5-7 cm each spring; divide and replant old plants to rejuvenate them.",
+      "Greek oregano has the strongest flavour but is less hardy and doesn't always survive winter."
+    ],
+    "description": "The pizza herb grows wild in Sweden on rocky outcrops and woodland edges, under another Swedish name. It only became a kitchen herb here when pizza culture arrived.",
+    "howToEat": "The leaves are used and keep their flavour when dried. Use in pizza and all kinds of onion, tomato and minced-meat dishes, and with pork and lamb.",
+    "image": "oregano.jpg",
+    "imageCredit": {
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Origanum_vulgare_-_harilik_pune.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 14,
+        "max": 21
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 30,
+        "max": 30
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 30,
+        "max": 60
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 449,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "March",
+              "April"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [],
+            "note": "Sow indoors in March or April; keep lightly moist, never wet; germination is patchy (book p. 449)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Plant out after the frost risk, from about 20 May in Stockholm (book p. 449)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick as needed (book p. 449)."
+          }
+        ]
+      },
+      {
+        "start": "plants",
+        "difficulty": "easy",
+        "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Propagate by root suckers, cuttings or division (book p. 449)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick as needed (book p. 449)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Rosemary",
+    "swedishName": "Rosmarin",
+    "scientificName": "Rosmarinus officinalis",
+    "variety": null,
+    "family": "Lamiaceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "bush",
+    "icon": [
+      "🌲"
+    ],
+    "notes": [
+      "Not hardy in Stockholm: grow in a pot of sandy soil in full sun and water in drought.",
+      "Overwinter indoors somewhere bright and cool, ideally 10-12 °C, and mist against dry indoor air; losses happen.",
+      "The creeping variety Prostrate has survived several winters on the author's Stockholm balcony."
+    ],
+    "description": "Its name means 'dew of the sea'; on Mediterranean shores it becomes a woody, metre-high shrub. Greek students wore rosemary wreaths to sharpen their memory before exams.",
+    "howToEat": "The leaves are used fresh or dried; fresh ones taste stronger. Pair with garlic for lamb, game, pork, chicken and fish, or use in apple cake and marmalades.",
+    "image": "rosemary.jpg",
+    "imageCredit": {
+      "author": "Margalob",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosemary_in_bloom.JPG"
+    },
+    "growing": {
+      "germinationDays": null,
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 30,
+        "max": 30
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 50,
+        "max": 60
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 450,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "plants",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Put the potted plant outside in sun once frost is over, from about 20 May (book p. 451)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves as needed or dry them for winter (book p. 451)."
+          },
+          {
+            "action": "Transplant",
+            "months": [
+              "September",
+              "October"
+            ],
+            "locations": [
+              "conservatory"
+            ],
+            "equipment": [],
+            "note": "Bring the pot in before frost to a bright, cool place, ideally 10-12 °C (book p. 451)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Summer savory",
+    "swedishName": "Sommarkyndel",
+    "scientificName": "Satureja hortensis",
+    "variety": null,
+    "family": "Lamiaceae",
+    "lifecycle": "annual",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🌿"
+    ],
+    "notes": [
+      "Needs full sun and loose soil without much feed; water sparingly but avoid long, extreme drought.",
+      "Gets leggy from too much nitrogen or too little light; regular picking makes it bushier. Grows well in pots."
+    ],
+    "description": "A bushy annual from southern Europe with a slightly peppery taste reminiscent of oregano and thyme. The Romans steeped sprigs in vinegar and probably spread it to northern Europe.",
+    "howToEat": "The leaves are used fresh or dried, traditionally with beans, cabbage and sausage. To harvest the whole plant, pull it just before it flowers.",
+    "image": "summer-savory.jpg",
+    "imageCredit": {
+      "author": "Unknown (see source)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Satureja_hortensis_bgiu.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 7,
+        "max": 9
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 15,
+        "max": 15
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 20,
+        "max": 30
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 451,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "regular",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Sow direct once the soil is warm, mid to late May in Stockholm; cover only 1-2 mm as it germinates in light (book p. 453)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves regularly; take whole plants just before flowering (book p. 453)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Huacatay",
+    "swedishName": "Stinktagetes",
+    "scientificName": "Tagetes minuta",
+    "variety": null,
+    "family": "Asteraceae",
+    "lifecycle": "annual",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🌶️"
+    ],
+    "notes": [
+      "Excellent in the Swedish climate: one plant gives huge leaf yields, but feed it in high summer for the best leaves.",
+      "It never flowers here; sold as Mexican marigold to deter pests and soil nematodes, and it outcompetes weeds."
+    ],
+    "description": "A Peruvian and Mexican herb used like coriander, with a mixed flavour of apple, mint, tarragon, lemon and basil. Many coriander haters love it despite its unflattering Swedish name.",
+    "howToEat": "The leaves are used, mainly in sauces: classic huacatay sauce blends oil, leaves, lime or lemon, chilli and salt. Stuffing fish with lots of leaves is best of all; freeze surplus fresh or blended with oil.",
+    "image": "huacatay.jpg",
+    "imageCredit": {
+      "author": "Forest and Kim Starr",
+      "license": "CC BY 3.0 us",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starr-120608-7386-Tagetes_minuta-flowers-Ulupalakua_Ranch-Maui_(25145434025).jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 8,
+        "max": 14
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 30,
+        "max": 30
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 60,
+        "max": 100
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": true,
+      "bookPage": 453,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "April"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [],
+            "note": "Start indoors in April (book p. 454)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Plant out after the frost risk, from about 20 May in Stockholm (book p. 454)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Harvest in rounds all season and freeze the surplus (book p. 454)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Thyme",
+    "swedishName": "Timjan",
+    "scientificName": "Thymus vulgaris",
+    "variety": null,
+    "family": "Lamiaceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "bush",
+    "icon": [
+      "🌿"
+    ],
+    "notes": [
+      "Needs blazing sun and well-drained, preferably sandy soil; only compost, as too much feed makes plants too weak to overwinter.",
+      "Hates wet; cover with spruce branches or fleece against late-winter swings between sun and frost.",
+      "Divide or resow every three or four years; cuttings also work."
+    ],
+    "description": "Garden thyme is the tallest, bushiest and most productive of about 350 species, a woody evergreen with pale lilac flowers from June to August. It contains thymol, once a big-selling cough remedy.",
+    "howToEat": "The leaves are used fresh or dried. Harvest just as the flowers begin to open and dry the sprigs hanging somewhere dry and shady.",
+    "image": "thyme.jpg",
+    "imageCredit": {
+      "author": "Henry Brisse (upload by user:Abalg)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thymus_vulgaris1.JPG"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 10,
+        "max": 20
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 15,
+        "max": 20
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 25,
+        "max": 30
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 455,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "March",
+              "April"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [],
+            "note": "Sow indoors in March or April and cover very thinly; germinates in about three weeks (book p. 457)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Plant out once the soil is warm, from late May in Stockholm (book p. 457)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Harvest as the flowers begin to open (book p. 457)."
+          }
+        ]
+      },
+      {
+        "start": "plants",
+        "difficulty": "easy",
+        "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Buy plants or use cuttings or divisions; the only way for species other than garden thyme (book p. 457)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Harvest as the flowers begin to open (book p. 457)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Rue",
+    "swedishName": "Vinruta",
+    "scientificName": "Ruta graveolens",
+    "variety": null,
+    "family": "Rutaceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "herbaceous",
+    "icon": [
+      "🍀"
+    ],
+    "notes": [
+      "Sun or light shade in light, well-drained soil; drought-tolerant and needs only a little compost.",
+      "Cut back in spring for fresh leaves; divide only after about ten years.",
+      "Handling it in sunshine or wet weather can cause burn-like skin irritation."
+    ],
+    "description": "A Mediterranean herb with blue-green, clover-like leaves and airy yellow flowers. Medieval monks were prescribed it to dampen their libido.",
+    "howToEat": "Use the fresh leaves sparingly for their biting taste, in dressings, marinades, fish, cheese and egg dishes, or snipped over potato salad. Warning: touching the leaves in sun or when wet can cause burn-like skin irritation, so handle only when dry and out of the sun.",
+    "image": "rue.jpg",
+    "imageCredit": {
+      "author": "Plenuska",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Die_Weinraute,_lat._Ruta_graveolens,_Pflanze_mit_den_gelben_Bl%C3%BCten.jpg"
+    },
+    "growing": {
+      "germinationDays": {
+        "min": 10,
+        "max": 15
+      },
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 35,
+        "max": 40
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 50,
+        "max": 60
+      },
+      "swedishZones": null,
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 458,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "seed",
+        "difficulty": "effort",
+        "events": [
+          {
+            "action": "Sow",
+            "months": [
+              "March",
+              "April"
+            ],
+            "locations": [
+              "house"
+            ],
+            "equipment": [],
+            "note": "Sow indoors in March or April; flowers the year after sowing (book p. 458, 460)."
+          },
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Plant out once the soil is warm, from late May in Stockholm (book p. 458)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves as needed and use fresh (book p. 460)."
+          }
+        ]
+      },
+      {
+        "start": "plants",
+        "difficulty": "easy",
+        "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Buy a plant in spring or take cuttings (book p. 458, 460)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves as needed and use fresh (book p. 460)."
+          }
+        ]
+      }
+    ],
+    "recommendedVarieties": []
+  },
+  {
+    "name": "Southernwood",
+    "swedishName": "Åbrodd",
+    "scientificName": "Artemisia abrotanum",
+    "variety": null,
+    "family": "Asteraceae",
+    "lifecycle": "perennial",
+    "category": "herb",
+    "form": "bush",
+    "icon": [
+      "🌿"
+    ],
+    "notes": [
+      "Hardy to at least zone 5; plant in sun or light shade in porous, well-drained soil with no feeding.",
+      "Cut back every spring but not into the old wood; divide when woody and scruffy. Can be clipped into a hedge."
+    ],
+    "description": "A woody, bushy scent plant with grey-green, dill-like leaves smelling sweeter and more lemony than its relatives wormwood and tarragon. It was a staple of church posies sniffed during sermons.",
+    "howToEat": "Not much of a kitchen herb: the leaves can flavour aquavit, or baked goods as the French do.",
+    "image": "southernwood.jpg",
+    "imageCredit": {
+      "author": "Kurt Stüber [1]",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Artemisia_abrotanum0.jpg"
+    },
+    "growing": {
+      "germinationDays": null,
+      "minGerminationTempC": null,
+      "plantSpacingCm": {
+        "min": 50,
+        "max": 60
+      },
+      "rowSpacingCm": null,
+      "daysToHarvest": null,
+      "survivesDownToC": null,
+      "heightCm": {
+        "min": 70,
+        "max": 70
+      },
+      "swedishZones": {
+        "min": 1,
+        "max": 5
+      },
+      "goodIntercrop": false,
+      "sowInRounds": false,
+      "cutAndComeAgain": false,
+      "bookPage": 460,
+      "otherSource": null
+    },
+    "methods": [
+      {
+        "start": "plants",
+        "difficulty": "easy",
+        "events": [
+          {
+            "action": "Plant in ground",
+            "months": [
+              "May",
+              "June"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Seed is hard; root a 10 cm top-shoot cutting, which roots within days (book p. 460)."
+          },
+          {
+            "action": "Harvest",
+            "months": [
+              "June",
+              "July",
+              "August",
+              "September"
+            ],
+            "locations": [
+              "outside"
+            ],
+            "equipment": [],
+            "note": "Pick leaves as needed."
           }
         ]
       }
