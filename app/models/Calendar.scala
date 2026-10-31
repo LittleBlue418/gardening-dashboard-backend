@@ -3,6 +3,7 @@ package models
 import java.util.Date
 import org.mongodb.scala.bson.ObjectId
 import play.api.libs.json._
+import models.plant.Plant
 
 case class CalendarItem(
     _id: ObjectId = new ObjectId(),

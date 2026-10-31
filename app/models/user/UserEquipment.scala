@@ -1,7 +1,8 @@
 package models
-package usergrowsettings
+package user
 
 import play.api.libs.json._
+import models.common._
 
 // A piece of kit the user owns, and the locations they use it in.
 case class UserEquipment(

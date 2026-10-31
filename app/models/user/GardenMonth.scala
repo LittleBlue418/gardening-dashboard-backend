@@ -1,7 +1,9 @@
 package models
+package user
 
 import org.mongodb.scala.bson.ObjectId
 import play.api.libs.json._
+import models.common._
 
 // One month of the garden year for one user: a short summary and the jobs to do.
 // One row per (userId, month). Plant sowing/harvest timing lives on Plant.methods (each method's events), not here.

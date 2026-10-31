@@ -3,7 +3,7 @@ package services
 import com.google.inject.{Inject, Singleton}
 import repositories.UserRepository
 import scala.concurrent.{ExecutionContext, Future}
-import models.User
+import models.user.User
 
 @Singleton 
 class AuthService @Inject() (userRepository: UserRepository)(implicit ec: ExecutionContext){

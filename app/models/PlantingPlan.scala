@@ -2,6 +2,8 @@ package models
 
 import org.mongodb.scala.bson.ObjectId
 import play.api.libs.json._
+import models.common.MonthName
+import models.plant.{Plant, PlantingAction}
 
 case class PlantingPlanPlant(
     _id: ObjectId = new ObjectId(),

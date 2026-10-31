@@ -1,7 +1,9 @@
 package models
+package plant
 
 import org.mongodb.scala.bson.ObjectId
 import play.api.libs.json._
+import models.common._
 
 // A plant and its year. Each growing method (seed, sets, ...) has its own events: every sowing, planting and harvest is one event.
 case class Plant(
