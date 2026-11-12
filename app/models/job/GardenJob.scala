@@ -1,7 +1,6 @@
 package models
 package job
 
-import org.mongodb.scala.bson.ObjectId
 import play.api.libs.json._
 import models.common._
 
@@ -10,11 +9,11 @@ import models.common._
 // everyone; otherwise only to users growing one of those plants. A job with a location only shows for
 // users who have that location (e.g. greenhouse jobs).
 case class GardenJob(
-    _id: ObjectId = new ObjectId(),
+    _id: Id = Id.generate(),
     task: String, // one short English sentence, e.g. "Dig heavy clay soil in autumn."
     months: List[MonthName],
     category: JobCategory,
-    plantIds: List[ObjectId], // Plant._id; empty = a general job
+    plantIds: List[Id], // Plant._id; empty = a general job
     location: Option[Location], // where it happens; None = anywhere (planning, tools)
     bookPage: Option[Int], // set when the job comes from the book...
     otherSource: Option[String], // ...or this, when it doesn't

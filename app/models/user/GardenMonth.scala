@@ -1,7 +1,6 @@
 package models
 package user
 
-import org.mongodb.scala.bson.ObjectId
 import play.api.libs.json._
 import models.common._
 
@@ -9,8 +8,8 @@ import models.common._
 // One row per (userId, month). Plant sowing/harvest timing lives on Plant.methods (each method's events), and
 // recurring garden jobs in the shared GardenJob catalogue; neither is stored here.
 case class GardenMonth(
-    _id: ObjectId = new ObjectId(),
-    userId: ObjectId, // User._id
+    _id: Id = Id.generate(),
+    userId: Id, // User._id
     month: MonthName,
     summary: String,
     tasks: List[String], // the user's own extra jobs for this month (plain text); shared jobs are GardenJob

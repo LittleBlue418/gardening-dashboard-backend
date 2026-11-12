@@ -9,8 +9,6 @@ scalaVersion := "3.3.4"
 
 libraryDependencies ++= Seq(
   guice,
-  ws, // WebService client for making HTTP requests (OAuth needs this)
-  "org.mongodb.scala" %% "mongo-scala-driver" % "5.7.0",
   "org.playframework" %% "play-json" % "3.0.4",
   "org.typelevel" %% "cats-effect" % "3.7.0",
   "com.iheart" %% "ficus" % "1.5.2",

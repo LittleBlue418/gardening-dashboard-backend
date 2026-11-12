@@ -1,12 +1,12 @@
 package models
 
 import java.util.Date
-import org.mongodb.scala.bson.ObjectId
 import play.api.libs.json._
+import models.common.Id
 import models.plant.Plant
 
 case class CalendarItem(
-    _id: ObjectId = new ObjectId(),
+    _id: Id = Id.generate(),
     plant: Plant,
     plannedStart: Date,
     plannedTransplant: Date,
@@ -19,7 +19,7 @@ object CalendarItem {
 }
 
 case class CalendarBedRow(
-    _id: ObjectId = new ObjectId(),
+    _id: Id = Id.generate(),
     bed: Bed,
     slots: List[CalendarItem],
 )
@@ -29,7 +29,7 @@ object CalendarBedRow {
 }
 
 case class CalendarYear(
-    _id: ObjectId = new ObjectId(),
+    _id: Id = Id.generate(),
     year: Int,
     seedlingSlots: List[CalendarItem],
     frontGarden: List[CalendarBedRow],

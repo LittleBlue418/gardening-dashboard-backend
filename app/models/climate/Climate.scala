@@ -1,14 +1,13 @@
 package models
 package climate
 
-import org.mongodb.scala.bson.ObjectId
 import play.api.libs.json._
 import models.common._
 
 // The growing climate for one location. One row per location, so a second
 // garden somewhere else is a new row, not a schema change.
 case class Climate(
-    _id: ObjectId = new ObjectId(),
+    _id: Id = Id.generate(),
     location: String,
     hardinessZones: List[HardinessZone],
     lastSpringFrost: FrostDate,

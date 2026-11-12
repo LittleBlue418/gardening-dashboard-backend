@@ -8,3 +8,21 @@ GET     /                           controllers.HomeController.index()
 
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+
+# ---------- Dashboard API (JSON) ----------
+# Shared data
+GET     /api/plants                         controllers.api.ApiController.listPlants(category: Option[String], foragable: Option[Boolean])
+GET     /api/plants/:id                     controllers.api.ApiController.getPlant(id: String)
+GET     /api/climates/:id                   controllers.api.ApiController.getClimate(id: String)
+GET     /api/jobs                           controllers.api.ApiController.listJobs(month: Option[String])
+GET     /api/action-colours                 controllers.api.ApiController.listActionColours
+
+# The current user (X-User-Id header)
+GET     /api/me                             controllers.api.ApiController.me
+GET     /api/me/grow-settings               controllers.api.ApiController.myGrowSettings
+GET     /api/me/climate                     controllers.api.ApiController.myClimate
+GET     /api/me/garden-months               controllers.api.ApiController.myGardenMonths
+PUT     /api/me/saved-plants/:plantId       controllers.api.ApiController.savePlant(plantId: String)
+DELETE  /api/me/saved-plants/:plantId       controllers.api.ApiController.removePlant(plantId: String)
+PUT     /api/me/selected-plants/:plantId    controllers.api.ApiController.selectPlant(plantId: String)
+DELETE  /api/me/selected-plants/:plantId    controllers.api.ApiController.unselectPlant(plantId: String)

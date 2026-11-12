@@ -1,12 +1,11 @@
 package models
 
-import org.mongodb.scala.bson.ObjectId
 import play.api.libs.json._
-import models.common.MonthName
+import models.common.{Id, MonthName}
 import models.plant.{Plant, PlantingAction}
 
 case class PlantingPlanPlant(
-    _id: ObjectId = new ObjectId(),
+    _id: Id = Id.generate(),
     taskTitle: String,
     taskDescription: String,
     plantingAction: PlantingAction,
@@ -19,7 +18,7 @@ object PlantingPlanPlant {
 
 
 case class PlantingPlanTask(
-    _id: ObjectId = new ObjectId(),
+    _id: Id = Id.generate(),
     taskTitle: String,
     taskDescription: String,
     icon: String
@@ -30,7 +29,7 @@ object PlantingPlanTask {
 }
 
 case class PlantingPlanWeek(
-    _id: ObjectId = new ObjectId(),
+    _id: Id = Id.generate(),
     title: String,
     plant: List[PlantingPlanPlant],
     tasks: List[PlantingPlanTask]
@@ -41,7 +40,7 @@ object PlantingPlanWeek {
 }
 
 case class PlantingPlanMonth(
-    _id: ObjectId = new ObjectId(),
+    _id: Id = Id.generate(),
     name: MonthName,
     icon: String,
     notes: List[String],

@@ -1,10 +1,10 @@
 package models
 
-import org.mongodb.scala.bson.ObjectId
 import play.api.libs.json._
+import models.common.Id
 
 case class PlantingRecordYear(
-    _id: ObjectId = new ObjectId(),
+    _id: Id = Id.generate(),
     year: Int,
     notes: List[String],
     months: List[PlantingPlanMonth]

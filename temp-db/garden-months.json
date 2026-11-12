@@ -1,71 +1,83 @@
 [
   {
+    "_id": "e00000000000000000000001",
     "userId": "000000000000000000000001",
     "month": "January",
     "summary": "Deep winter. Eat from stores, plan the year, order seeds.",
     "tasks": []
   },
   {
+    "_id": "e00000000000000000000002",
     "userId": "000000000000000000000001",
     "month": "February",
     "summary": "Still frozen. Chillies, onions and leeks start indoors under lights.",
     "tasks": []
   },
   {
+    "_id": "e00000000000000000000003",
     "userId": "000000000000000000000001",
     "month": "March",
     "summary": "Peak indoor sowing. Snow lingers and beds stay frozen.",
     "tasks": []
   },
   {
+    "_id": "e00000000000000000000004",
     "userId": "000000000000000000000001",
     "month": "April",
     "summary": "Soil thaws from ~20 April. Onion sets, first hardy sowings, chit potatoes.",
     "tasks": []
   },
   {
+    "_id": "e00000000000000000000005",
     "userId": "000000000000000000000001",
     "month": "May",
     "summary": "Plant potatoes. Tender crops go out once frost passes, late May.",
     "tasks": []
   },
   {
+    "_id": "e00000000000000000000006",
     "userId": "000000000000000000000001",
     "month": "June",
     "summary": "Long light, fast growth. Weed, feed, train tomatoes.",
     "tasks": []
   },
   {
+    "_id": "e00000000000000000000007",
     "userId": "000000000000000000000001",
     "month": "July",
     "summary": "Peak season. Water, pick, lift garlic.",
     "tasks": []
   },
   {
+    "_id": "e00000000000000000000008",
     "userId": "000000000000000000000001",
     "month": "August",
     "summary": "Main harvest. Sow green manure, order autumn sets.",
     "tasks": []
   },
   {
+    "_id": "e00000000000000000000009",
     "userId": "000000000000000000000001",
     "month": "September",
     "summary": "First frosts from ~20 Sept. Plant garlic, harvest and cure for storage.",
     "tasks": []
   },
   {
+    "_id": "e0000000000000000000000a",
     "userId": "000000000000000000000001",
     "month": "October",
     "summary": "Clear and mulch beds; store the last crops before the freeze.",
     "tasks": []
   },
   {
+    "_id": "e0000000000000000000000b",
     "userId": "000000000000000000000001",
     "month": "November",
     "summary": "Hard frosts begin. Greenhouse empty, garden put to bed.",
     "tasks": []
   },
   {
+    "_id": "e0000000000000000000000c",
     "userId": "000000000000000000000001",
     "month": "December",
     "summary": "Dark and frozen. Eat from stores, plan next year, dream of seeds.",

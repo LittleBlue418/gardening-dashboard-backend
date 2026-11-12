@@ -1,11 +1,11 @@
 package models
 package user
 
-import org.mongodb.scala.bson.ObjectId
 import play.api.libs.json._
+import models.common.Id
 
 case class ToDoItem(
-    _id: ObjectId = new ObjectId(),
+    _id: Id = Id.generate(),
     userId: String,
     title: String,
     done: Boolean,
