@@ -1,66 +1,24 @@
-# Gardening Dashboard Backend
+# Gardening Dashboard: backend
 
-A Scala backend built with Play Framework and MongoDB to support the [Gardening Dashboard](../gardening-dashboard) Vue.js frontend.
+Scala 3 + Play JSON API for the gardening dashboard. Data lives in JSON files in `temp-db/` for now (a real
+database comes later).
 
-## Tech Stack
+## Run
 
-- **Framework:** Play Framework (Scala)
-- **Database:** MongoDB Atlas
-- **Authentication:** Google OAuth 2.0
-- **Build Tool:** SBT
+From the repo root: `npm run start:all` (finds a JDK, starts the API on http://localhost:7710).
 
-## Project Status
+Tests: `sbt test` (needs `JAVA_HOME`, e.g. `export JAVA_HOME=/opt/homebrew/opt/openjdk@25`).
 
-🚧 **In Development** - Phase 1: Task Completion API
+## Structure
 
-## Quick Start
-
-```bash
-# Start the backend server
-sbt run
-
-# Server runs on http://localhost:9000
-```
-
-## Implementation Plan
-
-📋 See [IMPLEMENTATION_PLAN.md](./IMPLEMENTATION_PLAN.md) for the complete step-by-step guide.
-
-**Phase 1 Scope:**
-- Google OAuth authentication
-- Task completion API (replaces localStorage)
-- MongoDB integration
-- CORS setup for frontend integration
-
-## Project Structure
+Each folder has one responsibility:
 
 ```
 app/
-├── controllers/      # API endpoints
-├── models/          # Domain models (User, TaskCompletion)
-├── repositories/    # MongoDB data access layer
-└── services/        # Business logic (AuthService)
-conf/
-├── application.conf # Configuration
-└── routes          # API routes
-build.sbt           # Dependencies
-test/               # Tests
+├── controllers/    # HTTP layer: the /api routes (conf/routes)
+├── services/       # Business logic (e.g. MyPlantsService: selected plants ⊆ saved plants)
+├── repositories/   # Data access (JSON files in temp-db/)
+└── models/         # Domain models: the source of truth for all data types
 ```
 
-## Related Projects
-
-- **Frontend:** [../gardening-dashboard](../gardening-dashboard)
-- **Data Schema:** See IMPLEMENTATION_PLAN.md for MongoDB collections
-
-## Learning Goals
-
-This project is designed to teach:
-- Scala web development with Play Framework
-- MongoDB with the Scala driver
-- OAuth 2.0 authentication flow
-- RESTful API design
-- Full-stack integration
-
----
-
-*See IMPLEMENTATION_PLAN.md for detailed setup instructions and code examples.*
+`image-db/` holds plant photos from a private, watermarked book. It is gitignored: never commit or share it.
