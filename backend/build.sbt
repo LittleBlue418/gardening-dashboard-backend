@@ -7,6 +7,10 @@ lazy val root = (project in file(".")).enablePlugins(PlayScala)
 
 scalaVersion := "3.3.4"
 
+// Dev server port for `sbt run`. Not Play's default 9000, which clashes with work services.
+// The frontend dev server (port 7711) proxies /api here.
+PlayKeys.playDefaultPort := 7710
+
 libraryDependencies ++= Seq(
   guice,
   "org.playframework" %% "play-json" % "3.0.4",

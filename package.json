@@ -1,0 +1,8 @@
+{
+  "name": "gardening-dashboard",
+  "private": true,
+  "description": "Gardening dashboard: Scala backend + Vue frontend. Commands for running both live here.",
+  "scripts": {
+    "start:all": "./dev.sh"
+  }
+}

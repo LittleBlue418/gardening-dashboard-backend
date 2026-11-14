@@ -1,0 +1,4 @@
+# Editor + tool caches (Metals makes .metals/ when VS Code opens this folder)
+.metals/
+.vscode/
+.DS_Store
